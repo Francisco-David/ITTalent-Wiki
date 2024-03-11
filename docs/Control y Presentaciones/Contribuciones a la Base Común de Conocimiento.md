@@ -1,5 +1,4 @@
-﻿#
-**Contribuciones a la base de conocimiento común**
+﻿# Contribuciones a la base de conocimiento común
 
 **Ingeniería del Software y Práctica Profesional - Universidad de Sevilla**
 
