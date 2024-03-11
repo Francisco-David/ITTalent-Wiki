@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'IT Talent',
   tagline: 'Los expertos IT que necesitas.',
   url: 'https://francisco-david.github.io', // Update this to your GitHub Pages URL
-  baseUrl: '/ITTalent-Wiki/', // Update this to the base URL of your site, relative to the domain
+  baseUrl: '/', // Update this to the base URL of your site, relative to the domain
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
