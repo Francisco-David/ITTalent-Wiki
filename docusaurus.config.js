@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'IT Talent',
   tagline: 'Los expertos IT que necesitas.',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://francisco-david.github.io', // Update this to your GitHub Pages URL
+  baseUrl: '/ITTalent-Wiki/', // Update this to the base URL of your site, relative to the domain
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'IT Talent', // Usually your GitHub org/user name.
-  projectName: 'Wiki', // Usually your repo name.
+  organizationName: 'Francisco-David', // Your GitHub username or organization name
+  projectName: 'ITTalent-Wiki', // Your GitHub repository name
 
   presets: [
     [
