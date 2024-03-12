@@ -1,5 +1,4 @@
-﻿#
-<a name="_x0ol9ac5ou8t"></a><a name="_ebgmx8b5zfn6"></a>**Análisis de competidores en el mercado**
+﻿# Análisis de competidores en el mercado
 
 <a name="_576gf9ppazqt"></a>**Ingeniería del Software y Práctica Profesional - Universidad de Sevilla**
 
