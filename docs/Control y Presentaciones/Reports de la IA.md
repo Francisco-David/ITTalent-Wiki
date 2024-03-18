@@ -1,6 +1,9 @@
-﻿# Reports de uso de IA
+﻿<div style={{ display: 'flex' }}>
+  <img src="../../static/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
+  <img src="../../static/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
+</div>
 
-<a name="_576gf9ppazqt"></a>**Ingeniería del Software y Práctica Profesional - Universidad de Sevilla**
+## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
 
 BERMEJO SORIA, CARLOS
 
@@ -31,10 +34,14 @@ OTERO BARBASÁN, MANUEL
 VILAPLANA DE TRÍAS, FRANCISCO DAVID
 
 ZARZUELA REINA, CARLOS
-# <a name="_pg8quxt9d0oa"></a>**Sevilla, Enero 2024**
 
-# <a name="_1c0z70cedazh"></a>
-# <a name="_z05qqri5g3tk"></a>Control de Versiones
+
+
+### Entregable: S1
+### Grupo 01 (Mañana) - IT Talent
+
+
+###  <a name="_z05qqri5g3tk"></a>Control de Versiones
 
 
 |**Versión**|**Fecha**|**Autor**|**Cambios**|
@@ -76,7 +83,7 @@ ZARZUELA REINA, CARLOS
 
 
 
-1. # <a name="_a7sktcw3oobp"></a> Guía de Prompts
+ # 1. <a name="_a7sktcw3oobp"></a> Guía de Prompts
 Para un uso más sencillo y colaborativo de las herramientas, haremos una guía donde estén **los prompts de interés o que puedan servir a cualquier integrante del proyecto**, en los que se describirán contextos para el desarrollo del producto.
 
 ## <a name="_2a57xou8c1ul"></a>**Contexto General del proyecto**

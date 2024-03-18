@@ -1,6 +1,9 @@
-﻿# Políticas de equipo
+﻿<div style={{ display: 'flex' }}>
+  <img src="../../static/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
+  <img src="../../static/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
+</div>
 
-<a name="_576gf9ppazqt"></a>**Ingeniería del Software y Práctica Profesional - Universidad de Sevilla**
+## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
 
 BERMEJO SORIA, CARLOS
 
@@ -31,12 +34,14 @@ OTERO BARBASÁN, MANUEL
 VILAPLANA DE TRÍAS, FRANCISCO DAVID
 
 ZARZUELA REINA, CARLOS
-# <a name="_dwqs0308cid"></a>**Sevilla, Febrero 2024**
 
-# <a name="_1c0z70cedazh"></a>
 
-# <a name="_z05qqri5g3tk"></a>Control de Versiones
 
+### Entregable: S1
+### Grupo 01 (Mañana) - IT Talent
+
+
+###  <a name="_z05qqri5g3tk"></a>Control de Versiones
 
 |**Versión**|**Fecha**|**Autor**|**Cambios**|
 | :- | :- | :- | :- |

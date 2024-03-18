@@ -1,6 +1,9 @@
-﻿# Almacenamiento de bases de conocimiento y comunicaciones
+﻿<div style={{ display: 'flex' }}>
+  <img src="../../static/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
+  <img src="../../static/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
+</div>
 
-<a name="_576gf9ppazqt"></a>**Ingeniería del Software y Práctica Profesional - Universidad de Sevilla**
+## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
 
 BERMEJO SORIA, CARLOS
 
@@ -31,9 +34,14 @@ OTERO BARBASÁN, MANUEL
 VILAPLANA DE TRÍAS, FRANCISCO DAVID
 
 ZARZUELA REINA, CARLOS
-# <a name="_pg8quxt9d0oa"></a>**Sevilla, Febrero 2024**
-# <a name="_z05qqri5g3tk"></a>Control de Versiones
 
+
+
+### Entregable: S1
+### Grupo 01 (Mañana) - IT Talent
+
+
+###  <a name="_z05qqri5g3tk"></a>Control de Versiones
 
 |**Versión**|**Fecha**|**Autor**|**Cambios**|
 | :- | :- | :- | :- |
@@ -50,27 +58,27 @@ Este documento está destinado a cumplir los siguientes objetivos:
 
 # <a name="_1fob9te"></a>
 # <a name="_9j8c07fxd5sy"></a>Índice
-[**1. Almacenamiento de bases de conocimiento**	](#_3znysh7)**5****
+[1. Almacenamiento de bases de conocimiento](#_3znysh7)
 
-[1.1. Github	](#_2et92p0)5
+[1.1. Github	](#_2et92p0)
 
-[Resumen	](#_vdxyxtj6279f)5
+[Resumen	](#_vdxyxtj6279f)
 
-[1.2. Google Drive	](#_tyjcwt)5
+[1.2. Google Drive	](#_tyjcwt)
 
-[Resumen	](#_3eefzf7wraer)5
+[Resumen	](#_3eefzf7wraer)
 
-[**2. Comunicación**	](#_c4wbdg2rka12)**5**
+[2. Comunicación](#_c4wbdg2rka12)
 
-[2.1. Comunicación interna:	](#_re4ogigp6xzq)5
+[2.1. Comunicación interna:	](#_re4ogigp6xzq)
 
-[● Whatsapp:	](#_t25p2ybzg9o6)6
+[● Whatsapp:	](#_t25p2ybzg9o6)
 
-[● Discord:	](#_84t3uif5lwpq)6
+[● Discord:	](#_84t3uif5lwpq)
 
-[2.1. Comunicación externa:	](#_7gnavsdmhx31)6
+[2.1. Comunicación externa:	](#_7gnavsdmhx31)
 
-[● Presentaciones y feedback presencial:	](#_4t00ixuyhgmg)6
+[● Presentaciones y feedback presencial:	](#_4t00ixuyhgmg)
 
 
 

@@ -1,7 +1,9 @@
-﻿# Análisis de costes del proyecto
+﻿<div style={{ display: 'flex' }}>
+  <img src="../../static/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
+  <img src="../../static/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
+</div>
 
-<a name="_576gf9ppazqt"></a>**Ingeniería del Software y Práctica Profesional - Universidad de Sevilla**
-
+## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
 
 BERMEJO SORIA, CARLOS
 
@@ -32,7 +34,13 @@ OTERO BARBASÁN, MANUEL
 VILAPLANA DE TRÍAS, FRANCISCO DAVID
 
 ZARZUELA REINA, CARLOS
-# <a name="_pg8quxt9d0oa"></a>**Sevilla, Enero 2024**
+
+
+
+### Entregable: S1
+### Grupo 01 (Mañana) - IT Talent
+
+
 # <a name="_z05qqri5g3tk"></a>Control de Versiones
 
 
@@ -246,19 +254,18 @@ Creo que lo he logrado
 - Una vez que se complete la fase de desarrollo, únicamente se mantendrán dos programadores y un técnico para el soporte técnico.
 
 
-|<h5><a name="_t35hwt4r1rbg"></a>Costes de puesta en marcha</h5>|||||
-| :-: | :- | :- | :- | :- |
+### Costes de puesta en marcha
+
 Son todos los costes previos al desarrollo. Pueden incluir material, licencias de pago único y cualquier gasto que necesitemos para poner en marcha el proyecto.
 
-|**Gasto**|**Unidades**||**Precio por unidad**|<p> </p><p>Total</p>|
-| :- | :- | :- | :- | :- |
+|**Gasto**|**Unidades**|**Precio por unidad**|<p> </p><p>Total</p>|
+| :- | :- | :- | :- |
 |Ordenadores portátiles|15 unidades||400,00€/unidad|6\.000,00 €|
-|**Total**||||**6.000,00 €** |
+|**Total**|||**6.000,00 €** |
 
 
 
-|<h5><a name="_vvewq7jwuq3n"></a>Costes de desarrollo</h5>|||||
-| :-: | :- | :- | :- | :- |
+### Costes de desarrollo
 Son todos los costes necesarios para las 9 semanas de ejecución del proyecto. Pueden incluir suministros, personal y licencias mensuales, entre otras cosas.
 
 |**Tipo de suministro**|**Personas**|<p> </p><p>**Precio del suministro por persona**</p>|<p> </p><p>Total</p>|
@@ -278,10 +285,10 @@ Número de semanas (9) \* Número de personas (15) \* Precio por semana (1,67)
 
 |<p></p><p>**Roles**</p>|**Nº de miembros por cada rol**|**Hora básica de servicio**|**Multiplicador de la hora básica de servicio** |Total|
 | :-: | :-: | :-: | :-: | -: |
-|Gerente de proyecto|1|15€|1,5|2\.025,00 €|
-|Gerente de Equipo|3|15€|1,5|6\.075,00 €|
-|Programador|6|15€|1|8\.100,00 €|
-|Analista|5|15€|1,25|8\.437,50 €|
+|Gerente de proyecto|1|15€|1,5|2\.025,00€|
+|Gerente de Equipo|3|15€|1,5|6\.075,00€|
+|Programador|6|15€|1|8\.100,00€|
+|Analista|5|15€|1,25|8\.437,50€|
 
 Para calcular los costes de personal debemos tener en cuenta lo siguiente (pondremos como ejemplo el rol de gerente de equipo):
 
@@ -294,21 +301,21 @@ Número de horas (90) \* Número de miembros del rol (3) \* hora básica de serv
 Para elegir la licencia de GitHub más conveniente realizamos una estimación de los minutos mensuales que necesitaremos GitHub Actions. Teniendo en cuenta que somos 15 personas, el workflow tardará en ejecutarse no más de dos minutos y no estimamos superar el commit diario por miembro, difícilmente superaremos los 900 minutos y nos quedaremos significativamente lejos del límite de 3000 minutos que ofrece GitHub Pro, lo que nos dará un margen importante en los meses donde la carga de trabajo sea mayor e incluso si el número de miembros del equipo crece con el paso del tiempo.
 
 
-|**Coste total de desarrollo**|**25.196,4 €**|||||
-| :- | -: | :- | :- | :- | :- |
+|**Coste total de desarrollo**|**25.196,4 €**|
+| :- | -: |
 
 
 
 
-|<h5><a name="_y0zmy03no5iy"></a>Costes operativos (por mes)</h5>|||||
-| :-: | :- | :- | :- | :- |
+### Costes operativos (por mes)
+
 Son todos los costes necesarios para mantener el software en funcionamiento una vez que se ha completado el proyecto. Para el cálculo consideraremos que todos los trabajadores han tenido jornadas de 8 horas, 5 días a la semana, durante cuatro semanas; es decir, la condición inicial del mes de mantenimiento es que los trabajadores han trabajado 160 horas cada uno.
 
 
-|<p></p><p>**Roles**</p>|**Nº de miembros por cada rol**|**Hora básica de servicio**|**Número de horas**|Multiplicador de la hora básica de servicio|Coste/mes||Total|
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Equipo de soporte|1|15€|160|1|2\.400,00 €||2\.400,00 €|
-|Programador|2|15€|160|1|2\.400,00 €||4\.800,00 €|
+|<p></p><p>**Roles**</p>|**Nº de miembros por cada rol**|**Hora básica de servicio**|**Número de horas**|Multiplicador de la hora básica de servicio|Coste/mes|Total|
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Equipo de soporte|1|15€|160|1|2\.400,00 €|2\.400,00 €|
+|Programador|2|15€|160|1|2\.400,00 €|4\.800,00 €|
 
 
 |**Tipo de suministro**|**Personas**||<p> </p><p>**Precio del suministro por persona**</p>|<p> </p><p>Total</p>|
@@ -317,28 +324,29 @@ Son todos los costes necesarios para mantener el software en funcionamiento una 
 |Internet|3||1,67 €/semana|20,04 €|
 
 
-|<p></p><p>**Gasto**</p>|Coste/mes||Total|
-| :- | -: | :- | -: |
-|Servidores (AppEngine)|114,67 € ||114,67 €|
-|GitHub Team (3 personas)|3,72 €/persona ||11,16 €|
+|<p></p><p>**Gasto**</p>|Coste/mes|Total|
+| :- | -: | :- |
+|Servidores (AppEngine)|114,67 € |114,67 €|
+|GitHub Team (3 personas)|3,72 €/persona |11,16 €|
 
 
 
-|**Coste total operativo**|**7.404,91 €  / mes**|||||
-| :- | -: | :- | :- | :- | :- |
+|**Coste total operativo**|**7.404,91 €  / mes**|
+| :- | -: |
 
 
 
 Es importante calcular el TCO. Para ello, se deben tener en cuenta todos los costes asociados con el proyecto en su vida útil. Posteriormente se comprobará, en los supuestos planteados al principio, cuántos meses necesitaríamos para recuperar la inversión.
 
 
-|<h5><a name="_pfv5o172w9dw"></a>Cálculo del Coste Total de Propiedad (TCO) después de un mes</h5>|||
-| :- | :- | :- |
-|**Tipo de coste**||<p> </p><p>Total</p>|
-|Puesta en marcha||6\.000,00 €|
-|Desarrollo||25\.196,4 €|
-|Mantenimiento||7\.404,91 €|
-|**Total**||**38.601,31 €**|
+### Cálculo del Coste Total de Propiedad (TCO) después de un mes
+
+| :- | :- |
+|**Tipo de coste**|<p> </p><p>Total</p>|
+|Puesta en marcha|6\.000,00 €|
+|Desarrollo|25\.196,4 €|
+|Mantenimiento|7\.404,91 €|
+|**Total**|**38.601,31 €**|
 
 
 Si elegimos tener un colchón para imprevistos del 15%, el TCO final sería de
@@ -355,22 +363,22 @@ De entre todos los costes, es importante distinguir entre CAPEX y OPEX:
 **CAPEX** son todos aquellos fondos de una empresa que representan una inversión. Todos estos están enfocados en invertir hacia el crecimiento de la compañía.
 
 
-|**CAPEX**||<p> </p><p>Total</p>|
-| :- | :- | :- |
-|Ordenadores portátiles||6\.000,00 €|
-|**Total**||**6.000,00 €**|
+|**CAPEX**|<p> </p><p>Total</p>|
+| :- | :- |
+|Ordenadores portátiles|6\.000,00 €|
+|**Total**|**6.000,00 €**|
 
 
 **OPEX** son desembolsos del día a día que se requieren para que la empresa funcione.
 
-|**OPEX**||<p> </p><p>Total</p>|
-| :- | :- | :- |
-|Luz||225,09 €|
-|Internet||245,49 €|
-|Costes de personal||31\.837,50 €|
-|Licencias mensuales||178,56 €|
-|Servidores||114,67 €|
-|**Total**||**32.601,31 €**|
+|**OPEX**|<p> </p><p>Total</p>|
+| :- | :- |
+|Luz|225,09 €|
+|Internet|245,49 €|
+|Costes de personal|31\.837,50 €|
+|Licencias mensuales|178,56 €|
+|Servidores|114,67 €|
+|**Total**|**32.601,31 €**|
 
 
 Un aumento en el número de usuarios no afectaría demasiado a nuestra estimación, excepto si es tan grande que necesitamos contratar a más técnicos de soporte. En cualquier caso, en el escenario en el que se plantearía la necesidad de contratar más personal (optimista), los ingresos adicionales por suscripciones lo compensarán.
@@ -461,8 +469,7 @@ Las medidas dependen en gran medida del motivo por el que se haya producido el a
 <a name="_dr9g3k9t07nj"></a>Se han planteado dos modelos de negocio, enfocados a las empresas que buscan candidatos y a los candidatos que buscan trabajo:
 
 
-|<h5><a name="_tgj66a4xfzrz"></a>Empresas</h5>|||||
-| :-: | :- | :- | :- | :- |
+### Empresas
 
 La monetización seguirá un modelo de **suscripción mensual**, y se ha llegado a esta conclusión tras un análisis de mercado y tras sopesar otras opciones como la **venta de licencias** y el uso de **créditos de API**. Creemos que este último modelo de monetización puede ser poco intuitivo para los usuarios. La venta de licencias se mantiene como una opción secundaria, pero creemos que la suscripción puede resultar más cómoda para el usuario, al ofrecer diferentes posibilidades. Generalmente, cuando se vende un producto, las únicas opciones que tiene el usuario son comprarlo o no. Al darle más opciones fomentamos que el usuario compare y le preste más atención a las características que ofrecemos.
 
@@ -484,8 +491,7 @@ El **plan avanzado** supera con creces las características ofrecidas por el pla
 <a name="_1jxn965wpu9p"></a>El **plan personalizado** tiene el objetivo de que las empresas contacten con nuestro equipo para negociar un plan que se ajuste a sus necesidades concretas. Creemos que será un escenario común, puesto que ofrecemos varias cosas diferentes y, en lugar de elegir un plan intermedio con características impuestas, muchas empresas querrán seleccionar qué características de entre las disponibles necesitan.
 
 
-|<h5><a name="_5ol0mjrnt5fj"></a>Candidatos</h5>|||||
-| :-: | :- | :- | :- | :- |
+### Candidatos
 
 <a name="_338zni17mmep"></a><a name="_cxpv4jjgbymn"></a>La monetización seguirá un modelo de **suscripción mensual**, y se ha llegado a esta conclusión por motivos similares al caso anterior. Al igual que con las empresas, creemos que la **mensualidad** es adecuada, ya que el objetivo del candidato al utilizar la aplicación es buscar empleo, y difícilmente pagará una anualidad si existe la posibilidad de que encuentre empleo mucho antes. Al no ofrecer funcionalidades que no tengan relación con la  búsqueda de empleo, es natural que el usuario deje de pagar cuando encuentre uno.
 

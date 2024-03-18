@@ -1,6 +1,9 @@
-﻿# Contribuciones a la base de conocimiento común
+﻿<div style={{ display: 'flex' }}>
+  <img src="../../static/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
+  <img src="../../static/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
+</div>
 
-**Ingeniería del Software y Práctica Profesional - Universidad de Sevilla**
+## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
 
 BERMEJO SORIA, CARLOS
 
@@ -31,7 +34,12 @@ OTERO BARBASÁN, MANUEL
 VILAPLANA DE TRÍAS, FRANCISCO DAVID
 
 ZARZUELA REINA, CARLOS
-# <a name="_pg8quxt9d0oa"></a>**Sevilla, Enero 2024**
+
+
+
+### Entregable: S1
+### Grupo 01 (Mañana) - IT Talent
+
 
 # <a name="_z05qqri5g3tk"></a>Control de Versiones
 
@@ -63,7 +71,7 @@ En este documento se especifican las contribuciones a la base de conocimientos d
 
 [Semana 4 15](#_89jjyhvougww)
 
-# Contribuciones
+# 1. Contribuciones
 Para las contribuciones se llega a un acuerdo de que cada semana será un grupo el encargado de recoger todo el feedback general de esa sesión y desplegarlo en la página <https://bgcc.vercel.app/>. Pero cada grupo tendrá como encargo semanalmente subir el feedback de su propio grupo, además de revisar el general en busca de posibles carencias en este.
 
 ## Feedback del grupo 1
@@ -291,7 +299,7 @@ En caso de tener problemas en el desarrollo, siempre valorar la posibilidad de m
 
 
 
-1. # <a name="_hdsb3nxfaesu"></a>Acciones de consolidación
+# 2. <a name="_hdsb3nxfaesu"></a>Acciones de consolidación
 Tras recoger el feedback semanal han de ser evaluados y realizar los cambios pertinentes sobre el proyecto, aquí se recogen estos cambios.
 ## <a name="_p67pcua0m0xx"></a>**Semana 1**
 
