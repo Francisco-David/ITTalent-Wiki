@@ -168,6 +168,24 @@ Para las contribuciones se llega a un acuerdo de que cada semana será un grupo 
 1. Realizar un pseudo gantt en la retrospectiva del sprint con las tareas que se han realizado en este.
 1. Incluir documentación en el repositorio o en un docusaurus.
 
+- **Semana 7**
+
+1. Evitar uso de fuentes oscuras sobre fondos oscuros.
+1. En la DEMO hay letras muy pequeñas, por lo que es necesario hacer uso de zoom en el video.
+1. Pensar en usar colores más claros para la DEMO únicamente, manteniendo los colores en la aplicación original.
+1. Storyboards en blanco y negro poniendo en color lo que queramos destacar.
+1. Los presupuestos expuestos están demasiado centrados en el desarrollo.
+1. La grafica del Budget sobra con la otra grafica de costes y beneficios.
+1. Revisitar el tema de las métricas que se está usando para medir el rendimiento. Separar el número de horas en el rendimiento, no confundir con el esfuerzo.
+1. Revisar los usuarios pilotos que no responden y acotar los que sean menos probables.
+1. El elevator pitch debe estar más presente. No solamente como una frase introductoria. (como musclemate, qué ofrecemos nosotros que otros no)
+1. En el storyboard del empresario buscar destacar la característica que nos diferencia (le hagan falta 5 personas para YA con unas especificaciones CONCRETAS).
+1. Dar coherencia a la presentación de manera que si mostramos a unos actores en el storyboard, usarlo como recurso a lo largo de la presentación, en por ejemplo en la demo…
+1. Validar los correos electrónicos mediante alguna API y añadir los costes de esta al Opex (No estoy seguro de que correos se refería, si a los de las empresas o a los usuarios de la aplicación en general).
+1. Hacer gráfica de puntos de historia vs tiempo consumido.
+1. Para medir la eficiencia de los tests, contar en base a los fallos que saltan con estos. También es buena practica poner los fallos a posta para que estos salten.
+1. Capex, costes de desarrollo, mostrar multiplicador por cada rol (sobre la hora de servicio mínima) (Para este parto sobre los comentarios de Müller de Ocial, destacó especialmente esta diapositiva).
+
 
 
 <a name="_tyjcwt"></a>**Feedback general**
