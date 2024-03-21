@@ -50,7 +50,8 @@ ZARZUELA REINA, CARLOS
 |v1.1|13/02/24|Paco|Adición de contenido de la 2a semana|
 |v1.2|20/02/24|Paco|Adición de contenido de la 3a semana|
 |v1.3|27/02/24|Paco|Adición de contenido de la 4a semana|
-|v1.4|05/03/24|Paco|Adición de contenido de la 4a semana|
+|v1.4|05/03/24|Paco|Adición de contenido de la 5a semana|
+|v1.5|21/03/24|Paco|Adición de contenido de la 7a semana|
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
 <a name="_30j0zll"></a>En este documento se recoge todo el feedback semanal recibido por parte de profesores y alumnos el día de la presentación a cada uno de los grupos, el feedback para nuestro equipo y las tareas que no pueden faltar de una semana a otra
@@ -89,6 +90,14 @@ ZARZUELA REINA, CARLOS
 [Consideraciones para IT TALENT	17](#_k9wifui2ze97)
 
 [Tareas - ¿Qué no puede faltar?	18](#_w1wwzt1pmvgj)
+
+[5. Semana 7 (19/03)	](#_3n6nqs3ox56d2)
+
+[Cosas a tener en cuenta	](#_4ki1iznv6aw62)
+
+[Consideraciones para IT TALENT	](#_es35wsm2my6q2)
+
+[Tareas - ¿Qué no puede faltar?	](#_xw8pcxlaup9y2)
 
 
 
@@ -485,7 +494,7 @@ sistema de memoria planteado para minimizar el número de llamadas
 1. Última diapositiva: **QR Landingpage.** Con nuestros **datos de contacto**.
 
 
-1. # <a name="_bwryho14b15v"></a> Semana 5 (5/03)
+# <a name="_bwryho14b15v"></a> Semana 5 (5/03)
 ## <a name="_7pmvecn522oa"></a>**Cosas a tener en cuenta**
 
 1. **Evitar capturas de documentos**, no son legibles al fondo de la clase.
@@ -572,4 +581,92 @@ sistema de memoria planteado para minimizar el número de llamadas
 1. **Uso de IA**
 1. QR **landing page**
 
+# <a name="_3n6nqs3ox56d2"></a> Semana 7 (19/03)
+## <a name="_4ki1iznv6aw62"></a>**Cosas a tener en cuenta**
+
+1. Validar los correos electrónicos mediante alguna API y añadir los costes de esta al Opex.
+1. Storyboards en blanco y negro poniendo en color lo que queramos destacar.
+1. Si se trabaja en horario no lectivo con otros grupos debe ser por previo acuerdo entre ambas partes.
+1. No confundir los acuerdos con los usuarios pilotos con el Customer Agreement, no son lo mismo.
+1. A partir de ahora siempre deben aparecer los términos legales y políticas de usuario.
+1. En las demostraciones no pueden aparecer nombres de ejemplo como “Usuario1” o “admin”.
+1. Si se recorta el alcance se debe justificar, no solo por un “paso de horas” sino por qué se ha dado.
+1. No usar líneas rojas en tablas en la presentación.
+1. Se deben buscar siempre representaciones gráficas para los costes, evitar el uso de tablas en la medida de lo posible.
+1. Los costes de las GActions no pueden faltar nunca en la presentación pero el desglose puede no estar presente.
+1. Se debe saber desarrollar/justificar todas las columnas que aparecen en la tabla del análisis de competidores.
+1. En la universidad se imparten “Lectures” no “Lessons”.
+1. Realizar el desarrollo a partir de mocks para que el frontend pueda trabajar independientemente del backend.
+1. Si es una demo auto explicativa se debe introducir adecuadamente para poner atención desde un principio.
+1. En el storyboard se debe centrar en lo que diferencia del resto de la competencia.
+1. En la presentación debe aparecer una gráfica de puntos de historia vs tiempo consumido.
+1. Para medir la eficiencia de los tests, contar en base a los fallos que saltan con estos. También es buena practica poner los fallos a posta para que estos salten.
+1. No confundir los términos Contrato y Acuerdo, los contratos tienen términos y componentes legales.
+
+
+## <a name="_es35wsm2my6q2"></a>**Consideraciones para IT TALENT**
+- Evitar uso de fuentes oscuras sobre fondos oscuros.
+- En la DEMO hay letras muy pequeñas, por lo que es necesario hacer uso de zoom en el video.
+- Pensar en usar colores más claros para la DEMO únicamente, manteniendo los colores en la aplicación original.
+- Storyboards en blanco y negro poniendo en color lo que queramos destacar.
+- Los presupuestos expuestos están demasiado centrados en el desarrollo.
+- La grafica del Budget sobra con la otra grafica de costes y beneficios.
+- Revisitar el tema de las métricas que se está usando para medir el rendimiento. Separar el número de horas en el rendimiento, no confundir con el esfuerzo.
+- Revisar los usuarios pilotos que no responden y acotar los que sean menos probables.
+- El elevator pitch debe estar más presente. No solamente como una frase introductoria. (como musclemate, qué ofrecemos nosotros que otros no)
+- En el storyboard del empresario buscar destacar la característica que nos diferencia (le hagan falta 5 personas para YA con unas especificaciones CONCRETAS).
+- Dar coherencia a la presentación de manera que si mostramos a unos actores en el storyboard, usarlo como recurso a lo largo de la presentación, en por ejemplo en la demo…
+- Validar los correos electrónicos mediante alguna API y añadir los costes de esta al Opex (No estoy seguro de que correos se refería, si a los de las empresas o a los usuarios de la aplicación en general).
+- Hacer gráfica de puntos de historia vs tiempo consumido.
+- Para medir la eficiencia de los tests, contar en base a los fallos que saltan con estos. También es buena practica poner los fallos a posta para que estos salten.
+- Capex, costes de desarrollo, mostrar multiplicador por cada rol (sobre la hora de servicio mínima) (Para este parto sobre los comentarios de Müller de Ocial, destacó especialmente esta diapositiva).
+
+
+## <a name="_xw8pcxlaup9y2"></a>**Tareas - ¿Qué no puede faltar?**
+
+
+- Hablar del commitment agreement de los usuarios pilotos.
+- Justificar recortes de alcance.
+- Es obligatorio meter en las issues a los encargados de revisión.
+- Hacer números sobre el uso de la IA, si se esta usando: ¿Cuánto tiempo nos está ahorrando? (número de horas), si se dan errores en las consultas ¿Cuántos refinamientos han hecho falta?, ¿El uso repetido te esta formando para ingeniería prompt?...
+- Las mejoras y adiciones sobre el sprint anterior deben estar claras. 
+   - Hacer análisis de los conventional commits para evaluar las mejoras: contar número de fixs…
+- De deben ver ya las pasarelas de pago y que aparezcan los acuerdos.
+- La evolución del opex debe ser no lineal
+- Tener y mostrar un calendario compartido para ver las horas libres para las reuniones.
+
+1. **INTRODUCCIÓN**:
+   1. Killer opener
+   1. Elevator pitch, con un par de frases predefinidas. Recordar que se busca convencer a los inversores.
+   1. Análisis de competidores, centrarnos en las features killer y pasar poco por el resto.
+1. **Storyboards**
+1. **Impacto Legal** del proyecto – **Customer agreement**, GDPR, licencias, aspectos legales...
+1. **COSTES**:
+   1. TCO
+   1. Capex vs Opex
+   1. Costes GActions
+   1. Cuanto llevamos gastado con respecto al Total
+   1. Estimaciones pesimistas, optimistas… Con respecto al número de usuarios
+1. Refinar **estructura de equipo**
+   1. Estado del Commitment Agreement
+1. **DEMO** dinámica** sprint 2 - **Resaltar** que estaba en el S1 y que hemos hecho **nuevo** con el resto feedback; casos de uso corse, historias de usuario, imágenes reales…
+1. **RETROSPECTIVA**:
+   1. Rendimiento del equipo, desarrollando las fórmulas
+   1. ALM (ALM pill)
+   1. Evolución de la calidad del código, Sonar, Codacy… ver incremento y decremento de métricas.
+   1. Gestión de riesgos, riesgos que se han dado, problemas que no eran riesgos: Medidas, métricas, planes…
+   1. Lecciones Aprendidas
+   1. Reloj de avance de proyecto, clockify semanal y global
+1. Gestión de **Usuarios Piloto**.
+   1. **Gestión del feedback** (demostrar que el usuario está siendo escuchado)
+   1. Resumen del feedback proporcionado
+   1. Acciones de consolidación que se han tomado a partir de ese feedback
+   1. Planes con los usuarios piloto para el S3
+   1. Commitment Agreement con los usuarios piotos
+1. Re-estimación del **sprint 3**:
+   1. Justificar si hemos tenido que reducir el alcance
+   1. Objetivos del 2: Sandbox de pago / pasarelas de pago
+   1. ¿Qué queda para el 3er sprint?
+1. **Uso de IA**
+1. QR **landing page**
 
