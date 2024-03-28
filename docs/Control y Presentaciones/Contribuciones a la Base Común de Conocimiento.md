@@ -465,3 +465,19 @@ Durante el transcurso de las últimas dos semanas se toma en cuenta el tiempo de
 
 ## <a name="_b9ljviz0epcb2"></a>**Semana 7**
 
+**Presentación**
+
+Se repasa la presentación para evitar la poca claridad de la fuente con los fondos seleccionados. Se hace uso de zoom para la DEMO ya que la fuente era demasiado pequeña en algunas vistas y hacía que fueran ilegibles. También se pasan los storyboard a blanco y negro siguiendo lo recomendado en la píldora teórica. Se añade una diapositiva de puntos de historia VS tiempo consumido.
+
+**Empresas Piloto**
+
+Se revisan los usuarios piloto (empresas) que se creen menos probable que vayan a contestar y se eliminan de la presentación (estaban como "Pendiente de respuesta").
+
+**Presentador**
+
+Se prepara un Elevator Pitch más claro cohesionandolo con el Killer Opener ya existente. También se hará uso de los actores del killer opener y storyboard para el resto de la presentación con el objetivo de dar una "storyline".
+
+**Aplicación**
+
+Se añade una API al desarrollo para validar los correos electrónicos usados y se añade el coste de esta al Opex.
+
