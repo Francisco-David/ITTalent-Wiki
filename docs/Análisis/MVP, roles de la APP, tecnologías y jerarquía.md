@@ -37,7 +37,7 @@ ZARZUELA REINA, CARLOS
 
 
 
-### Entregable: S1
+### Entregable: S2
 ### Grupo 01 (Mañana) - IT Talent
 
 
