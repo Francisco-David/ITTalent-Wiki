@@ -63,13 +63,19 @@ En este documento se especifican las contribuciones a la base de conocimientos d
 
 [2. Acciones de consolidación 12](#_hdsb3nxfaesu)
 
-[Semana 1 12](#_p67pcua0m0xx)
+[Semana 1 ](#_p67pcua0m0xx)
 
-[Semana 2 12](#_ku3gg0ccc2wk)
+[Semana 2 ](#_ku3gg0ccc2wk)
 
-[Semana 3 14](#_nr1e6pggn0b5)
+[Semana 3 ](#_nr1e6pggn0b5)
 
-[Semana 4 15](#_89jjyhvougww)
+[Semana 4 ](#_89jjyhvougww)
+
+[Semana 5	](#_ap5wyhk4qxqt)
+
+[Semana 6	](#_b9ljviz0epcb)
+
+[Semana 7	](#_b9ljviz0epcb2)
 
 # 1. Contribuciones
 Para las contribuciones se llega a un acuerdo de que cada semana será un grupo el encargado de recoger todo el feedback general de esa sesión y desplegarlo en la página <https://bgcc.vercel.app/>. Pero cada grupo tendrá como encargo semanalmente subir el feedback de su propio grupo, además de revisar el general en busca de posibles carencias en este.
@@ -334,7 +340,7 @@ Se deja claro en el commitment agreement en quién recae la responsabilidad de u
 Se redujo la carga de las diapositivas, aumentando su cantidad y usando un mayor número de referencias simbólicas. Se tuvo en cuenta y se explica ahora la matriz DAFO empezando por Debilidades y Fortalezas, y luego Amenazas y Oportunidades. Nos hicimos fotos con el mismo fondo y pose. Pusimos los costos con un número sin decimales. Se dejó de lanzar preguntas al público sin que estuviera acordado entre ellos.
 
 
-<a name="_ku3gg0ccc2wk"></a>**Semana 2**
+## <a name="_ku3gg0ccc2wk"></a>**Semana 2**
 
 ----------------------------------------
 **Presentador**
@@ -425,4 +431,37 @@ Hemos encontrado nuevos problemas que no suponían riesgos; con los usuarios pil
 **Presentación**
 
 Dejamos reflejado a los responsables de distintas tareas de nuestro proyecto para ejemplificar la metodología de encargo de tareas del equipo.
+
+
+## <a name="_ap5wyhk4qxqt"></a>**Semana 5**
+
+**Código**
+
+Se ha realizado un trabajo más superficial del código reformateo y limpiado en su mayoría.
+
+**Presentación**
+
+Durante esta semana se ha preparado la presentación el coordinador del grupo al no poder nuestro presentador habitual ir a la sesión de retrospectiva. Se habla de las mecánicas, CA, tablas con horas…
+
+
+## <a name="_b9ljviz0epcb"></a>**Semana 6**
+
+**Presentación**
+
+Se trabaja sobre las diapositivas con el feedback que se dió en la última semana y se eliminan unas con capturas ilegibles al fondo de la clase además de algunas faltas ortográficas.
+
+**Costes**
+
+Se eliminan datos que se catalogaron como redundantes, y se buscan estimaciones de costes menos lineares. Se reajustan los costes teniendo en cuenta que seríamos nosotros los encargados de realizar las peticiones a la API. 
+
+**Documentación**
+
+Se pasa toda la documentación a Markdown y se despliega un Docusaurus con esta en <https://it-talent-wiki.vercel.app/> . Se redacta también el Contribute.md y los aspectos legales de nuestra aplicación.
+
+**Gestión del Tiempo**
+
+Durante el transcurso de las últimas dos semanas se toma en cuenta el tiempo de visualización de las píldoras teóricas como “Formación”.
+
+
+## <a name="_b9ljviz0epcb2"></a>**Semana 7**
 
