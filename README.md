@@ -1,5 +1,4 @@
-![Imagen 1](/img/TalentLOGO.png)
-![Imagen 2](/img/USLOGO.png)
+![Imagen 1](/static/img/TalentLOGO.png)
 
 # IT Talent
 
