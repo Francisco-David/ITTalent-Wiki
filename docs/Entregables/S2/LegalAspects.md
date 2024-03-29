@@ -1,4 +1,21 @@
-# Análisis sobre los aspectos legales que afectan a IT Talent
+<div style={{ display: 'flex' }}>
+  <img src="/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
+  <img src="/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
+</div>
+
+## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
+
+
+LÓPEZ MOYANO, ROCÍO         - Creación
+
+MATEOS GÓMEZ, FERNANDO JOSÉ - Edición
+
+
+
+### Entregable: S2
+### Grupo 01 (Mañana) - IT Talent
+
+
 
 A continuación se va a analizar los aspectos legales que afectan a la aplicación de IT Talent, basándonos en el [Reglamento General de Protección de Datos](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32016R0679) **(RGPD)** una ley de la Unión Europea que regula la protección de datos personales de los individuos dentro de la Unión Europea y el Espacio Económico Europeo.
 
@@ -17,13 +34,13 @@ Cláusula de Consentimiento para el Procesamiento de Datos Personales:
 
 El presente documento establece los términos y condiciones bajo los cuales IT Talent procederá al procesamiento de los datos personales de los usuarios. Es crucial entender que el consentimiento del usuario es un requisito fundamental para llevar a cabo dicho procesamiento. Por lo tanto, antes de que un candidato pueda crear una cuenta en IT Talent, se le presentará un formulario donde deberá otorgar su consentimiento expreso para el tratamiento de sus datos personales.
 
-    1. Consentimiento Claro y Explícito: Al completar el formulario mencionado, el candidato estará otorgando un consentimiento claro y explícito para que IT Talent procese sus datos personales de acuerdo con los términos establecidos en este documento.
+   1. Consentimiento Claro y Explícito: Al completar el formulario mencionado, el candidato estará otorgando un consentimiento claro y explícito para que IT Talent procese sus datos personales de acuerdo con los términos establecidos en este documento.
 
-    2. Información Completa y Transparente: IT Talent se compromete a proporcionar información completa y transparente sobre cómo se utilizarán los datos personales del usuario. Esta información incluirá, entre otros aspectos, el propósito del procesamiento, las categorías de datos personales que se recopilarán y el período durante el cual se conservarán los datos.
+   2. Información Completa y Transparente: IT Talent se compromete a proporcionar información completa y transparente sobre cómo se utilizarán los datos personales del usuario. Esta información incluirá, entre otros aspectos, el propósito del procesamiento, las categorías de datos personales que se recopilarán y el período durante el cual se conservarán los datos.
 
-    3. Voluntariedad y Ausencia de Presión: El consentimiento otorgado por el usuario deberá ser completamente voluntario y sin presión por parte de IT Talent. En ningún caso se condicionará la prestación de servicios o la participación en actividades a la aceptación del tratamiento de datos personales, y los usuarios podrán revocar su consentimiento en cualquier momento.
+   3. Voluntariedad y Ausencia de Presión: El consentimiento otorgado por el usuario deberá ser completamente voluntario y sin presión por parte de IT Talent. En ningún caso se condicionará la prestación de servicios o la participación en actividades a la aceptación del tratamiento de datos personales, y los usuarios podrán revocar su consentimiento en cualquier momento.
 
-    5. Decisiones Informadas: IT Talent se compromete a garantizar que los usuarios comprendan plenamente para qué se utilizarán sus datos personales, permitiéndoles tomar decisiones informadas sobre el uso de los mismos. Para ello, se proporcionará acceso a información detallada sobre las prácticas de procesamiento de datos de IT Talent, así como la posibilidad de realizar consultas adicionales en caso de dudas.
+   4. Decisiones Informadas: IT Talent se compromete a garantizar que los usuarios comprendan plenamente para qué se utilizarán sus datos personales, permitiéndoles tomar decisiones informadas sobre el uso de los mismos. Para ello, se proporcionará acceso a información detallada sobre las prácticas de procesamiento de datos de IT Talent, así como la posibilidad de realizar consultas adicionales en caso de dudas.
 
 Además de los términos establecidos en la cláusula de consentimiento para el procesamiento de datos personales, se aclara que IT Talent solo tratará con los datos proporcionados por los usuarios a través de la plataforma. Dichos datos se limitarán al nick de GitHub, correo electrónico y experiencias laborales del usuario.
 
