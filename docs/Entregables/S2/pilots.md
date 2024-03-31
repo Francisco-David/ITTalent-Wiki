@@ -1,3 +1,18 @@
+<div style={{ display: 'flex' }}>
+  <img src="/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
+  <img src="/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
+</div>
+
+## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
+
+
+BERMEJO SORIA, CARLOS         - Creación
+
+
+### Entregable: S2
+### Grupo 01 (Mañana) - IT Talent
+
+
 | **Del 1 al 10, ¿cómo valora la sección del perfil de IT Talent?** |**¿Ha leído los planes en el apartado "Subscription"? Si es así, ¿cree que son justos? ¿Cree que se entienden correctamente?**|**Del 1 al 10, ¿cómo valora la sección de "Login" y "Register" de IT Talent en cuanto a experiencia de usuario?** |
 | - | - | - |
 |6|Mismo feedback que la ultima vez, el cual no se ha aplicado:  El poner un indicativo "Popular" arbitrariamente en el plan de precio que querais podria ser ilegal. Seccion 6 de la legislatura de la UE respecto a "unfair practices": https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32005L0029. Por otro lado si estoy pagando 10€ mensuales 3 actualizaciones me parece muy poco. Minimo 1 o 2 semanales. Tampoco se explica lo que son las "trends"|4|
