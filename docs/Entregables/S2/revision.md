@@ -126,7 +126,7 @@ Antes de comenzar a probar la aplicación, es posible que necesite los siguiente
 - URL de la plataforma de despliegue:  <https://frontend-s2-dot-italent-415216.oa.r.appspot.com/>
 - URL de GitHub: <https://github.com/JaviFdez7/ISPP-G1-Talent>
 - URL de la herramienta de seguimiento: [https://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https:%2F%2Freporter.bluejay.governify.io%2Fapi%2Fv4%2Fdashboards%2Ftpa-ISPP-2024-GH-JaviFdez7_ISPP-G1-Talent%2Fmain&orgId=1 ](https://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https:%2F%2Freporter.bluejay.governify.io%2Fapi%2Fv4%2Fdashboards%2Ftpa-ISPP-2024-GH-JaviFdez7_ISPP-G1-Talent%2Fmain&orgId=1)
-- URL de la presentación: [https://github.com/Francisco-David/ITTalent-Wiki/tree/main/docs/Entregables/S2](https://it-talent-wiki.vercel.app/docs/Entregables/S2/presentacion)
+- URL de la presentación: [https://it-talent-wiki.vercel.app/docs/Entregables/S2/presentacion](https://it-talent-wiki.vercel.app/docs/Entregables/S2/presentacion)
 
 Además, es posible que necesite estas credenciales:
 
