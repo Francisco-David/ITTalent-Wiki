@@ -143,7 +143,7 @@ Además, es posible que necesite estas credenciales:
 
 Las credenciales que no han sido proporcionadas, o bien son privadas, o bien no existen. Para iniciar sesión en IT Talent, debe crearse una cuenta siguiendo el formulario de registro explicado en el manual.
 
-# <a name="_xa64yd52esgi"></a>1.  Manual de Usuario de candidato
+# <a name="_xa64yd52esgi"></a>2.  Manual de Usuario de candidato
 A continuación se describen los pasos necesarios para probar los casos de uso *core*  de IT Talent como usuario **candidato**.
 ## <a name="_in20z6q0o8kk"></a>**2.1 Registro**
 
