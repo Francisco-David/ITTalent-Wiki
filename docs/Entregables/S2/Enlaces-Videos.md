@@ -11,8 +11,8 @@ MATEOS GÓMEZ, FERNANDO JOSÉ - Creator
 ### Grupo 01 (Mañana) - IT Talent
 
 
-## Semana 1
+## Sprint 1
 [Primer Video](https://youtu.be/6Jt3Sktpz2Y)
 
-## Semana 2
+## Sprint 2
 [Segundo Video](https://youtu.be/4DtBumzMQMk)
