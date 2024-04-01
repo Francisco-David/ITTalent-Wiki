@@ -119,7 +119,7 @@ Este documento pretende servir de guía para la revisión de la primera demo de 
 
 
 
-# <a name="_xa6lfspey938"></a> Datos necesarios
+# <a name="_xa6lfspey938"></a>1. Datos necesarios
 Antes de comenzar a probar la aplicación, es posible que necesite los siguientes enlaces:
 
 - URL de la landing page: <https://ismaelherrera2000.github.io/it-talent/>
