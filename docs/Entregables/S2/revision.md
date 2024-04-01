@@ -119,7 +119,7 @@ Este documento pretende servir de guía para la revisión de la primera demo de 
 
 
 
-1. # <a name="_xa6lfspey938"></a> Datos necesarios
+# <a name="_xa6lfspey938"></a> Datos necesarios
 Antes de comenzar a probar la aplicación, es posible que necesite los siguientes enlaces:
 
 - URL de la landing page: <https://ismaelherrera2000.github.io/it-talent/>
@@ -143,7 +143,7 @@ Además, es posible que necesite estas credenciales:
 
 Las credenciales que no han sido proporcionadas, o bien son privadas, o bien no existen. Para iniciar sesión en IT Talent, debe crearse una cuenta siguiendo el formulario de registro explicado en el manual.
 
-1. # <a name="_xa64yd52esgi"></a> Manual de Usuario de candidato
+# <a name="_xa64yd52esgi"></a>1.  Manual de Usuario de candidato
 A continuación se describen los pasos necesarios para probar los casos de uso *core*  de IT Talent como usuario **candidato**.
 ## <a name="_in20z6q0o8kk"></a>**2.1 Registro**
 
