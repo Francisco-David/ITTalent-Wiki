@@ -5,37 +5,13 @@
 
 ## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
 
-BERMEJO SORIA, CARLOS
+BERMEJO SORIA, CARLOS         - Creación
 
-CASAL FERRERO, RUBÉN
 
-DOMÍNGUEZ RUIZ. ANDRÉS
+### Entregable: S2
+### Grupo 01 (Mañana) - IT Talent
 
-DOMÍNGUEZ-ADAME RUIZ. ALBERTO
 
-FERNÁNDEZ CASTILLO, JAVIER
-
-GALLARDO MARTOS, DANIEL
-
-HERRERA RAMIREZ, ISMAEL
-
-IZQUIERDO LAVADO, MARIO
-
-MATEOS GÓMEZ, FERNANDO JOSÉ
-
-MERINO PALMA, ALEJANDRO JOSÉ
-
-MONTERO MARTÍNEZ, FRANCISCO JESÚS
-
-LÓPEZ MOYANO, ROCÍO
-
-OTERO BARBASÁN, MANUEL
-
-VILAPLANA DE TRÍAS, FRANCISCO DAVID
-
-ZARZUELA REINA, CARLOS
-
-**Sevilla, Enero 2024**
 # <a name="_z05qqri5g3tk"></a>Control de Versiones
 
 
