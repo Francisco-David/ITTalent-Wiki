@@ -34,14 +34,10 @@ OTERO BARBASÁN, MANUEL
 VILAPLANA DE TRÍAS, FRANCISCO DAVID
 
 ZARZUELA REINA, CARLOS
+# <a name="_pg8quxt9d0oa"></a>**Sevilla, Enero 2024**
 
-
-
-### Entregable: S2
-### Grupo 01 (Mañana) - IT Talent
-
-
-###  <a name="_z05qqri5g3tk"></a>Control de Versiones
+# <a name="_1c0z70cedazh"></a>
+# <a name="_z05qqri5g3tk"></a>Control de Versiones
 
 
 |**Versión**|**Fecha**|**Autor**|**Cambios**|
@@ -59,12 +55,6 @@ ZARZUELA REINA, CARLOS
 #
 # <a name="_k51xz950apj4"></a><a name="_ug1jcmvg7r12"></a><a name="_9j8c07fxd5sy"></a>Índice
 
-[**Sevilla, Enero 2024	1**](#_pg8quxt9d0oa)**
-
-[**Control de Versiones	2**](#_z05qqri5g3tk)
-
-[Resumen del documento	2](#_lj1qgmxpo5ez)
-
 [Índice	3](#_9j8c07fxd5sy)
 
 [1. Guía de Prompts	4](#_a7sktcw3oobp)
@@ -79,11 +69,13 @@ ZARZUELA REINA, CARLOS
 
 [3. Prompts	7](#_lxvzil9v1vrk)
 
+[Feedback de las Consultas	8](#_vq37do362enl)
 
 
 
 
- # 1. <a name="_a7sktcw3oobp"></a> Guía de Prompts
+
+1. # <a name="_a7sktcw3oobp"></a> Guía de Prompts
 Para un uso más sencillo y colaborativo de las herramientas, haremos una guía donde estén **los prompts de interés o que puedan servir a cualquier integrante del proyecto**, en los que se describirán contextos para el desarrollo del producto.
 
 ## <a name="_2a57xou8c1ul"></a>**Contexto General del proyecto**
@@ -141,19 +133,18 @@ Si te ha quedado claro confirmame con “Me ha quedado claro” si necesitas alg
 
 1. # <a name="_okojw5um7jvk"></a> Informes de Uso
 En el desarrollo del proyecto se hará uso de IAs, por ello hemos decidido realizar un seguimiento de los documentos en los que han sido.
-
 ## <a name="_eni8px1b7nvu"></a>**Referencias**
 
 
 |**Documento**|**Autor**|**Prompt**|
 | - | - | - |
-|Commitment Agreement|Paco|` `<https://chat.openai.com/share/a8f87608-1c10-4305-8929-883e84de7fda>|
-|Guía de Presentación Estructurada|Mario|<https://chat.openai.com/share/7dda685c-befb-4149-8046-3b243acab974>|
-|Análisis de  competidores en el mercado|Alberto|<https://chat.openai.com/share/0d3aaf55-f529-42df-b064-175528b718d7>|
-|Preguntas sobre código |Andrés|<https://chat.openai.com/c/771e2f43-6dd8-4923-96eb-11f5bdfe460d>|
-|Preguntas sobre realización de testing sobre mocha|Andrés|<p><https://chat.openai.com/c/38d6c8ab-3794-4342-b56e-93971d69f722></p><p></p>|
-|Record para identificar lenguajes de programación|Rubén|<https://chat.openai.com/share/eaf9b58a-6f13-444c-a590-75ee2d2498a1> |
-|Set para identificar tecnologías|Rubén|<https://chat.openai.com/share/c6ccd1d6-14e6-4783-b076-4c8492cf06e9> |
+|**Commitment Agreement**|**Paco**|**https://chat.openai.com/share/a8f87608-1c10-4305-8929-883e84de7fda**|
+|**Guía de Presentación Estructurada**|**Mario**|[**https://chat.openai.com/share/7dda685c-befb-4149-8046-3b243acab974**](https://chat.openai.com/share/7dda685c-befb-4149-8046-3b243acab974)|
+|**Análisis de  competidores en el mercado**|**Alberto**|[**https://chat.openai.com/share/0d3aaf55-f529-42df-b064-175528b718d7**](https://chat.openai.com/share/0d3aaf55-f529-42df-b064-175528b718d7)|
+|**Preguntas sobre código** |**Andrés**|[**https://chat.openai.com/c/771e2f43-6dd8-4923-96eb-11f5bdfe460d**](https://chat.openai.com/c/771e2f43-6dd8-4923-96eb-11f5bdfe460d)|
+|**Preguntas sobre realización de testing sobre mocha**|**Andrés**|<p>[**https://chat.openai.com/c/38d6c8ab-3794-4342-b56e-93971d69f722**](https://chat.openai.com/c/38d6c8ab-3794-4342-b56e-93971d69f722)</p><p></p>|
+|**Record para identificar lenguajes de programación**|**Rubén**|[**https://chat.openai.com/share/eaf9b58a-6f13-444c-a590-75ee2d2498a1**](https://chat.openai.com/share/eaf9b58a-6f13-444c-a590-75ee2d2498a1) |
+|**Set para identificar tecnologías**|**Rubén**|[**https://chat.openai.com/share/c6ccd1d6-14e6-4783-b076-4c8492cf06e9**](https://chat.openai.com/share/c6ccd1d6-14e6-4783-b076-4c8492cf06e9) |
 
 # <a name="_lxvzil9v1vrk"></a>3. Prompts
 *Usar **ctrl+shift+v** para pegar sin formato*
@@ -161,8 +152,11 @@ En el desarrollo del proyecto se hará uso de IAs, por ello hemos decidido reali
 
 |**Motivo**|**Autor**|**Prompt**|
 | - | - | - |
-|Nuevo nombre de marca|Manuel|Quiero cambiar el nombre de la marca puesto que ya hay una con este. Me gustaria que jugara con las letras de talent. Por ejemplo connecTalent o TalenTIC. dame 50 variantes que tengan sentido con nuestro contexto.|
-|Filtro de blur|Carlos B.|Estoy trabajando con React y Tailwind y me gustaría que un contenedor de mi página tuviera blur o difuminado, ¿qué propiedad de estilo podría utilizar y cómo? Dame un ejemplo de uso con un elemento JSX “div”.|
-||||
-||||
+|**Nuevo nombre de marca**|Manuel|Quiero cambiar el nombre de la marca puesto que ya hay una con este. Me gustaria que jugara con las letras de talent. Por ejemplo connecTalent o TalenTIC. dame 50 variantes que tengan sentido con nuestro contexto.|
+|**Filtro de blur**|Carlos B.|Estoy trabajando con React y Tailwind y me gustaría que un contenedor de mi página tuviera blur o difuminado, ¿qué propiedad de estilo podría utilizar y cómo? Dame un ejemplo de uso con un elemento JSX “div”.|
+|**Validador de correo**|Carlos B.|Estoy trabajando con React y Tailwind y necesito una API que permita validar correos electrónicos para mi formulario de registro. ¿Me puedes recomendar APIs gratuitas que validen correos electrónicos y pueda usarlas en mi aplicación?|
+|**Customer Agreement**|Paco|<p>Tengo el siguiente proyecto *prompt de contexto* y necesito una plantilla para un Customer Agreement de servicios online, ¿Podrías ayudarme a crear un documento con esto?</p><p></p><p>En el documento se deben ver reflejados los términos de servicio, las prestaciones agrupadas por precio y los Service level indicators, service level objectives y compensations. También deberían estar correlado con los aspectos legales de nuestra aplicación:</p><p>*aspectos legales de IT TALENT*</p>|
 
+## <a name="_vq37do362enl"></a>**Feedback de las Consultas**
+
+**Customer Agreement:** Fue necesario ir refinando el prompt tras la primera consulta con el feedback recibido por Claudette ya que generaba cláusulas excesivamente injustas.

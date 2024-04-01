@@ -1,10 +1,9 @@
-ISPP 2023-2024
+<div style={{ display: 'flex' }}>
+  <img src="/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
+  <img src="/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
+</div>
 
-Version: 1.2.0
-
-<a name="_heading=h.ebgmx8b5zfn6"></a>**Evaluación de desempeño individual**
-
-<a name="_heading=h.9f2nxmhljw0y"></a>**Ingeniería del Software y Práctica     Profesional - Universidad de Sevilla**
+## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
 
 BERMEJO SORIA, CARLOS
 

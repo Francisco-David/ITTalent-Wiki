@@ -40,8 +40,8 @@ ZARZUELA REINA, CARLOS
 ### Entregable: S2
 ### Grupo 01 (Mañana) - IT Talent
 
-IT TALENT Week 8_page-0001.jpg
-![Foto2](/img/presentation/presentacion_pages-_page-0001.jpg)
+
+![Foto1](/img/presentation/presentacion_pages-_page-0001.jpg)
 ![Foto2](/img/presentation/presentacion_pages-_page-0002.jpg)
 ![Foto3](/img/presentation/presentacion_pages-_page-0003.jpg)
 ![Foto4](/img/presentation/presentacion_pages-_page-0004.jpg)
