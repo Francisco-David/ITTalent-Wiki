@@ -99,6 +99,14 @@ ZARZUELA REINA, CARLOS
 
 [Tareas - ¿Qué no puede faltar?	](#_xw8pcxlaup9y2)
 
+[6. Semana 8 (02/04)	](#_3n6nqs3ox56d22)
+
+[Cosas a tener en cuenta	](#_4ki1iznv6aw622)
+
+[Consideraciones para IT TALENT	](#_es35wsm2my6q22)
+
+[Tareas - ¿Qué no puede faltar?	](#_xw8pcxlaup9y22)
+
 
 
 
@@ -666,6 +674,100 @@ sistema de memoria planteado para minimizar el número de llamadas
 1. Re-estimación del **sprint 3**:
    1. Justificar si hemos tenido que reducir el alcance
    1. Objetivos del 2: Sandbox de pago / pasarelas de pago
+   1. ¿Qué queda para el 3er sprint?
+1. **Uso de IA**
+1. QR **landing page**
+
+
+# <a name="_3n6nqs3ox56d22"></a> Semana 8 (02/04)
+## <a name="_4ki1iznv6aw622"></a>**Cosas a tener en cuenta**
+
+1. En diapositivas que contenga gráficas se debe parar un mínimo para explicarlas.
+1. Uso de datos y descripciones realistas en las demos.
+1. Cuidar formatos en las diapositivas que hagan las letras más pequeñas, pueden hacerlas ilegibles.
+1. Siempre hacer algún comentario o explicar brevemente los análisis del ALN.
+1. Si se da un problema siempre se debe especificar el estado del mismo.
+1. Evitar empezar la retrospectiva de un sprint con los problemas que ha habido durante este.
+1. Si falla algo en un sprint, al final del siguiente hacer especial interés en que se ha tenido en cuenta y se ha realizado alguna medida con métricas.
+1. Añadir el numero de refinamientos en las IAs.
+1. No usar encabezados de “BIENVENIDO A…” con una descripción de los servicios en la aplicación, eso sería contenido de la Landing Page.
+1. Evitar moverse demasiado a la hora de realizar la presentación, hay que buscar un punto medio entre energía y serenidad, también en ritmos de presentación.
+1. Mostrar los análisis del código en vivo es una buena práctica.
+1. A mayor número de clientes los costes de mantenimiento deben subir.
+1. Añadir una matriz con el esfuerzo en horas y el rendimiento con nuestra fórmulas y los integrantes en ella.
+1. Se debe tener cuidado de no fomentar trabajar menos con la gamificación en el desarrollo.
+1. Las funciones listadas con botones queda poco profesional se debe buscar meter gráficas y otras disposiciones.
+1. Siempre se deben exponer los problemas que ha habido y se han solucionado, los que están por solucionar y las soluciones propuestas.
+1. Si se muestran gráficas se debe como mínimo hacer alguna conclusión de esta.
+1. La recepción del feedback de los usuarios pilotos debe ser lo antes posible para poder ejercer los cambios necesarios antes del entregable.
+
+
+
+## <a name="_es35wsm2my6q22"></a>**Consideraciones para IT TALENT**
+- Usar como Killer Opener ISPP y crear grupos de trabajo para el desarrollo y en la DEMO; “Javi, como coordinador quiere crear un grupo de trabajo con X necesidades y para ello…”.
+- Introducir los objetivos de la demo al comienzo del video y poner un icono representando al usuario/representante (yo diría de poner un texto que se vea todo el rato mientras se hable de Candidatos o Representatives)
+- El storyboard es poco creíble, un programador de Cobol no debería tener problemas de falta de trabajo.
+- Usar más gráficas, “modo resumen” y más visuales, en las estadísticas de GitHub de  los candidatos.
+- Dejar más claro el estado de los problemas que ha habido, meter iconografías si estos están solucionados o en proceso de serlo. Con mayor focus en las métricas.
+- La planificación del Sprint 3 queda muy escueta.
+- Realizar cambios sobre el workflow del feedback de los usuarios pilotos, se debe de ver más claro.
+- Añadir el numero de refinamientos necesarios en el report de las IAs.
+
+
+
+## <a name="_xw8pcxlaup9y22"></a>**Tareas - ¿Qué no puede faltar?**
+
+
+- Nueva versión del Failure Conditions
+- Hay enlaces para los dashboard de BlueJ (no influye en la nota) pero se puede usar para meterlo en la presentación.
+
+
+1. **INTRODUCCIÓN**:
+   1. Killer opener
+   1. Elevator pitch, con un par de frases predefinidas. Recordar que se busca convencer a los inversores.
+   1. Análisis de competidores, centrarnos en las features killer y pasar poco por el resto.
+1. Storyboards + **ANUNCIO en vivo de uno de ellos**
+1. **Impacto Legal** del proyecto
+1. **Customer agreement**
+   1. Desarrollar Términos de servicios
+   1. Uso de Claudette: ¿Qué cláusulas se han eliminado? ¿Cuáles no?
+   1. Pricing
+   1. SLA: Implicaciones de estas en la implementacion (Cambios en el TCO por personal de soporte adicional por una subida de usuarios)
+1. **COSTES**:
+   1. TCO a 2 años
+   1. Capex vs Opex
+   1. Costes GActions
+   1. Cuanto llevamos gastado con respecto al Total
+   1. Estimaciones pesimistas, optimistas… Con respecto al número de usuarios
+1. Refinar **estructura de equipo**:
+   1. Estado del Commitment Agreement + Historial de este, ¿Cuándo y por qué no se ha cumplido?
+1. **DEMO** dinámica** sprint 3:
+   1. **Resaltar** que estaba en el S1 y S2 y que hemos hecho **nuevo** con el resto feedback.
+   1. Mejoras de UX (píldora teórica).
+   1. Registro con términos y condiciones + Cosas de GDPR implementadas.
+   1. Implementación de aspectos legales (P.E: ¿cookies?...) 
+1. **RETROSPECTIVA**:
+   1. Evolución de la calidad del código, Sonar, Codacy… ver incremento y decremento de métricas.
+   1. Rendimiento del equipo, desarrollando las fórmulas.
+      1. Matriz de **HORAS vs RENDIMIENTO** con todos los integrantes.
+   1. Gráfica de productividad y evolución.
+   1. Mejoras de agendamiento y calendario compartido: ¿Cómo y cuánto nos han ayudado?
+   1. Plan de pruebas, píldora de testing, planes de aquí al Proyect Launch. 
+   1. Gestión de riesgos: **Riesgos** que se han dado + **problemas que no eran riesgos**: Medidas, métricas, planes…
+   1. Lecciones Aprendidas
+   1. (Reloj de avance de proyecto, clockify semanal y global) ¿breve? - no tengo apuntado que lo dijera, pero igual se le pasó
+   1. Changelog (evaluar meterlo en la demo) - Qué se ha incrementado con respecto a la semana anterior.
+1. Gestión de **Usuarios Piloto**.
+   1. **Gestión del feedback** (demostrar que el usuario está siendo escuchado)
+   1. Resumen del feedback proporcionado
+   1. ¿Qué prioridad se le ha dado a cada cambio necesario y por qué?
+   1. Acciones de consolidación que se han tomado a partir de ese feedback
+   1. Desarrollar Commitment Agreement con los usuarios piotos
+1. **PLANIFICACIÓN**:
+   1. Issues previstas para este sprint + las que ya serán para futuras mejoras (quedan fuera del desarrollo actual)
+   1. Objetivos para la demo final.
+   1. Justificar si hemos tenido que reducir el alcance
+   1. Objetivos del 2: Registro, Pagos...
    1. ¿Qué queda para el 3er sprint?
 1. **Uso de IA**
 1. QR **landing page**
