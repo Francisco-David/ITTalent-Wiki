@@ -768,7 +768,7 @@ sistema de memoria planteado para minimizar el número de llamadas
    1. Objetivos para la demo final.
    1. Justificar si hemos tenido que reducir el alcance
    1. Objetivos del 2: Registro, Pagos...
-   1. ¿Qué queda para el 3er sprint?
+   1. Hacer planificación preliminar de la siguiente fase
 1. **Uso de IA**
 1. QR **landing page**
 
