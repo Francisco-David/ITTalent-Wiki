@@ -766,7 +766,6 @@ sistema de memoria planteado para minimizar el número de llamadas
 1. **PLANIFICACIÓN**:
    1. Issues previstas para este sprint + las que ya serán para futuras mejoras (quedan fuera del desarrollo actual)
    1. Objetivos para la demo final.
-   1. Justificar si hemos tenido que reducir el alcance
    1. Objetivos del 2: Registro, Pagos...
    1. Hacer planificación preliminar de la siguiente fase
 1. **Uso de IA**
