@@ -192,6 +192,26 @@ Para las contribuciones se llega a un acuerdo de que cada semana será un grupo 
 1. Para medir la eficiencia de los tests, contar en base a los fallos que saltan con estos. También es buena practica poner los fallos a posta para que estos salten.
 1. Capex, costes de desarrollo, mostrar multiplicador por cada rol (sobre la hora de servicio mínima) (Para este parto sobre los comentarios de Müller de Ocial, destacó especialmente esta diapositiva).
 
+- **Semana 8**
+
+1. En diapositivas que contenga gráficas se debe parar un mínimo para explicarlas.
+1. Uso de datos y descripciones realistas en las demos.
+1. Cuidar formatos en las diapositivas que hagan las letras más pequeñas, pueden hacerlas ilegibles.
+1. Siempre hacer algún comentario o explicar brevemente los análisis del ALN.
+1. Si se da un problema siempre se debe especificar el estado del mismo.
+1. Evitar empezar la retrospectiva de un sprint con los problemas que ha habido durante este.
+1. Si falla algo en un sprint, al final del siguiente hacer especial interés en que se ha tenido en cuenta y se ha realizado alguna medida con métricas.
+1. Añadir el numero de refinamientos en las IAs.
+1. No usar encabezados de “BIENVENIDO A…” con una descripción de los servicios en la aplicación, eso sería contenido de la Landing Page.
+1. Evitar moverse demasiado a la hora de realizar la presentación, hay que buscar un punto medio entre energía y serenidad, también en ritmos de presentación.
+1. Mostrar los análisis del código en vivo es una buena práctica.
+1. A mayor número de clientes los costes de mantenimiento deben subir.
+1. Añadir una matriz con el esfuerzo en horas y el rendimiento con nuestra fórmulas y los integrantes en ella.
+1. Se debe tener cuidado de no fomentar trabajar menos con la gamificación en el desarrollo.
+1. Las funciones listadas con botones queda poco profesional se debe buscar meter gráficas y otras disposiciones.
+1. Siempre se deben exponer los problemas que ha habido y se han solucionado, los que están por solucionar y las soluciones propuestas.
+1. Si se muestran gráficas se debe como mínimo hacer alguna conclusión de esta.
+1. La recepción del feedback de los usuarios pilotos debe ser lo antes posible para poder ejercer los cambios necesarios antes del entregable.
 
 
 <a name="_tyjcwt"></a>**Feedback general**
