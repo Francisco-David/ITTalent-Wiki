@@ -825,7 +825,6 @@ sistema de memoria planteado para minimizar el número de llamadas
 
 
 - Nueva versión del Failure Conditions
-- Hay enlaces para los dashboard de BlueJ (no influye en la nota) pero se puede usar para meterlo en la presentación.
 
 
 1. **INTRODUCCIÓN**:
