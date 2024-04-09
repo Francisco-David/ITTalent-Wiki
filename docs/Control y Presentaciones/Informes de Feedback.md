@@ -107,6 +107,14 @@ ZARZUELA REINA, CARLOS
 
 [Tareas - ¿Qué no puede faltar?	](#_xw8pcxlaup9y22)
 
+[7. Semana 9 (09/04)	](#_3n6nqs3ox56d23)
+
+[Cosas a tener en cuenta	](#_4ki1iznv6aw623)
+
+[Consideraciones para IT TALENT	](#_es35wsm2my6q23)
+
+[Tareas - ¿Qué no puede faltar?	](#_xw8pcxlaup9y23)
+
 
 
 
@@ -766,8 +774,110 @@ sistema de memoria planteado para minimizar el número de llamadas
 1. **PLANIFICACIÓN**:
    1. Issues previstas para este sprint + las que ya serán para futuras mejoras (quedan fuera del desarrollo actual)
    1. Objetivos para la demo final.
-   1. Objetivos del 2: Registro, Pagos...
+   1. Objetivos del 3: Registro, Pagos...
    1. Hacer planificación preliminar de la siguiente fase
+1. **Uso de IA**
+1. QR **landing page**
+
+
+# <a name="_3n6nqs3ox56d23"></a> Semana 9 (09/04)
+## <a name="_4ki1iznv6aw623"></a>**Cosas a tener en cuenta**
+
+1. Cuidar la velocidad con la que se cuenta la información, sobre todo para personas que no conocen la aplicación o nunca han visto la presentación antes. Evaluar si reducir el nivel de detalle/contenido por apartado.
+1. Cuidar el formato de la presentación para que se adecúe al aula en la que se va a exponer, si no da la sensación de mala calidez o cutrez.
+1. Es crucial añadir indicadores a los problemas que se presenten (si hay colisiones en el frontend, indicar el número).
+1. NO añadir información redundante en la DEMO (p.ej: edición de campos o registro).
+1. Mencionar primero la fórmula del rendimiento y luego el rendimiento del equipo.
+1. Añadir el número total de pruebas que se van a realizar a cada característica.
+1. No es necesario comentar los problemas que van bien, sobre todo si hay falta de tiempo o varios que mencionar.
+1. Evitar añadir demasiada información que den contexto del proyecto, sobre todo si al mismo tiempo se está exponiendo lo mismo.
+1. Hacer un seguimiento de las funcionalidades que los usuarios pilotos consideran más interesantes/importantes. Realizar un orden de estas.
+1. Si se añade texto en los anuncios debe haber tiempo suficiente para leerlo o debe ser un texto lo suficientemente breve.
+1. No hacer uso de imágenes poco realistas para fotos en la demo, si se usan IAs hacer uso de alguna fotorrealista.
+1. Cuidar la escala de gráficas y añadir prefijos como K o M.
+
+
+
+
+## <a name="_es35wsm2my6q23"></a>**Consideraciones para IT TALENT**
+- Cuidar la iluminación del anuncio así como la vocalización y velocidad del diálogo.
+- Añadir diapositivas de apoyo para el Customer Agreement (Diapositiva: SLA + TOS).
+- Especificar los datos de la diapositiva Capex vs Opex. Y añadir datos de usuarios empleados que se registrarían en la aplicación.
+- Pararse brevemente a explicar qué es cada cláusulas del Commitment Agreement.
+- En la DEMO pararse en las funcionalidades core y no mencionar la edición/eliminación de perfiles.
+- Al subir el ritmo del diálogo se deja de seguir el ritmo de la presentación y se pierden conceptos.
+- Para cada gráfico (a partir de la 37) o dato que se enseñe, prepararse una frase que resuma el gráfico (p.ej: ha habido un aumento del rendimiento del 4%) o plasmarlo en la misma diapositiva.
+- La gráfica de rendimiento individual no refleja bien la diferencia con respecto de una semana a otra, si se quiere plasmar eso habría que cambiar la forma de enseñarlo.
+- La DEMO debe estar más orientada al  anuncio, que Javi salga en el anuncio como jefe y luego salga igual en la foto de perfil de la DEMO.
+- Se debe plasmar si los tests están siendo efectivos o no (inventarse fallos o realizar test que se sabe que van a fallar).
+- Añadir el numero de refinamientos necesarios en el report de las IAs.
+- Meter acciones de consolidación en la Base de Conocimientos
+- Tener un apartado de la DEMO en el Docusaurio (link a Youtube…).
+- Añadir apoyo para los SLA y ToS (Customer Agreement)
+- Incluir los ToS en el registro.
+- Añadir el feedback específico nos han dado los Usuarios Pilotos. A cada feedback que se mencione que han aportado los usuarios piloto añadir la prioridad que se le ha asignado.
+- A Muller le gustó que: Para cada problema: OPEN, NOT SOLVED, IN PROGRESS, SOLVED
+- Muller mencionó que es buena practica realizar pruebas de carga que muestren cuantás peticiones son necesarias para agotar los créditos de Google.
+- A Muller le gustó: Segmentación de mercado de cara al proyect launch (píldora teórica).
+
+## <a name="_xw8pcxlaup9y23"></a>**Tareas - ¿Qué no puede faltar?**
+
+
+- Nueva versión del Failure Conditions
+- Hay enlaces para los dashboard de BlueJ (no influye en la nota) pero se puede usar para meterlo en la presentación.
+
+
+1. **INTRODUCCIÓN**:
+   1. Killer opener
+   1. Elevator pitch, con un par de frases predefinidas. Recordar que se busca convencer a los inversores.
+   1. Análisis de competidores, centrarnos en las features killer y pasar poco por el resto.
+1. Storyboards + **ANUNCIO en vivo de uno de ellos** (Volver a incluirla especificando si se ha modificado algo, también se puede ir añadiendo el siguiente).
+1. **Impacto Legal** del proyecto
+1. **Customer agreement**
+   1. Uso de Claudette: ¿Qué cláusulas se han tenido que modificar? ¿Cómo?
+   1. Pricing
+   1. ToS
+   1. SLA: Implicaciones de estas en la implementacion (Cambios en el TCO por personal de soporte adicional por una subida de usuarios)
+1. **Estrategias de marketing** preliminares puntuales:
+   1. ¿Qué hacer para ganar tracción en el mercado?: segmentación
+   1. ¿A quién nos vamos a enfocar? ¿Cómo vamos a hacer para que se enfoque a ese perfil?
+   1. Añadir rol de Community Manager.
+1. **COSTES**:
+   1. TCO a 2 años
+   1. Capex vs Opex
+   1. Costes GActions
+   1. Cuanto llevamos gastado con respecto al Total
+   1. Estimaciones pesimistas, optimistas… Con respecto al número de usuarios
+   1. Modificaciones de nuevos roles: GDPR Data Protección Officer y Community Manager
+1. Refinar **estructura de equipo**:
+   1. Estado del Commitment Agreement + Historial de este, ¿Cuándo y por qué no se ha cumplido?
+   1. Modificaciones de nuevos roles: GDPR Data Protección Officer y Community Manager
+1. **DEMO** dinámica** sprint 3: **Descripción previa** al video
+   1. Si en lo que se muestra hay **algo nuevo, marcarlo** (no quiere decir que haya que mostrar todo lo nuevo)
+   1. Destacar **mejoras de UX** (píldora teórica).
+   1. Implementación de aspectos legales (P.E: ¿cookies?...)
+   1. Registro con términos y condiciones
+   1. GDPR Compliance: httpS, derecho de olvido...
+1. **RETROSPECTIVA**:
+   1. Evolución de la calidad del código, Sonar, Codacy… ver incremento y decremento de métricas.
+   1. Rendimiento del equipo, desarrollando las fórmulas.
+      1. Matriz de **HORAS vs RENDIMIENTO** con todos los integrantes.
+   1. Gráfica de productividad y evolución.
+   1. Plan de pruebas, píldora de testing, planes de aquí al Proyect Launch. 
+   1. Gestión de riesgos: **Riesgos** que se han dado + **problemas que no eran riesgos**: Medidas, métricas, planes…
+   1. Lecciones Aprendidas
+   1. Reloj de avance de proyecto, clockify semanal y global
+   1. Changelog - Qué se ha incrementado con respecto a la semana anterior.
+1. Gestión de **Usuarios Piloto**.
+   1. **Gestión del feedback** (demostrar que el usuario está siendo escuchado)
+   1. Resumen del feedback proporcionado: **feedback específico** 
+   1. ¿Qué **prioridad se le ha dado a cada cambio** necesario y por qué?
+   1. Acciones de consolidación que se han tomado a partir de ese feedback
+   1. (Desarrollar Commitment Agreement con los usuarios pilotos) creo que poca gente lo ha mencionado y no han dicho nada pero luego en la evaluación nunca se sabe.
+1. **PLANIFICACIÓN**: **De este apartado solo dijo "Planificación", no se qué habrá que mencionar, entiendo que algo de las futuras fases, cambio en los equipos...**
+   1. Issues previstas para este sprint + las que ya serán para futuras mejoras (quedan fuera del desarrollo actual)
+   1. Objetivos para la demo final.
+   1. Objetivos del 3: Registro, Pagos...
 1. **Uso de IA**
 1. QR **landing page**
 
