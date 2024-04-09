@@ -20,11 +20,11 @@ El usuario puede dar por terminado este Acuerdo en cualquier momento simplemente
 
 1. **Terminación por Parte de IT Talent**
 
-IT Talent se reserva el derecho de dar por terminado este Acuerdo o suspender el acceso del usuario al Servicio en casos de uso no autorizado real del Servicio, o en caso de incumplimiento de este Acuerdo por parte del usuario. En tales situaciones, IT Talent proporcionará al usuario un aviso razonable y la oportunidad de corregir la situación antes de proceder con la terminación del acuerdo. Sin embargo, en casos en los que las acciones del usuario generen responsabilidad legal potencial, IT Talent se reserva el derecho de tomar medidas al respecto.
+IT Talent no rescindirá el Acuerdo ni suspenderá el acceso del usuario al Servicio sin causa suficiente o en situaciones en las que las acciones del usuario no constituyan un incumplimiento sustancial de este Acuerdo. IT Talent proporcionará al usuario un aviso razonable y la oportunidad de abordar cualquier presunto incumplimiento antes de proceder con la rescisión del acuerdo.
 
 1. **Efectos de la Terminación**
 
-Una vez terminado este Acuerdo, el derecho del usuario a utilizar el Servicio cesará de inmediato. En caso de terminación de la cuenta del usuario, IT Talent podrá, a su entera discreción, eliminar la cuenta del usuario y cualquier dato relacionado.
+Una vez terminado este Acuerdo, el derecho del Usuario a utilizar el Servicio cesará inmediatamente, excepto en los casos en que IT Talent inicie la terminación sin causa suficiente o en situaciones en las que las acciones del usuario no constituyan un incumplimiento sustancial de este Acuerdo. En tales casos, IT Talent puede, a su entera discreción, eliminar la cuenta del usuario y cualquier dato relacionado, siempre que la terminación sea de acuerdo con los términos de este Acuerdo.
 
 1. **Supervivencia**
 
@@ -107,7 +107,7 @@ Una vez terminado este Acuerdo, el derecho del usuario a utilizar el Servicio ce
 
 .
 
-Nos reservamos el derecho a modificar este acuerdo en cualquier momento y el usuario será avisado convenientemente. El usuario deberá por ende aceptar los nuevos términos para poder seguir haciendo uso del servicio.
+Nos reservamos el derecho de actualizar y modificar este acuerdo según sea necesario para reflejar cambios en nuestros servicios, avances tecnológicos o requisitos legales. En caso de modificaciones, proporcionaremos a los usuarios un aviso previo de dichos cambios, ya sea a través de comunicación directa o publicando un aviso en nuestra landing page.
 
 
 Si tienes alguna pregunta sobre estos términos, contáctanos en: ittalentofficial@outlook.com
