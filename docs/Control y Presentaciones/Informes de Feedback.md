@@ -801,6 +801,7 @@ sistema de memoria planteado para minimizar el número de llamadas
 
 ## <a name="_es35wsm2my6q23"></a>**Consideraciones para IT TALENT**
 - Cuidar la iluminación del anuncio así como la vocalización y velocidad del diálogo.
+- ¿SON LOS CORRECTOS USUARIOS POTENCIALES? Hay que cambiar el enfoque, la búsqueda de trabajo es constante
 - Añadir diapositivas de apoyo para el Customer Agreement (Diapositiva: SLA + TOS).
 - Especificar los datos de la diapositiva Capex vs Opex. Y añadir datos de usuarios empleados que se registrarían en la aplicación.
 - Pararse brevemente a explicar qué es cada cláusulas del Commitment Agreement.
