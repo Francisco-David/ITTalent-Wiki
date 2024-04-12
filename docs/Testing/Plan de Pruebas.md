@@ -54,3 +54,16 @@ Los principales temas a tratar en el documento son los siguientes:
 - Método de evaluación de los tests
 - Plan de Cobertura establecido
 - Historial de bugs encontrados
+
+# <a name="_1fob9te"></a>
+#
+#
+# <a name="_k51xz950apj4"></a><a name="_ug1jcmvg7r12"></a><a name="_9j8c07fxd5sy"></a>Índice
+
+
+3. # <a name="_3znysh7"></a> Historial de bugs
+
+|**Commit**|**Fecha de aparición**|**Descripción**|**Estado**|
+| :- | :- | :- | :- |
+|12345|02/02/2024|Esto es un texto grande con la inteción de ver que ocurre cuando hay mucho texto: La intención principal del documento es explicar de forma detallada y clara el plan de pruebas que se seguirá durante esta etapa del proyecto de tal forma que se verifique el correcto cumplimiento de las funcionalidades y requisitos desarrollados. |Sin solucionar|
+
