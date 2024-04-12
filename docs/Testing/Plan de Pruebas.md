@@ -34,3 +34,23 @@ OTERO BARBASÁN, MANUEL
 VILAPLANA DE TRÍAS, FRANCISCO DAVID
 
 ZARZUELA REINA, CARLOS
+
+
+### Entregable: S3
+### Grupo 01 (Mañana) - IT Talent
+
+
+###  <a name="_z05qqri5g3tk"></a>Control de Versiones
+
+|**Versión**|**Fecha**|**Autor**|**Cambios**|
+| :- | :- | :- | :- |
+|v1.0|12/04/2024|Andrés Domínguez Ruiz|Documento inicial|
+
+## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
+<a name="_30j0zll"></a>La intención principal del documento es explicar de forma detallada y clara el plan de pruebas que se seguirá durante esta etapa del proyecto de tal forma que se verifique el correcto cumplimiento de las funcionalidades y requisitos desarrollados. 
+
+Los principales temas a tratar en el documento son los siguientes:
+
+- Método de evaluación de los tests
+- Plan de Cobertura establecido
+- Historial de bugs encontrados
