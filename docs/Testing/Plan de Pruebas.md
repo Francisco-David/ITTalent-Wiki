@@ -45,6 +45,8 @@ ZARZUELA REINA, CARLOS
 |**Versión**|**Fecha**|**Autor**|**Cambios**|
 | :- | :- | :- | :- |
 |v1.0|12/04/2024|Andrés Domínguez Ruiz|Documento inicial|
+|v1.1|13/04/2024|Andrés Domínguez Ruiz|Añadir bug al historial y añadir resto de apartados|
+
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
 <a name="_30j0zll"></a>La intención principal del documento es explicar de forma detallada y clara el plan de pruebas que se seguirá durante esta etapa del proyecto de tal forma que se verifique el correcto cumplimiento de las funcionalidades y requisitos desarrollados. 
@@ -65,5 +67,5 @@ Los principales temas a tratar en el documento son los siguientes:
 
 |**Commit**|**Fecha de aparición**|**Descripción**|**Estado**|
 | :- | :- | :- | :- |
-|[392b470](https://github.com/JaviFdez7/ISPP-G1-Talent/commit/392b4709259678bd0359911bd43768dc9d3b10e7)|02/02/2024|Esto es un texto grande con la inteción de ver que ocurre cuando hay mucho texto: La intención principal del documento es explicar de forma detallada y clara el plan de pruebas que se seguirá durante esta etapa del proyecto de tal forma que se verifique el correcto cumplimiento de las funcionalidades y requisitos desarrollados. |Sin solucionar|
+|[392b470](https://github.com/JaviFdez7/ISPP-G1-Talent/commit/392b4709259678bd0359911bd43768dc9d3b10e7)|08/04/2024|Cuando se estaba realizando el SetUp del archivo de testing que estudiaba las pruebas unitarias sobre la funcionalidad de crear equipos, se pudo observar de que cuando realizas varias llamadas a la Api GraphQL de forma consecutiva, existe la posibilidad de que se rompa el Api rate, obligando al usuario a actualizar el token de GitHub. **Propuesta para solucionarlo:** Establecer un límite de llamadas a la API y un orden de ejecución, de tal forma que si varios usuarios simultaneamente realizan análisis, que haya un orden y un tiempo de espera establecido |Sin solucionar|
 
