@@ -64,6 +64,10 @@ Los principales temas a tratar en el documento son los siguientes:
 
 
 # <a name="_3znysh7"></a>**1.Método de evaluación de tests**
+- **Descripción:** Como no se puede confiar del todo en la cobertura de los tests, es necesario fijar una serie de condiciones que se deben verificar en cada caso de prueba. De esta forma, se podrá valorar o identificar el estado de cada caso de pruebas realizado, asi como verificar que se cumplen los requisitos solicitados por el cliente.
+
+- **Fórmula del cálculo de "Aceptación":** La fórmula es la siguiente:
+`$(Nº de condiciones correctas/ Nº Total de condiciones )100$´
 
 
 # <a name="_3znysh7"></a>**2.Plan de cobertura establecido**
@@ -72,8 +76,8 @@ Los principales temas a tratar en el documento son los siguientes:
 **1-Integración - Caso positivo:**
 - **Historia de usuario:** Como representante, quiero crear un equipo correctamente 
 - **Condiciones:**
-  - [ ] Se crea un equipo correctamente y se guarda en DB
-  - [ ] Se añaden tantas entradas al historial del representante como candidatos propuestos en el equipo
+  - [X] Se crea un equipo correctamente y se guarda en DB
+  - [X] Se añaden tantas entradas al historial del representante como candidatos propuestos en el equipo
   - [ ] Se me reste la cantidad de tokens de búsqueda
 
 - **Estado:** Completado
