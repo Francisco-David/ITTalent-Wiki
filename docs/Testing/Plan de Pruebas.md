@@ -65,5 +65,5 @@ Los principales temas a tratar en el documento son los siguientes:
 
 |**Commit**|**Fecha de aparición**|**Descripción**|**Estado**|
 | :- | :- | :- | :- |
-|[enlace](https://github.com/JaviFdez7/ISPP-G1-Talent/commit/392b4709259678bd0359911bd43768dc9d3b10e7)|02/02/2024|Esto es un texto grande con la inteción de ver que ocurre cuando hay mucho texto: La intención principal del documento es explicar de forma detallada y clara el plan de pruebas que se seguirá durante esta etapa del proyecto de tal forma que se verifique el correcto cumplimiento de las funcionalidades y requisitos desarrollados. |Sin solucionar|
+|[392b470](https://github.com/JaviFdez7/ISPP-G1-Talent/commit/392b4709259678bd0359911bd43768dc9d3b10e7)|02/02/2024|Esto es un texto grande con la inteción de ver que ocurre cuando hay mucho texto: La intención principal del documento es explicar de forma detallada y clara el plan de pruebas que se seguirá durante esta etapa del proyecto de tal forma que se verifique el correcto cumplimiento de las funcionalidades y requisitos desarrollados. |Sin solucionar|
 
