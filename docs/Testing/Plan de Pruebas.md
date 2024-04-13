@@ -69,7 +69,7 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Fórmula del cálculo de "Aceptación":** La fórmula es la siguiente:
 - n= Nº de condiciones correctas
 - N= Nº total de condiciones solicitadas
-$\frac{n}{N}100$
+- **$\frac{n}{N}100$**
   Aplicando esta fórmula, **para validar un caso de prueba se debe alcanzar el 100% de Aceptación.**
 
 
