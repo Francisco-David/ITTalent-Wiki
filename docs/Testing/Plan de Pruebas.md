@@ -63,7 +63,22 @@ Los principales temas a tratar en el documento son los siguientes:
 # <a name="_k51xz950apj4"></a><a name="_ug1jcmvg7r12"></a><a name="_9j8c07fxd5sy"></a>Índice
 
 
-3. # <a name="_3znysh7"></a> Historial de bugs
+# <a name="_3znysh7"></a>**1.Método de evaluación de tests**
+
+
+# <a name="_3znysh7"></a>**2.Plan de cobertura establecido**
+
+# <a name="2.1"></a>**2.1.Módulo: Team Creator**
+|**ID**|**Tipo**|**Historia de usuario**|**Condiciones**|**Estado**|
+| :- | :- | :- | :- | :- |
+| 1 | Integración - Caso positivo | Como representante, quiero crear un equipo correctamente | 
+- Se crea un equipo correctamente y se guarda en DB
+- Se añaden tantas entradas al historial del representante como candidatos propuestos en el equipo
+- Se me reste la cantidad de tokens de búsqueda | |
+
+
+
+# <a name="_3znysh7"></a>**3.Historial de bugs**
 
 |**Commit**|**Fecha de aparición**|**Descripción**|**Estado**|
 | :- | :- | :- | :- |
