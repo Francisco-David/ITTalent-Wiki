@@ -67,7 +67,10 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Descripción:** Como no se puede confiar del todo en la cobertura de los tests, es necesario fijar una serie de condiciones que se deben verificar en cada caso de prueba. De esta forma, se podrá valorar o identificar el estado de cada caso de pruebas realizado, asi como verificar que se cumplen los requisitos solicitados por el cliente.
 
 - **Fórmula del cálculo de "Aceptación":** La fórmula es la siguiente:
-$`\frac{Nº de condiciones correctas}{Nº total de condiciones}100´$
+- n= Nº de condiciones correctas
+- N= Nº total de condiciones solicitadas
+$\frac{n}{N}100$
+  Aplicando esta fórmula, **para validar un caso de prueba se debe alcanzar el 100% de Aceptación.**
 
 
 # <a name="_3znysh7"></a>**2.Plan de cobertura establecido**
