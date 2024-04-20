@@ -34,10 +34,9 @@ OTERO BARBASÁN, MANUEL
 VILAPLANA DE TRÍAS, FRANCISCO DAVID
 
 ZARZUELA REINA, CARLOS
-# <a name="_pg8quxt9d0oa"></a>**Sevilla, Enero 2024**
+### <a name="_pg8quxt9d0oa"></a>**Sevilla, Enero 2024**
 ### Entregable: S3
 # <a name="_1c0z70cedazh"></a>
-# <a name="_z05qqri5g3tk"></a>Control de Versiones
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
 <a name="_30j0zll"></a>Guía de prompts e informe del uso de IAs como ChatGPT y Copilot durante el desarrollo del proyecto.
