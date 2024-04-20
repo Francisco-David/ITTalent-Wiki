@@ -35,7 +35,7 @@ VILAPLANA DE TRÍAS, FRANCISCO DAVID
 
 ZARZUELA REINA, CARLOS
 
-<a name="_heading=h.pg8quxt9d0oa">**Sevilla, Marzo 2024**</a>
+<a name="_heading=h.pg8quxt9d0oa">Sevilla, Marzo 2024</a>
 
 ### Entregable: S3
 
