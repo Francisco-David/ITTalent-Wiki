@@ -36,6 +36,7 @@ VILAPLANA DE TRÍAS, FRANCISCO DAVID
 ZARZUELA REINA, CARLOS
 ### <a name="_pg8quxt9d0oa"></a>**Sevilla, Enero 2024**
 ### Entregable: S3
+### Grupo 01 (Mañana) - IT Talent
 # <a name="_1c0z70cedazh"></a>
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
