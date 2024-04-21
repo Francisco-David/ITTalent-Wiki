@@ -322,6 +322,43 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Estado:** Incompleto
 - **Aceptación:** 0%
 
+
+# <a name="2.6"></a>**2.6.Módulo: Subscriptions**
+
+**1 - Integración - Positivo:**
+- **Historia de usuario:** Como candidato, quiero poder actualizar mi subscripción de forma correcta.
+- **Condiciones:**
+  - [ ] Al cambiar a un plan de subscripción de candidato, se me actualicen los tokens de uso que tengo.
+  - [ ] Se guarda en base de datos.
+  - [ ] Se actualiza el nombre del plan que tiene.
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**2 - Aceptación - Negativa:**
+- **Historia de usuario:** Como candidato, quiero que se me impida actualizar mi subscripción en caso de error en la petición:
+- **Condiciones:**
+  - [ ] 400 Bad Request al cambiar a un tipo de subscripción que no existe/que pertenece al representante.
+  - [ ] 403 Si utilizo un token incorrectamente.
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**3 - Integración - Positivo:**
+- **Historia de usuario:** Como representante, quiero poder actualizar mi subscripción de forma correcta.
+- **Condiciones:**
+  - [ ] Al cambiar a un plan de subscripción de candidato, se me actualicen los tokens de uso que tengo.
+  - [ ] Se guarda en base de datos.
+  - [ ] Se actualiza el nombre del plan que tiene.
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**4 - Aceptación - Negativa:**
+- **Historia de usuario:** Como representante, quiero que se me impida actualizar mi subscripción en caso de error en la petición:
+- **Condiciones:**
+  - [ ] 400 Bad Request al cambiar a un tipo de subscripción que no existe/que pertenece al representante.
+  - [ ] 403 Si utilizo un token incorrectamente.
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
 # <a name="_3znysh7"></a>**3.Historial de bugs**
 
 |**Commit**|**Fecha de aparición**|**Descripción**|**Estado**|
