@@ -388,15 +388,7 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Estado:** Incompleto
 - **Aceptación:** 0%
 
-# <a name="_3znysh7"></a>**3.Historial de bugs**
-
-|**Commit**|**Fecha de aparición**|**Descripción**|**Estado**|
-| :- | :- | :- | :- |
-|[392b470](https://github.com/JaviFdez7/ISPP-G1-Talent/commit/392b4709259678bd0359911bd43768dc9d3b10e7)|08/04/2024|Cuando se estaba realizando el SetUp del archivo de testing que estudiaba las pruebas unitarias sobre la funcionalidad de crear equipos, se pudo observar de que cuando realizas varias llamadas a la Api GraphQL de forma consecutiva, existe la posibilidad de que se rompa el Api rate, obligando al usuario a actualizar el token de GitHub. **Propuesta para solucionarlo:** Establecer un límite de llamadas a la API y un orden de ejecución, de tal forma que si varios usuarios simultaneamente realizan análisis, que haya un orden y un tiempo de espera establecido |Sin solucionar|
-|[d1bfc23](https://github.com/JaviFdez7/ISPP-G1-Talent/commit/d1bfc230cc6b5b19336aa0aa76852c2568edb1ea)|18/04/2024|El paquete que nosotros utilizamos para realizar tests(mocha y mockHttp) no interpreta los métodos del middleware. Por lo que a la hora de realizar tests de aceptación hay que buscar la forma de introducir las validaciones de los middleware.|Sin solucionar y sin propuesta añadida|
-|[d1bfc23](https://github.com/JaviFdez7/ISPP-G1-Talent/commit/d1bfc230cc6b5b19336aa0aa76852c2568edb1ea)|20/04/2024|Actualmente se puede actualizar el githubUsername durante la actualización del perfil de un candidato, haciendo que se cree otro analisis y se mantenga un análisis sin asociar, haciendo que el historial de un representante sea afectado al tener información incorrecta y desactualizada. Hay que evitar desde frontend y desde backend se pueda actualizar ese githubUser. **Propuesta para solucionarlo:** Impedir que se actualice el githubUsername desde frontend y backend|Sin solucionar|
-
-# <a name="_3znysh8"></a>**4.Pruebas de interfaz gráfica**
+# <a name="_3znysh8"></a>**3.Pruebas de interfaz gráfica**
 
 - **Descripción:** Para probar las funcionalidades que requieren interacción con la interfaz de la aplicación se han creado una serie de _tests_ utilizando la extensión Katalon Recorder de Chrome. Se han creado un total de 5 pruebas pertenecientes a una sola _test suite_ de Katalon. Todas las pruebas consisten en la ejecución de la navegación y la interacción con la interfaz justa y necesaria para completar cada uno de los casos de uso fundamentales para un funcionamiento normal de IT Talent.
 
@@ -409,7 +401,7 @@ Los principales temas a tratar en el documento son los siguientes:
 
 - Aplicando esta fórmula, **para validar un caso de prueba se debe alcanzar el 100% de Aceptación.**
 
-# <a name="4.1"></a>**4.1.Caso de uso CU1**
+# <a name="3.1"></a>**3.1.Caso de uso CU1**
 - **Historia de usuario:** Como representante, quiero registrarme en la aplicación
 - **Navegación:**
   - [X] Página de inicio
@@ -419,7 +411,7 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Estado:** Completado
 - **Aceptación:** 100%
 
-# <a name="4.2"></a>**4.2.Caso de uso CU2**
+# <a name="3.2"></a>**3.2.Caso de uso CU2**
 - **Historia de usuario:** Como candidato, quiero registrarme en la aplicación
 - **Navegación:**
   - [X] Página de inicio
@@ -428,7 +420,7 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Estado:** Completado
 - **Aceptación:** 100%
 
-# <a name="4.3"></a>**4.3.Caso de uso CU3**
+# <a name="3.3"></a>**3.3.Caso de uso CU3**
 - **Historia de usuario:** Como representante, quiero analizar un candidato
 - **Navegación:**
   - [X] Página de inicio
@@ -439,7 +431,7 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Estado:** Completado
 - **Aceptación:** 100%
 
-# <a name="4.4"></a>**4.4.Caso de uso CU4**
+# <a name="3.4"></a>**3.4.Caso de uso CU4**
 - **Historia de usuario:** Como representante, quiero realizar una búsqueda de equipos
 - **Navegación:**
   - [X] Página de inicio
@@ -450,7 +442,7 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Estado:** Completado
 - **Aceptación:** 100%
 
-# <a name="4.5"></a>**4.5.Caso de uso CU5**
+# <a name="3.5"></a>**3.5.Caso de uso CU5**
 - **Historia de usuario:** Como candidato, quiero actualizar mi perfil
 - **Navegación:**
   - [X] Página de inicio
@@ -460,3 +452,11 @@ Los principales temas a tratar en el documento son los siguientes:
   - [X] Página de perfil de candidato
 - **Estado:** Completado
 - **Aceptación:** 100%
+
+# <a name="_3znysh7"></a>**4.Historial de bugs**
+
+|**Commit**|**Fecha de aparición**|**Descripción**|**Estado**|
+| :- | :- | :- | :- |
+|[392b470](https://github.com/JaviFdez7/ISPP-G1-Talent/commit/392b4709259678bd0359911bd43768dc9d3b10e7)|08/04/2024|Cuando se estaba realizando el SetUp del archivo de testing que estudiaba las pruebas unitarias sobre la funcionalidad de crear equipos, se pudo observar de que cuando realizas varias llamadas a la Api GraphQL de forma consecutiva, existe la posibilidad de que se rompa el Api rate, obligando al usuario a actualizar el token de GitHub. **Propuesta para solucionarlo:** Establecer un límite de llamadas a la API y un orden de ejecución, de tal forma que si varios usuarios simultaneamente realizan análisis, que haya un orden y un tiempo de espera establecido |Sin solucionar|
+|[d1bfc23](https://github.com/JaviFdez7/ISPP-G1-Talent/commit/d1bfc230cc6b5b19336aa0aa76852c2568edb1ea)|18/04/2024|El paquete que nosotros utilizamos para realizar tests(mocha y mockHttp) no interpreta los métodos del middleware. Por lo que a la hora de realizar tests de aceptación hay que buscar la forma de introducir las validaciones de los middleware.|Sin solucionar y sin propuesta añadida|
+|[d1bfc23](https://github.com/JaviFdez7/ISPP-G1-Talent/commit/d1bfc230cc6b5b19336aa0aa76852c2568edb1ea)|20/04/2024|Actualmente se puede actualizar el githubUsername durante la actualización del perfil de un candidato, haciendo que se cree otro analisis y se mantenga un análisis sin asociar, haciendo que el historial de un representante sea afectado al tener información incorrecta y desactualizada. Hay que evitar desde frontend y desde backend se pueda actualizar ese githubUser. **Propuesta para solucionarlo:** Impedir que se actualice el githubUsername desde frontend y backend|Sin solucionar|
