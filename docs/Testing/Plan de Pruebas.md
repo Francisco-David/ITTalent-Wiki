@@ -251,6 +251,77 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Estado:** Incompleto
 - **Aceptación:** 0%
 
+# <a name="2.5"></a>**2.5.Módulo: User**
+
+**1 - Integración - Positivo:**
+- **Historia de usuario:** Como usuario, quiero consultar correctamente mi información de usuario.
+- **Condiciones:**
+  - [ ] Un usuario solicita su información por ID con un token válido y verifica que se obtiene la información correcta del usuario.
+  - [ ] Un representante solicita la información de un candidato por ID con un token válido y guardado en su historial y verifica que se obtiene la información correcta.
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**2 - Aceptación - Negativa:**
+- **Historia de usuario:** Como usuario, quiero que salte error si intento consultar información de usuario de forma incorrecta.
+- **Condiciones:**
+  - [ ] Solicitar la información de usuario por ID con un token no válido y esperar un mensaje de error de "No token provided".
+  - [ ] Solicitar la información de usuario por ID sin un token y esperar un mensaje de error.
+  - [ ] Solicitar la información de usuario por ID con un token de otro usuario y esperar un mensaje de error de "Permission denied".
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**3 - Integración - Positivo:**
+- **Historia de usuario:** Como usuario, quiero registrarme de forma correcta como cualquier tipo de usuario.
+- **Condiciones:**
+  - [ ] Crear un candidato con datos válidos y verificar que la creación es exitosa y se devuelve el usuario creado.
+  - [ ] Tras registrarse como candidato, se crea un análisis asociado a mi usuario.
+  - [ ] Crear un representante con datos válidos y verificar que la creación es exitosa y se devuelve el usuario creado.
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**4 - Aceptación - Negativa:**
+- **Historia de usuario:** Como usuario, quiero que salte error al intentar registrarme de forma incorrecta.
+- **Condiciones:**
+  - [ ] Intentar crear un usuario sin proporcionar todos los campos requeridos y esperar un mensaje de error.
+  - [ ] Intentar crear un usuario con un username o email que ya existen y esperar un mensaje de error de "Username/Email already exists".
+  - [ ] Intentar crear un usuario con un email que no existe o inválido y esperar un mensaje de error de "Username/Email already exists".
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**5 - Integración - Positiva:**
+- **Historia de usuario:** Como usuario, quiero poder actualizar mi cuenta correctamente.
+- **Condiciones:**
+  - [ ] Actualizar un usuario con datos válidos y token adecuado y verificar que la actualización es exitosa.
+  - [ ] Actualizar la foto de perfil de un usuario con datos válidos y token adecuado y verificar que la actualización es exitosa.
+  - [ ] Al actualizar esta información como candidato, no afecta al número de tokens de uso.
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**6 - Aceptación - Negativa:**
+- **Historia de usuario:** Como usuario, quiero que salte error al intentar actualizar de forma incorrecta mi usuario.
+- **Condiciones:**
+  - [ ] Intentar actualizar un usuario con un token no válido y esperar un mensaje de error de "No token provided".
+  - [ ] Intentar actualizar un usuario con un token de otro usuario y esperar un mensaje de error de "Permission denied".
+  - [ ] Intentar actualizar un usuario con datos faltantes y esperar un mensaje de error de "No data to update".
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**7 - Integración - Positiva:**
+- **Historia de usuario:** Como usuario, quiero poder eliminar de forma correcta mi perfil.
+- **Condiciones:**
+  - [ ] Eliminar un usuario con token válido correctamente.
+  - [ ] Al consultar por ese usuario, no se encontrará en la base de datos.
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**8 - Aceptación - Negativa:**
+- **Historia de usuario:** Como usuario, quiero que salte error al intentar borrar mi perfil de forma incorrecta.
+- **Condiciones:**
+  - [ ] Intentar eliminar un usuario sin proporcionar un token y esperar un mensaje de error de "No token provided".
+  - [ ] Intentar eliminar un usuario con un token de otro usuario y esperar un mensaje de error de "Permission denied".
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
 # <a name="_3znysh7"></a>**3.Historial de bugs**
 
 |**Commit**|**Fecha de aparición**|**Descripción**|**Estado**|
