@@ -221,6 +221,36 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Estado:** Incompleto
 - **Aceptación:** 0%
 
+# <a name="2.4"></a>**2.4.Módulo: Notification**
+
+**1 - Integración - Positivo:**
+- **Historia de usuario:** Como candidato BÁSICO, quiero poder leer el contenido de mi buzón correctamente.
+- **Condiciones:**
+  - [ ] Que al crear mi perfil, mi buzón esté vacío.
+  - [ ] Que cuando un representante vea mi perfil de análisis al realizar una búsqueda de mi usuario de github, me aparezca un nuevo correo.
+  - [ ] Que cuando un representante cree y guarde un equipo en el que se encuentra mi perfil, se añade un nuevo correo al buzón.
+  - [ ] Que al leer todos los correos de mi buzón, el estado pase a estar “LEÍDO”.
+  - [ ] Que al cambiar al plan AVANZADO y al recibir cualquier otra notificación, me aparezca el nombre del representante en el nuevo correo.
+  - [ ] Que al enviar un representante otra notificación al mismo candidato, se actualice la fecha del ya existente.
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**2 - Integración - Positivo:**
+- **Historia de usuario:** Como candidato, quiero poder eliminar el contenido de mi buzón correctamente.
+- **Condiciones:**
+  - [ ] Que al borrar una notificación de mi buzón, ya no aparezca en el DB.
+  - [ ] Que tras borrar una notificación asociada a un representante, si ese mismo representante enviara otra notificación, esta se añade al DB.
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**3 - Aceptación - Negativo:**
+- **Historia de usuario:** Como candidato, quiero que devuelva un error al intentar leer o borrar un correo de forma incorrecta.
+- **Condiciones:**
+  - [ ] 401 cuando se utiliza un token falso/token de representante/token de otro candidato que no está asociado al ID del usuario.
+  - [ ] 404 al intentar leer un correo con un ID falso/ID de otra notificación que no existe en mi buzón.
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
 # <a name="_3znysh7"></a>**3.Historial de bugs**
 
 |**Commit**|**Fecha de aparición**|**Descripción**|**Estado**|
