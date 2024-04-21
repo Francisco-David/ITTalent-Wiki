@@ -104,7 +104,7 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Estado:** Incompleto
 - **Aceptación:** 0%
 
-# <a name="2.1"></a>**2.2.Módulo: Analysis**
+# <a name="2.2"></a>**2.2.Módulo: Analysis**
 **1-Aceptación - Positivo:**
 - **Historia de usuario:** Como candidato quiero poder ver mi propio perfil de análisis tras crear una cuenta
 - **Condiciones:**
@@ -168,6 +168,57 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Estado:** Incompleto
 - **Aceptación:** 0%
 
+# <a name="2.3"></a>**2.3.Módulo: Professional-Experiences**
+**1 - Integración - Positivo:**
+- **Historia de usuario:** Como candidato, quiero poder consultar mis experiencias profesionales correctamente, introduciendo mi token de usuario.
+- **Condiciones:**
+  - [ ] Tras crear correctamente una experiencia profesional, al leer el perfil aparezca esa entrada
+  - [ ] La experiencia profesional estará asociada al candidato
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**2 - Aceptación - Negativo:**
+- **Historia de usuario:** Como candidato, quiero que aparezcan errores al consultar mis experiencias profesionales enviando peticiones incorrectas
+- **Condiciones:**
+  - [ ] 401 si usas un token falso/de un representante/de otro candidato distinto al userId
+  - [ ] 400 al utilizar un userId no asociado a un candidato
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**3 - Aceptación - Negativo:**
+- **Historia de usuario:** Como candidato, quiero crear una experiencia profesional de forma incorrecta
+- **Condiciones:**
+  - [ ] Al enviar campos vacíos, devuelve 400 Bad Request
+  - [ ] 401 si usas un token falso/de un representante/de otro candidato distinto al userId
+  - [ ] Al haber conflicto con las fechas de inicio y fin, que devuelva error
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**4 - Aceptación - Negativo:**
+- **Historia de usuario:** Como candidato, quiero editar una experiencia profesional de forma incorrecta
+- **Condiciones:**
+  - [ ] Al enviar campos vacíos, devuelve 400 Bad Request
+  - [ ] 401 si usas un token falso/de un representante/de otro candidato distinto al userId
+  - [ ] Al haber conflicto con las fechas de inicio y fin, que devuelva error
+  - [ ] 404 al intentar acceder a un ID de una experiencia inexistente
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**5 - Aceptación - Negativo:**
+- **Historia de usuario:** Como candidato, quiero borrar una experiencia profesional de forma incorrecta
+- **Condiciones:**
+  - [ ] 401 si usas un token falso/de un representante/de otro candidato distinto al userId
+  - [ ] 404 al intentar acceder a un ID de una experiencia inexistente
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**6 - Integración - Positivo:**
+- **Historia de usuario:** Como candidato, quiero crear de forma correcta una experiencia profesional
+- **Condiciones:**
+  - [ ] Se guarda en la base de datos
+  - [ ] Al realizar la búsqueda de un equipo hecho por un representante cuyo perfíl solicite una experiencia laboral que tiene el candidato, deberá aparecer ese candidato
+- **Estado:** Incompleto
+- **Aceptación:** 0%
 
 # <a name="_3znysh7"></a>**3.Historial de bugs**
 
