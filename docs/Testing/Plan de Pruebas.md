@@ -84,26 +84,23 @@ Los principales temas a tratar en el documento son los siguientes:
   - [X] Se crea un equipo correctamente y se guarda en DB
   - [X] Se añaden tantas entradas al historial del representante como candidatos propuestos en el equipo
   - [X] Se me reste la cantidad de tokens de búsqueda
-
 - **Estado:** Completado
 - **Aceptación:** 100%
 
 **2-Aceptación - Negativo:**
 - **Historia de usuario:** Como representante, quiero que se me impida crear un equipo al no introducir mi token correctamente 
 - **Condiciones:**
-  -[ ] Que salte error 400 Forbiden Access al no enviar ningún token
-  -[ ] Que salte error 403 Forbiden Access al enviar un token no existente
-  -[ ] Que salte error 403 Forbiden Acces al enviar un token de otro representante
-
-
+  - [ ] Que salte error 400 Forbiden Access al no enviar ningún token
+  - [ ] Que salte error 403 Forbiden Access al enviar un token no existente
+  - [ ] Que salte error 403 Forbiden Acces al enviar un token de otro representante
 - **Estado:** Incompleto
 - **Aceptación:** 0%
 
 **3-Aceptación - Negativo:**
 - **Historia de usuario:** Como representante, quiero que se me impida crear un equipo al enviar peticiones con campos incorrectos
 - **Condiciones:**
-  -[ ] Que salte error 400 Bad Request al enviar todos los campos vacíos
-  -[ ] Que salte error 400 Bad Request al enviar en un campo de enumerados un valor no esperado.
+  - [ ] Que salte error 400 Bad Request al enviar todos los campos vacíos
+  - [ ] Que salte error 400 Bad Request al enviar en un campo de enumerados un valor no esperado.
 - **Estado:** Incompleto
 - **Aceptación:** 0%
 
@@ -121,6 +118,53 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Condiciones:**
   - [ ] Que salga 200
   - [ ] Que ese análisis se encuentre en el historial del representante
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**3-Aceptación - Negativo:**
+- **Historia de usuario:** Como usuario, quiero que me salga error al enviar una petición de forma incorrecta al intentar consultar un análisis por su identificador
+- **Condiciones:**
+  - [ ] 403 Forbidden al no enviar un token
+  - [ ] 403 Forbidden al enviar un token que no existe
+  - [ ] 403 Forbidden al enviar un token DE CANDIDATO que no es el mismo que el del id
+  - [ ] 403 Forbidden al enviar un token DE REPRESENTANTE que no tiene en su historial ese análisis
+  - [ ] 400 Bad Requests al utilizar un ID que no existe en DB
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**4-Aceptación - Negativo:**
+- **Historia de usuario:** Como usuario, quiero que me salga error al enviar una petición incorrecta al intentar consultar un análisis por el githubUsername
+- **Condiciones:**
+  - [ ] 403 Forbidden al utilizar un token de un candidato
+  - [ ] 400 Bad Requests al utilizar un username inexistente
+  - [ ] 400 Bad Requests al utilizar un username existente en DB pero no en el historial del representante
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**5-Integración (API) - Positivo:**
+- **Historia de usuario:** Como usuario, quiero que me salga error al enviar una petición incorrecta al intentar consultar un análisis por el githubUsername
+- **Condiciones:**
+  - [X] Se guarda en la base de datos
+  - [ ] Se resta un token de uso del representante
+  - [ ] Se crea una entrada del historial
+- **Estado:** Incompleto
+- **Aceptación:** 33%
+
+**6-Integración (API) - Positivo:**
+- **Historia de usuario:** Como representante, quiero crear un análisis con un nombre de usuario asociado a un candidato y verificar que se guarda el análisis en DB
+- **Condiciones:**
+  - [ ] No se crea un nuevo análisis, sino que se actualiza el ya existente
+  - [ ] Se crea una entrada del historial
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**7- Aceptación - Negativo:**
+- **Historia de usuario:** Como representante, quiero que salte un error al intentar crear un análisis enviando una petición incorrecta
+- **Condiciones:**
+  - [ ] Salta 400 Bad Request al enviar una petición vacía
+  - [ ] Salta 403 Forbidden al no tener más tokens
+  - [ ] Salta 404 al introducir un github user inexistente
+  - [ ] Salta 401 al utilizar un token de un candidato/o un token incorrecto
 - **Estado:** Incompleto
 - **Aceptación:** 0%
 
