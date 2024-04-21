@@ -85,6 +85,7 @@ Los principales temas a tratar en el documento son los siguientes:
   - [X] Se crea un equipo correctamente y se guarda en DB
   - [X] Se añaden tantas entradas al historial del representante como candidatos propuestos en el equipo
   - [X] Se me reste la cantidad de tokens de búsqueda
+  - [X] Al consultar el equipo creado, aparecerán los datos correctamente 
 - **Estado:** Completado
 - **Aceptación:** 100%
 
@@ -102,6 +103,33 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Condiciones:**
   - [ ] Que salte error 400 Bad Request al enviar todos los campos vacíos
   - [ ] Que salte error 400 Bad Request al enviar en un campo de enumerados un valor no esperado.
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**4 - Aceptación - Negativo:**
+- **Historia de usuario:** Como representante, quiero que se me impida consultar un equipo al enviar una petición de forma incorrecta.
+- **Condiciones:**
+  - [ ] Que salte 401 al intentar obtener un equipo sin enviar el token de autenticación.
+  - [ ] Que salte 403 al intentar obtener un equipo con un token de un usuario representante que no haya realizado dicha consulta.
+  - [ ] Que salte 403 al intentar obtener un equipo con un token de un usuario que sea candidato.
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**5 - Integración - Positivo:**
+- **Historia de usuario:** Como representante, quiero poder borrar de forma correcta mi equipo.
+- **Condiciones:**
+  - [ ] Se borrará correctamente.
+  - [ ] Al intentar consultar por ese equipo en la base de datos, no aparecerá la información del equipo.
+- **Estado:** Incompleto
+- **Aceptación:** 0%
+
+**6 - Aceptación - Negativo:**
+- **Historia de usuario:** Como representante, quiero que se me impida borrar un equipo al enviar una petición de forma incorrecta.
+- **Condiciones:**
+  - [ ] Que salte 401 al intentar borrar un equipo sin enviar el token de autenticación.
+  - [ ] Que salte 403 al intentar borrar un equipo con un token de un usuario representante que no haya realizado dicha consulta.
+  - [ ] Que salte 403 al intentar borrar un equipo con un token de un usuario que sea candidato.
+  - [ ] Que salte 404 al intentar borrar un equipo que no se encuentra en mi historial pero sí en el de otro representante.
 - **Estado:** Incompleto
 - **Aceptación:** 0%
 
