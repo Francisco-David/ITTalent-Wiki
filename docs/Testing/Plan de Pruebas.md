@@ -83,7 +83,7 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Condiciones:**
   - [X] Se crea un equipo correctamente y se guarda en DB
   - [X] Se añaden tantas entradas al historial del representante como candidatos propuestos en el equipo
-  - [X ] Se me reste la cantidad de tokens de búsqueda
+  - [X] Se me reste la cantidad de tokens de búsqueda
 
 - **Estado:** Completado
 - **Aceptación:** 100%
@@ -93,7 +93,7 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Condiciones:**
   -[ ] Que salte error 400 Forbiden Access al no enviar ningún token
   -[ ] Que salte error 403 Forbiden Access al enviar un token no existente
-  - [ ] Que salte error 403 Forbiden Acces al enviar un token de otro representante
+  -[ ] Que salte error 403 Forbiden Acces al enviar un token de otro representante
 
 
 - **Estado:** Incompleto
@@ -103,7 +103,7 @@ Los principales temas a tratar en el documento son los siguientes:
 - **Historia de usuario:** Como representante, quiero que se me impida crear un equipo al enviar peticiones con campos incorrectos
 - **Condiciones:**
   -[ ] Que salte error 400 Bad Request al enviar todos los campos vacíos
-  - [ ] Que salte error 400 Bad Request al enviar en un campo de enumerados un valor no esperado.
+  -[ ] Que salte error 400 Bad Request al enviar en un campo de enumerados un valor no esperado.
 - **Estado:** Incompleto
 - **Aceptación:** 0%
 
@@ -111,8 +111,8 @@ Los principales temas a tratar en el documento son los siguientes:
 **1-Aceptación - Positivo:**
 - **Historia de usuario:** Como candidato quiero poder ver mi propio perfil de análisis tras crear una cuenta
 - **Condiciones:**
-  - [ ] Que salga 200
-  - [ ] Que el githubUser sea el mismo que el del usuario
+  -[ ] Que salga 200
+  -[ ] Que el githubUser sea el mismo que el del usuario
 - **Estado:** Incompleto
 - **Aceptación:** 0%
 
