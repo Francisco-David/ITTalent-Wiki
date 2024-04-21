@@ -46,6 +46,7 @@ ZARZUELA REINA, CARLOS
 | :- | :- | :- | :- |
 |v1.0|12/04/2024|Andrés Domínguez Ruiz|Documento inicial|
 |v1.1|13/04/2024|Andrés Domínguez Ruiz|Añadir bug al historial y añadir resto de apartados|
+|v1.2|21/04/2024|Andrés Domínguez Ruiz|Rellenar apartados|
 
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
