@@ -108,8 +108,8 @@ Los principales temas a tratar en el documento son los siguientes:
 **1-Aceptación - Positivo:**
 - **Historia de usuario:** Como candidato quiero poder ver mi propio perfil de análisis tras crear una cuenta
 - **Condiciones:**
-  -[ ] Que salga 200
-  -[ ] Que el githubUser sea el mismo que el del usuario
+  - [ ] Que salga 200
+  - [ ] Que el githubUser sea el mismo que el del usuario
 - **Estado:** Incompleto
 - **Aceptación:** 0%
 
