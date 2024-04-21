@@ -90,6 +90,8 @@ Este documento se completará progresivamente con la **actividad** y la **comuni
 
 [5.2 Demo 2	20](#_4vr4b9yuuwpp)
 
+[5.3 Demo 3 20](#_4vr4b9yuuwpy)
+
 
 
 
@@ -487,7 +489,7 @@ Durante este Sprint, recibimos feedback informal a partir de una reunión dada e
 
 No existe actualmente feedback por parte de representantes de la segunda demo.
 
-## <a name="_4vr4b9yuuwpp"></a>**5.3 Demo 3**
+## <a name="_4vr4b9yuuwpy"></a>**5.3 Demo 3**
 - Feedback de candidatos:
 
 
