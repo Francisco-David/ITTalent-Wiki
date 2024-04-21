@@ -47,6 +47,7 @@ ZARZUELA REINA, CARLOS
 |v1.0|12/04/2024|Andrés Domínguez Ruiz|Documento inicial|
 |v1.1|13/04/2024|Andrés Domínguez Ruiz|Añadir bug al historial y añadir resto de apartados|
 |v1.2|21/04/2024|Andrés Domínguez Ruiz|Rellenar apartados|
+|v1.3|21/04/2024|Carlos Bermejo Soria|Pruebas de interfaz gráfica|
 
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
@@ -395,3 +396,67 @@ Los principales temas a tratar en el documento son los siguientes:
 |[d1bfc23](https://github.com/JaviFdez7/ISPP-G1-Talent/commit/d1bfc230cc6b5b19336aa0aa76852c2568edb1ea)|18/04/2024|El paquete que nosotros utilizamos para realizar tests(mocha y mockHttp) no interpreta los métodos del middleware. Por lo que a la hora de realizar tests de aceptación hay que buscar la forma de introducir las validaciones de los middleware.|Sin solucionar y sin propuesta añadida|
 |[d1bfc23](https://github.com/JaviFdez7/ISPP-G1-Talent/commit/d1bfc230cc6b5b19336aa0aa76852c2568edb1ea)|20/04/2024|Actualmente se puede actualizar el githubUsername durante la actualización del perfil de un candidato, haciendo que se cree otro analisis y se mantenga un análisis sin asociar, haciendo que el historial de un representante sea afectado al tener información incorrecta y desactualizada. Hay que evitar desde frontend y desde backend se pueda actualizar ese githubUser. **Propuesta para solucionarlo:** Impedir que se actualice el githubUsername desde frontend y backend|Sin solucionar|
 
+# <a name="_3znysh8"></a>**4.Pruebas de interfaz gráfica**
+
+- **Descripción:** Para probar las funcionalidades que requieren interacción con la interfaz de la aplicación se han creado una serie de _tests_ utilizando la extensión Katalon Recorder de Chrome. Se han creado un total de 5 pruebas pertenecientes a una sola _test suite_ de Katalon. Todas las pruebas consisten en la ejecución de la navegación y la interacción con la interfaz justa y necesaria para completar cada uno de los casos de uso fundamentales para un funcionamiento normal de IT Talent.
+
+- **Fórmula del cálculo de "Aceptación":** la fórmula es la siguiente:
+
+ \- _Aceptación = 100%_, si y solo si Katalon no detecta errores en la ejecución y la página final es la esperada.
+
+ \- _Aceptación = 0%_, si Katalon detecta algún error o si la página final no es la esperada.
+
+
+- Aplicando esta fórmula, **para validar un caso de prueba se debe alcanzar el 100% de Aceptación.**
+
+# <a name="4.1"></a>**4.1.Caso de uso CU1**
+- **Historia de usuario:** Como representante, quiero registrarme en la aplicación
+- **Navegación:**
+  - [X] Página de inicio
+  - [X] Página de registro de candidato
+  - [X] Página de registro de representante
+  - [X] Página de perfil de representante
+- **Estado:** Completado
+- **Aceptación:** 100%
+
+# <a name="4.2"></a>**4.2.Caso de uso CU2**
+- **Historia de usuario:** Como candidato, quiero registrarme en la aplicación
+- **Navegación:**
+  - [X] Página de inicio
+  - [X] Página de registro de candidato
+  - [X] Página de perfil de candidato
+- **Estado:** Completado
+- **Aceptación:** 100%
+
+# <a name="4.3"></a>**4.3.Caso de uso CU3**
+- **Historia de usuario:** Como representante, quiero analizar un candidato
+- **Navegación:**
+  - [X] Página de inicio
+  - [X] Página de login
+  - [X] Página de perfil de representante
+  - [X] Página de analizador
+  - [X] Página de análisis de un candidato
+- **Estado:** Completado
+- **Aceptación:** 100%
+
+# <a name="4.4"></a>**4.4.Caso de uso CU4**
+- **Historia de usuario:** Como representante, quiero realizar una búsqueda de equipos
+- **Navegación:**
+  - [X] Página de inicio
+  - [X] Página de login
+  - [X] Página de perfil de representante
+  - [X] Página de búsqueda
+  - [X] Página de resultados de búsqueda
+- **Estado:** Completado
+- **Aceptación:** 100%
+
+# <a name="4.5"></a>**4.5.Caso de uso CU5**
+- **Historia de usuario:** Como candidato, quiero actualizar mi perfil
+- **Navegación:**
+  - [X] Página de inicio
+  - [X] Página de login
+  - [X] Página de perfil de candidato
+  - [X] Página de actualización de perfil de candidato
+  - [X] Página de perfil de candidato
+- **Estado:** Completado
+- **Aceptación:** 100%
