@@ -88,4 +88,22 @@ No existe actualmente feedback por parte de representantes de la segunda demo.
 
 - Feedback representantes:
 
-Aún no se ha transcrito el feedback de los formularios.
+|**Nombre empresa**|IPECA|
+| :- | :- |
+|**Fecha**|20/4/2024|
+|**Valoración general**|5/10|
+|**Valoración perfil**|5/10|
+|**¿Es cómo la actualización del perfil?**|Tiene problemas|
+|**¿Se entienden los planes de suscripción?**|No lo sé, no sé el fixing price|
+|**¿Cree que la sección de pago para el cambio de plan es intuitiva?**|No, me siento inseguro pagando|
+|**Valoración login/register/logout**|4/10|
+|**Valoración del análisis**|5/10|
+|**¿Qué cambios le haría a la sección de análisis?**|mas friendly|
+|**Valoración historial de análisis**|5/10|
+|**Valoración búsqueda de equipos**|5/10|
+|**¿Qué cambios haría a la búsqueda de equipos?**|más "ligera"|
+|**Valoración historial de búsqueda**|5/10|
+|**Fallos**|no permite el login tiene distintos front-end.|
+|**Sugerencias**|no lo habéis estructurado adecuadamente|
+|**Otros comentarios**|os falta depurarlo|
+|**Valoración formulario**|3/5|

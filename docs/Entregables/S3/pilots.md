@@ -8,7 +8,7 @@
 BERMEJO SORIA, CARLOS         - Creación
 
 
-### Entregable: S2
+### Entregable: S3
 ### Grupo 01 (Mañana) - IT Talent
 
 
@@ -89,6 +89,8 @@ Este documento se completará progresivamente con la **actividad** y la **comuni
 [5.1 Demo 1	17](#_wkafr5zg0ncg)
 
 [5.2 Demo 2	20](#_4vr4b9yuuwpp)
+
+[5.3 Demo 3 20](#_4vr4b9yuuwpy)
 
 
 
@@ -487,7 +489,7 @@ Durante este Sprint, recibimos feedback informal a partir de una reunión dada e
 
 No existe actualmente feedback por parte de representantes de la segunda demo.
 
-## <a name="_4vr4b9yuuwpp"></a>**5.3 Demo 3**
+## <a name="_4vr4b9yuuwpy"></a>**5.3 Demo 3**
 - Feedback de candidatos:
 
 
@@ -514,4 +516,22 @@ No existe actualmente feedback por parte de representantes de la segunda demo.
 
 - Feedback representantes:
 
-Aún no se ha transcrito el feedback de los formularios.
+|**Nombre empresa**|IPECA|
+| :- | :- |
+|**Fecha**|20/4/2024|
+|**Valoración general**|5/10|
+|**Valoración perfil**|5/10|
+|**¿Es cómo la actualización del perfil?**|Tiene problemas|
+|**¿Se entienden los planes de suscripción?**|No lo sé, no sé el fixing price|
+|**¿Cree que la sección de pago para el cambio de plan es intuitiva?**|No, me siento inseguro pagando|
+|**Valoración login/register/logout**|4/10|
+|**Valoración del análisis**|5/10|
+|**¿Qué cambios le haría a la sección de análisis?**|mas friendly|
+|**Valoración historial de análisis**|5/10|
+|**Valoración búsqueda de equipos**|5/10|
+|**¿Qué cambios haría a la búsqueda de equipos?**|más "ligera"|
+|**Valoración historial de búsqueda**|5/10|
+|**Fallos**|no permite el login tiene distintos front-end.|
+|**Sugerencias**|no lo habéis estructurado adecuadamente|
+|**Otros comentarios**|os falta depurarlo|
+|**Valoración formulario**|3/5|
