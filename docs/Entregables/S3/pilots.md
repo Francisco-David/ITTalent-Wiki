@@ -22,7 +22,7 @@ BERMEJO SORIA, CARLOS         - Creación
 |v.1.2|21/03/2024|Carlos Bermejo Soria|Actualización plan de acción|
 |v.2.0|29/03/2024|<p>Carlos Bermejo Soria</p><p>Rubén Casal Ferrero</p>|Unificación de documentos de usuarios piloto|
 |v.2.0|30/03/2024|Carlos Bermejo Soria|Añadir *feedback* recibido|
-|v.2.1|30/03/2024|Carlos Bermejo Soria|Actualización para tercer Sprint|
+|v.2.1|20/04/2024|Carlos Bermejo Soria|Actualización para tercer Sprint|
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
 Este documento se completará progresivamente con la **actividad** y la **comunicación** con los usuarios piloto, ya sean aquellos correspondientes a empresas y terceros o a los usuarios piloto del grupo 7 de la facultad. Además, se pretende establecer un **plan de acción** para llevar a cabo a lo largo del desarrollo.
