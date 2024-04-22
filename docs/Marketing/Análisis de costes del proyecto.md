@@ -62,37 +62,37 @@ En este informe, se llevará a cabo una evaluación detallada de los costes, jun
 
 # <a name="_30j0zll"></a>Índice
 
-[**Sevilla, Enero 2024 1**](#_pg8quxt9d0oa)\*\*
+[**Sevilla, Enero 2024**](#_pg8quxt9d0oa)
 
-[**Control de Versiones 2**](#_z05qqri5g3tk)
+[**Control de Versiones**](#_z05qqri5g3tk)
 
-[Resumen del documento 2](#_lj1qgmxpo5ez)
+[Resumen del documento](#_lj1qgmxpo5ez)
 
-[**Índice 3**](#_30j0zll)
+[**Índice**](#_30j0zll)
 
-[**1. Estimación general de costes 4**](#_3znysh7)
+[**Estimación general de costes**](#_3znysh7)
 
-[Costes de puesta en marcha 11](#_t35hwt4r1rbg)
+[Costes de puesta en marcha](#_t35hwt4r1rbg)
 
-[Costes de desarrollo 11](#_vvewq7jwuq3n)
+[Costes de desarrollo](#_vvewq7jwuq3n)
 
-[Costes operativos (por mes) 13](#_y0zmy03no5iy)
+[Costes operativos (por mes)](#_y0zmy03no5iy)
 
-[Cálculo del Coste Total de Propiedad (TCO) después de un mes 14](#_pfv5o172w9dw)
+[Cálculo del Coste Total de Propiedad (TCO) después de un mes](#_pfv5o172w9dw)
 
-[**2. Análisis de los modelos de negocio de los competidores 28**](#_ihj9lnsxca0c)
+[**2. Análisis de los modelos de negocio de los competidores**](#_ihj9lnsxca0c)
 
-[**3. Decisión de monetización 29**](#_wckdhu8m1di)
+[**3. Decisión de monetización**](#_wckdhu8m1di)
 
-[Empresas 29](#_tgj66a4xfzrz)
+[Empresas](#_tgj66a4xfzrz)
 
-[Candidatos 31](#_5ol0mjrnt5fj)
+[Candidatos](#_5ol0mjrnt5fj)
 
-[**4. Bibliografía 33**](#_gpwc251m2fw5)
+[**4. Bibliografía**](#_gpwc251m2fw5)
 
 #
 
-1. # <a name="_3znysh7"></a>Estimación general de costes
+# <a name="_3znysh7"></a>Estimación general de costes
 
 Según el PMBOK, un coste son todos aquellos gastos que realiza una organización para llevar a cabo una tarea. Definimos como gastos los siguientes:
 
@@ -320,9 +320,9 @@ Son todos los costes previos al desarrollo. Pueden incluir material, licencias d
 Son todos los costes necesarios para las 9 semanas de ejecución del proyecto. Pueden incluir suministros, personal y licencias mensuales, entre otras cosas.
 
 | **Tipo de suministro** | **Personas** | <p> </p><p>**Precio del suministro por persona**</p> | <p> </p><p>Total</p> |
-| ---------------------- | ------------ | ---------------------------------------------------- | -------------------- |
-| Luz                    | 15           | 0,123 €/hora                                         | 166,05 €             |
-| Internet               | 15           | 1,67 €/semana                                        | 225,45 €             |
+| :--------------------- | -----------: | :--------------------------------------------------- | -------------------: |
+| Luz                    |           15 | 0,123 €/hora                                         |             166,05 € |
+| Internet               |           15 | 1,67 €/semana                                        |             225,45 € |
 
 Cada persona rondará las 90 horas durante la fase de ejecución, por lo que el coste de luz se calcula como el producto del número de horas (90), el número de personas (15) y el precio por hora (0,123).
 
@@ -360,10 +360,10 @@ Además, estimamos tener 312 usuarios registrados, por lo que se habrán validad
 | GDPR Protection Manager Officer |                1                |             15€             |         160         |                     1,5                     | 3\.600,00 € | 3\.600,00 € |
 |        Community manager        |                1                |             15€             |         160         |                      1                      | 2\.400,00 € | 2\.400,00 € |
 
-| **Tipo de suministro** | **Personas** |     | <p> </p><p>**Precio del suministro por persona**</p> | <p> </p><p>Total</p> |
-| :--------------------- | -----------: | :-- | :--------------------------------------------------- | -------------------: |
-| Luz                    |            4 |     | 0,123 €/hora                                         |              78,72 € |
-| Internet               |            4 |     | 1,67 €/semana                                        |              26,72 € |
+| **Tipo de suministro** | **Personas** | <p> </p><p>**Precio del suministro por persona**</p> | <p> </p><p>Total</p> |
+| :--------------------- | -----------: | :--------------------------------------------------- | -------------------: |
+| Luz                    |            4 | 0,123 €/hora                                         |              78,72 € |
+| Internet               |            4 | 1,67 €/semana                                        |              26,72 € |
 
 | <p></p><p>**Gasto**</p>  |      Coste/mes | Total   |
 | :----------------------- | -------------: | :------ |
@@ -378,18 +378,21 @@ Para calcular el TCO se deben tener en cuenta todos los costes asociados con el 
 
 ### <a name="_pfv5o172w9dw"></a> Cálculo del Coste Total de Propiedad (TCO) después de un mes
 
-| :- | :- |
-|**Tipo de coste**|<p> </p><p>Total</p>|
-|Puesta en marcha|6\.000,00 €|
-|Desarrollo|25\.196,4 €|
-|Mantenimiento|10\.956,06 €|
-|**Total**|**42.152,46 €**|
+| <p></p><p>**Tipo de coste**</p> |           Total |
+| :------------------------------ | --------------: |
+| Puesta en marcha                |     6\.000,00 € |
+| Desarrollo                      |     25\.196,4 € |
+| Mantenimiento                   |    10\.956,06 € |
+| **Total**                       | **42.152,46 €** |
 
 Si elegimos tener un colchón para imprevistos del 15%, el TCO final sería de
 
 **48.475,33 €**
 
-<img src="/img/DistribucionTCO.png" alt="Imagen 3" style={{ width: '30%', height: '30%' }} />
+<div style={{ display: 'flex' }}>
+  <img src="/img/DistribucionTCO.png" alt="Imagen 3" style={{ width: '30%', height: '30%' }} />
+</div>
+
 Figura 9. Distribución del TCO
 
 **CAPEX vs OPEX:**
@@ -444,10 +447,10 @@ El número de usuarios es muy superior, por lo que durante este periodo (del sex
 | GDPR Protection Manager Officer |                1                |             15€             |         160         |                     1,5                     | 3\.600,00 € | 3\.600,00 € |
 |        Community manager        |                1                |             15€             |         160         |                      1                      | 2\.400,00 € | 2\.400,00 € |
 
-| **Tipo de suministro** | **Personas** |     | <p> </p><p>**Precio del suministro por persona**</p> | <p> </p><p>Total</p> |
-| :--------------------- | -----------: | :-- | :--------------------------------------------------- | -------------------: |
-| Luz                    |            5 |     | 0,123 €/hora                                         |               98,4 € |
-| Internet               |            5 |     | 1,67 €/semana                                        |               33,4 € |
+| **Tipo de suministro** | **Personas** | <p> </p><p>**Precio del suministro por persona**</p> | <p> </p><p>Total</p> |
+| :--------------------- | -----------: | :--------------------------------------------------- | -------------------: |
+| Luz                    |            5 | 0,123 €/hora                                         |               98,4 € |
+| Internet               |            5 | 1,67 €/semana                                        |               33,4 € |
 
 | <p></p><p>**Gasto**</p>  |      Coste/mes | Total   |
 | :----------------------- | -------------: | :------ |
@@ -478,10 +481,10 @@ El incremento en el número de usuarios es menor que en el periodo anterior, per
 | GDPR Protection Manager Officer |                1                |             15€             |         160         |                     1,5                     | 3\.600,00 € | 3\.600,00 € |
 |        Community manager        |                1                |             15€             |         160         |                      1                      | 2\.400,00 € | 2\.400,00 € |
 
-| **Tipo de suministro** | **Personas** |     | <p> </p><p>**Precio del suministro por persona**</p> | <p> </p><p>Total</p> |
-| :--------------------- | -----------: | :-- | :--------------------------------------------------- | -------------------: |
-| Luz                    |            6 |     | 0,123 €/hora                                         |             118,08 € |
-| Internet               |            6 |     | 1,67 €/semana                                        |              40,08 € |
+| **Tipo de suministro** | **Personas** | <p> </p><p>**Precio del suministro por persona**</p> | <p> </p><p>Total</p> |
+| :--------------------- | -----------: | :--------------------------------------------------- | -------------------: |
+| Luz                    |            6 | 0,123 €/hora                                         |             118,08 € |
+| Internet               |            6 | 1,67 €/semana                                        |              40,08 € |
 
 | <p></p><p>**Gasto**</p>  |      Coste/mes | Total   |
 | :----------------------- | -------------: | :------ |
@@ -496,7 +499,9 @@ El aumento en los ingresos supera con creces el aumento en el coste total operat
 
 Basándonos en los ingresos estimados en los tres puntos de referencia (6 meses, 1 año y 2 años), podemos estimar la siguiente evolución:
 
-<img src="/img/EstimacionOptimista.png" alt="Imagen 4" style={{ width: '30%', height: '30%' }} />
+<div style={{ display: 'flex' }}>
+  <img src="/img/EstimacionOptimista.png" alt="Imagen 4" style={{ width: '30%', height: '30%' }} />
+</div>
 
 Vamos ahora con el escenario **pesimista**, calculando los ingresos que estimamos obtener al sexto mes:
 
@@ -516,10 +521,10 @@ Las pérdidas son considerablemente grandes; por lo tanto, durante este periodo 
 | GDPR Protection Manager Officer |                1                |             15€             |         160         |                     1,5                     | 3\.600,00 € | 3\.600,00 € |
 |        Community manager        |                1                |             15€             |         160         |                      1                      | 2\.400,00 € | 2\.400,00 € |
 
-| **Tipo de suministro** | **Personas** |     | <p> </p><p>**Precio del suministro por persona**</p> | <p> </p><p>Total</p> |
-| :--------------------- | -----------: | :-- | :--------------------------------------------------- | -------------------: |
-| Luz                    |            3 |     | 0,123 €/hora                                         |              59,04 € |
-| Internet               |            3 |     | 1,67 €/semana                                        |              20,04 € |
+| **Tipo de suministro** | **Personas** | <p> </p><p>**Precio del suministro por persona**</p> | <p> </p><p>Total</p> |
+| :--------------------- | -----------: | :--------------------------------------------------- | -------------------: |
+| Luz                    |            3 | 0,123 €/hora                                         |              59,04 € |
+| Internet               |            3 | 1,67 €/semana                                        |              20,04 € |
 
 | <p></p><p>**Gasto**</p> |      Coste/mes | Total   |
 | :---------------------- | -------------: | :------ |
@@ -547,10 +552,10 @@ El aumento de usuarios es muy pequeño y la empresa está en mi peligro, por lo 
 |        Equipo de soporte        |                1                |             15€             |         160         |                      1                      | 2\.400,00 € | 2\.400,00 € |
 | GDPR Protection Manager Officer |                1                |             15€             |         160         |                     1,5                     | 3\.600,00 € | 3\.600,00 € |
 
-| **Tipo de suministro** | **Personas** |     | <p> </p><p>**Precio del suministro por persona**</p> | <p> </p><p>Total</p> |
-| :--------------------- | -----------: | :-- | :--------------------------------------------------- | -------------------: |
-| Luz                    |            2 |     | 0,123 €/hora                                         |              39,36 € |
-| Internet               |            2 |     | 1,67 €/semana                                        |              13,36 € |
+| **Tipo de suministro** | **Personas** | <p> </p><p>**Precio del suministro por persona**</p> | <p> </p><p>Total</p> |
+| :--------------------- | -----------: | :--------------------------------------------------- | -------------------: |
+| Luz                    |            2 | 0,123 €/hora                                         |              39,36 € |
+| Internet               |            2 | 1,67 €/semana                                        |              13,36 € |
 
 | <p></p><p>**Gasto**</p> |      Coste/mes | Total   |
 | :---------------------- | -------------: | :------ |
@@ -575,7 +580,9 @@ Prescindir del Community Manager redujo las pérdidas durante un tiempo, pero el
 
 Basándonos en los ingresos estimados en los tres puntos de referencia (6 meses, 1 año y 2 años), podemos estimar la siguiente evolución:
 
-<img src="/img/EstimacionPesimista.png" alt="Imagen 5" style={{ width: '30%', height: '30%' }} />
+<div style={{ display: 'flex' }}>
+  <img src="/img/EstimacionPesimista.png" alt="Imagen 5" style={{ width: '30%', height: '30%' }} />
+</div>
 
 Para finalizar, vamos con la estimación **realista**, calculando los ingresos que estimamos obtener al sexto mes:
 
@@ -607,10 +614,10 @@ El número de usuarios es considerablemente superior, por lo que en este periodo
 | GDPR Protection Manager Officer |                1                |             15€             |         160         |                     1,5                     | 3\.600,00 € | 3\.600,00 € |
 |        Community manager        |                1                |             15€             |         160         |                      1                      | 2\.400,00 € | 2\.400,00 € |
 
-| **Tipo de suministro** | **Personas** |     | <p> </p><p>**Precio del suministro por persona**</p> | <p> </p><p>Total</p> |
-| :--------------------- | -----------: | :-- | :--------------------------------------------------- | -------------------: |
-| Luz                    |            5 |     | 0,123 €/hora                                         |               98,4 € |
-| Internet               |            5 |     | 1,67 €/semana                                        |               33,4 € |
+| **Tipo de suministro** | **Personas** | <p> </p><p>**Precio del suministro por persona**</p> | <p> </p><p>Total</p> |
+| :--------------------- | -----------: | :--------------------------------------------------- | -------------------: |
+| Luz                    |            5 | 0,123 €/hora                                         |               98,4 € |
+| Internet               |            5 | 1,67 €/semana                                        |               33,4 € |
 
 | <p></p><p>**Gasto**</p>  |      Coste/mes | Total   |
 | :----------------------- | -------------: | :------ |
@@ -637,7 +644,9 @@ El incremento en el número de usuarios no es tan grande como en el periodo ante
 
 Basándonos en los ingresos estimados en los tres puntos de referencia (6 meses, 1 año y 2 años), podemos estimar la siguiente evolución:
 
-<img src="/img/EstimacionRealista.png" alt="Imagen 6" style={{ width: '30%', height: '30%' }} />
+<div style={{ display: 'flex' }}>
+  <img src="/img/EstimacionRealista.png" alt="Imagen 6" style={{ width: '30%', height: '30%' }} />
+</div>
 
 Es momento de analizar los resultados obtenidos en cada escenario:
 
@@ -708,7 +717,9 @@ Ofrecemos los siguientes planes de pago:
 | **Plan avanzado**      |    <p></p><p>100€/mes</p>     | <p>-Hasta 250 búsquedas de candidatos al mes.</p><p>-Búsqueda por equipos de hasta 5 personas.</p><p><a name="_93fx36426obl"></a>-Scroll de hasta 10 opciones diferentes para cada uno de los resultados en búsquedas por equipo.</p><p><a name="_wt8jlk1kh0sf"></a>-Todos los filtros disponibles.</p><p><a name="_rto42g28toxo"></a>-Estadísticas del perfil del candidato.</p><p><a name="_mppxewf1odhr"></a>-Tiempos de respuesta más cortos.</p><p><a name="_fnfq6vc5t9px"></a>-Soporte prioritario.</p> |
 | **Plan personalizado** | <a name="_lajxygsx53si"></a>- |                                                                                                                                                                                                                                 -Características personalizadas bajo demanda.                                                                                                                                                                                                                                 |
 
-<img src="/img/PricingEmpresas.png" alt="Imagen 7" style={{ width: '30%', height: '30%' }} />
+<div style={{ display: 'flex' }}>
+  <img src="/img/PricingEmpresas.png" alt="Imagen 7" style={{ width: '30%', height: '30%' }} />
+</div>
 
 Estos planes han sido determinados tras un minucioso análisis de mercado. El **plan básico** se ha posicionado con **un precio más competitivo** y suficientes características como para que sea completamente funcional en un proceso de contratación. La idea es que los usuarios del plan básico sientan que tienen todo lo que necesitan para cumplir con el propósito con el que instalaron la aplicación.
 
@@ -727,7 +738,9 @@ Ofrecemos los siguientes planes de pago:
 | **Plan básico**   |                                   Gratuito                                    |                                                                                                                                               <p><a name="_knmwk1yv2xqd"></a>-Todas las funcionalidades básicas de la aplicación.</p><p>-Posibilidad de actualizar los datos cada 30 días.</p>                                                                                                                                                |
 | **Plan avanzado** | <p></p><p><a name="_5ba8shiu5m7"></a><a name="_i452zi3xp17z"></a>10 €/mes</p> | <p><a name="_45wnzio2sgdt"></a>-Todas las funcionalidades del plan anterior.</p><p><a name="_mbzkg4xvbnz"></a>-Posibilidad de actualizar los datos tres veces cada 30 días.</p><p><a name="_k60xc3dcs4i"></a>-Posibilidad de ver qué empresas han visualizado tu perfil.</p><p><a name="_fiwf192aq2yh"></a>-Estadísticas avanzadas de la aplicación, que ofrecerán una visión de los perfiles profesionales que están teniendo más éxito.</p> |
 
-<img src="/img/PricingCandidatos.png" alt="Imagen 8" style={{ width: '30%', height: '30%' }} />
+<div style={{ display: 'flex' }}>
+  <img src="/img/PricingCandidatos.png" alt="Imagen 8" style={{ width: '30%', height: '30%' }} />
+</div>
 
 A diferencia de para las empresas, el **plan básico** es gratuito. Queremos que cualquier usuario, independientemente de poder pagar o no, tenga la oportunidad de encontrar empleo en la aplicación.
 
@@ -737,8 +750,10 @@ Hemos identificado que, **para amortizar nuestra inversión** en un período apr
 
 Además, **para que el mantenimiento anual sea rentable**, necesitaríamos **247 empresas** en el **plan básico**, **93 empresas** en el **plan avanzado**, **740 candidatos** en el **plan avanzado** o cualquier combinación de estos (sin contar el plan personalizado).
 
-<img src="/img/PrecioPlanes.png" alt="Imagen 9" style={{ width: '30%', height: '30%' }} />
-Figura 1. Gráfica para calcular el precio de los planes y el volumen de usuarios necesarios
+<div style={{ display: 'flex' }}>
+  <img src="/img/PrecioPlanes.png" alt="Imagen 9" style={{ width: '30%', height: '30%' }} />
+  Figura 1. Gráfica para calcular el precio de los planes y el volumen de usuarios necesarios
+</div>
 
 # <a name="_gpwc251m2fw5"></a>Bibliografía
 
