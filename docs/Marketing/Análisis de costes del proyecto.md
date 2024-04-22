@@ -1,6 +1,6 @@
 ﻿<div style={{ display: 'flex' }}>
-  <img src="/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
-  <img src="/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
+  <img src="/blob/main/static/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
+  <img src="/blob/main/static/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
 </div>
 
 ## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
@@ -390,7 +390,7 @@ Si elegimos tener un colchón para imprevistos del 15%, el TCO final sería de
 **48.475,33 €**
 
 <div style={{ display: 'flex' }}>
-  <img src="/img/DistribucionTCO.png" alt="Imagen 3" style={{ width: '30%', height: '30%' }} />
+  <img src="/blob/main/static/img/DistribucionTCO.png" alt="Imagen 3" style={{ width: '30%', height: '30%' }} />
 </div>
 
 Figura 9. Distribución del TCO
@@ -500,7 +500,7 @@ El aumento en los ingresos supera con creces el aumento en el coste total operat
 Basándonos en los ingresos estimados en los tres puntos de referencia (6 meses, 1 año y 2 años), podemos estimar la siguiente evolución:
 
 <div style={{ display: 'flex' }}>
-  <img src="/img/EstimacionOptimista.png" alt="Imagen 4" style={{ width: '30%', height: '30%' }} />
+  <img src="/blob/main/static/img/EstimacionOptimista.png" alt="Imagen 4" style={{ width: '30%', height: '30%' }} />
 </div>
 
 Vamos ahora con el escenario **pesimista**, calculando los ingresos que estimamos obtener al sexto mes:
@@ -581,7 +581,7 @@ Prescindir del Community Manager redujo las pérdidas durante un tiempo, pero el
 Basándonos en los ingresos estimados en los tres puntos de referencia (6 meses, 1 año y 2 años), podemos estimar la siguiente evolución:
 
 <div style={{ display: 'flex' }}>
-  <img src="/img/EstimacionPesimista.png" alt="Imagen 5" style={{ width: '30%', height: '30%' }} />
+  <img src="/blob/main/static/img/EstimacionPesimista.png" alt="Imagen 5" style={{ width: '30%', height: '30%' }} />
 </div>
 
 Para finalizar, vamos con la estimación **realista**, calculando los ingresos que estimamos obtener al sexto mes:
@@ -645,7 +645,7 @@ El incremento en el número de usuarios no es tan grande como en el periodo ante
 Basándonos en los ingresos estimados en los tres puntos de referencia (6 meses, 1 año y 2 años), podemos estimar la siguiente evolución:
 
 <div style={{ display: 'flex' }}>
-  <img src="/img/EstimacionRealista.png" alt="Imagen 6" style={{ width: '30%', height: '30%' }} />
+  <img src="/blob/main/static/img/EstimacionRealista.png" alt="Imagen 6" style={{ width: '30%', height: '30%' }} />
 </div>
 
 Es momento de analizar los resultados obtenidos en cada escenario:
@@ -718,7 +718,7 @@ Ofrecemos los siguientes planes de pago:
 | **Plan personalizado** | <a name="_lajxygsx53si"></a>- |                                                                                                                                                                                                                                 -Características personalizadas bajo demanda.                                                                                                                                                                                                                                 |
 
 <div style={{ display: 'flex' }}>
-  <img src="/img/PricingEmpresas.png" alt="Imagen 7" style={{ width: '30%', height: '30%' }} />
+  <img src="/blob/main/static/img/PricingEmpresas.png" alt="Imagen 7" style={{ width: '30%', height: '30%' }} />
 </div>
 
 Estos planes han sido determinados tras un minucioso análisis de mercado. El **plan básico** se ha posicionado con **un precio más competitivo** y suficientes características como para que sea completamente funcional en un proceso de contratación. La idea es que los usuarios del plan básico sientan que tienen todo lo que necesitan para cumplir con el propósito con el que instalaron la aplicación.
@@ -739,7 +739,7 @@ Ofrecemos los siguientes planes de pago:
 | **Plan avanzado** | <p></p><p><a name="_5ba8shiu5m7"></a><a name="_i452zi3xp17z"></a>10 €/mes</p> | <p><a name="_45wnzio2sgdt"></a>-Todas las funcionalidades del plan anterior.</p><p><a name="_mbzkg4xvbnz"></a>-Posibilidad de actualizar los datos tres veces cada 30 días.</p><p><a name="_k60xc3dcs4i"></a>-Posibilidad de ver qué empresas han visualizado tu perfil.</p><p><a name="_fiwf192aq2yh"></a>-Estadísticas avanzadas de la aplicación, que ofrecerán una visión de los perfiles profesionales que están teniendo más éxito.</p> |
 
 <div style={{ display: 'flex' }}>
-  <img src="/img/PricingCandidatos.png" alt="Imagen 8" style={{ width: '30%', height: '30%' }} />
+  <img src="/blob/main/static/img/PricingCandidatos.png" alt="Imagen 8" style={{ width: '30%', height: '30%' }} />
 </div>
 
 A diferencia de para las empresas, el **plan básico** es gratuito. Queremos que cualquier usuario, independientemente de poder pagar o no, tenga la oportunidad de encontrar empleo en la aplicación.
@@ -751,7 +751,7 @@ Hemos identificado que, **para amortizar nuestra inversión** en un período apr
 Además, **para que el mantenimiento anual sea rentable**, necesitaríamos **247 empresas** en el **plan básico**, **93 empresas** en el **plan avanzado**, **740 candidatos** en el **plan avanzado** o cualquier combinación de estos (sin contar el plan personalizado).
 
 <div style={{ display: 'flex' }}>
-  <img src="/img/PrecioPlanes.png" alt="Imagen 9" style={{ width: '30%', height: '30%' }} />
+  <img src="/blob/main/static/img/PrecioPlanes.png" alt="Imagen 9" style={{ width: '30%', height: '30%' }} />
   Figura 1. Gráfica para calcular el precio de los planes y el volumen de usuarios necesarios
 </div>
 
