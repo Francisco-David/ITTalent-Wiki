@@ -149,6 +149,7 @@ Antes de comenzar a probar la aplicación, es posible que necesite los siguiente
 - URL de GitHub: <https://github.com/JaviFdez7/ISPP-G1-Talent>
 - URL de la herramienta de seguimiento: [https://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https:%2F%2Freporter.bluejay.governify.io%2Fapi%2Fv4%2Fdashboards%2Ftpa-ISPP-2024-GH-JaviFdez7_ISPP-G1-Talent%2Fmain&orgId=1 ](https://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https:%2F%2Freporter.bluejay.governify.io%2Fapi%2Fv4%2Fdashboards%2Ftpa-ISPP-2024-GH-JaviFdez7_ISPP-G1-Talent%2Fmain&orgId=1)
 - URL de la base de conocimiento del grupo: https://it-talent-wiki.vercel.app/docs/intro
+- URL de el vídeo de la DEMO: https://youtu.be/M8asZArWEAw
 - URL de la presentación: https://www.canva.com/design/DAGB_43VmDE/MCOxrCoK_99F7QEca96XWA/view?utm_content=DAGB_43VmDE&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 Además, es posible que necesite estas credenciales:
