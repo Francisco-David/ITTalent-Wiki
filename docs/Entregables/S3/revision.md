@@ -1,4 +1,7 @@
-﻿# Reviewers Guide #S3
+﻿<div style={{ display: 'flex' }}>
+  <img src="/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
+  <img src="/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
+</div>
 
 ## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
 
@@ -35,7 +38,9 @@ ZARZUELA REINA, CARLOS
 ### Sevilla, Enero 2024
 ### Entregable: S3
 
-# <a name="_z05qqri5g3tk"></a>Control de Versiones
+# Reviewers Guide #S3
+
+## <a name="_z05qqri5g3tk"></a>Control de Versiones
 
 |**Versión**|**Fecha**|**Autor**|**Cambios**|
 | :- | :- | :- | :- |
@@ -48,9 +53,7 @@ Este documento pretende servir de guía para la revisión de la primera demo de 
 
 
 
-# <a name="_1fob9te"></a>
-#
-#
+
 # <a name="_k51xz950apj4"></a><a name="_ug1jcmvg7r12"></a><a name="_9j8c07fxd5sy"></a>Índice
 
 [**Control de Versiones	2**](#_z05qqri5g3tk)**
