@@ -1,6 +1,6 @@
-﻿# <a name="_x0ol9ac5ou8t"></a><a name="_ebgmx8b5zfn6"></a>**Reviewers Guide #S3**
+﻿# Reviewers Guide #S3
 
-<a name="_576gf9ppazqt"></a>**Ingeniería del Software y Práctica Profesional - Universidad de Sevilla**
+## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
 
 BERMEJO SORIA, CARLOS
 
@@ -32,8 +32,8 @@ VILAPLANA DE TRÍAS, FRANCISCO DAVID
 
 ZARZUELA REINA, CARLOS
 
-**Sevilla, Enero 2024**
-
+### Sevilla, Enero 2024
+### Entregable: S3
 
 # <a name="_z05qqri5g3tk"></a>Control de Versiones
 
