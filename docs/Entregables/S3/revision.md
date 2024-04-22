@@ -35,7 +35,7 @@ VILAPLANA DE TRÍAS, FRANCISCO DAVID
 
 ZARZUELA REINA, CARLOS
 
-### Sevilla, Enero 2024
+### Sevilla, Abril 2024
 ### Entregable: S3
 
 # Reviewers Guide #S3
