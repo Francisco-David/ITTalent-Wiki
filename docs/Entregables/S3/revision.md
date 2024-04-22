@@ -56,7 +56,7 @@ Este documento pretende servir de guía para la revisión de la primera demo de 
 
 # <a name="_k51xz950apj4"></a><a name="_ug1jcmvg7r12"></a><a name="_9j8c07fxd5sy"></a>Índice
 
-[**Control de Versiones	2**](#_z05qqri5g3tk)**
+[**Control de Versiones	2**](#_z05qqri5g3tk)
 
 [**Resumen del documento	2**](#_lj1qgmxpo5ez)
 
@@ -148,7 +148,8 @@ Antes de comenzar a probar la aplicación, es posible que necesite los siguiente
 - URL de la plataforma de despliegue:  <https://ispp-g1-talent-frontend.vercel.app/>
 - URL de GitHub: <https://github.com/JaviFdez7/ISPP-G1-Talent>
 - URL de la herramienta de seguimiento: [https://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https:%2F%2Freporter.bluejay.governify.io%2Fapi%2Fv4%2Fdashboards%2Ftpa-ISPP-2024-GH-JaviFdez7_ISPP-G1-Talent%2Fmain&orgId=1 ](https://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https:%2F%2Freporter.bluejay.governify.io%2Fapi%2Fv4%2Fdashboards%2Ftpa-ISPP-2024-GH-JaviFdez7_ISPP-G1-Talent%2Fmain&orgId=1)
-- URL de la presentación: <https://github.com/Francisco-David/ITTalent-Wiki/tree/main/docs/Entregables/S2>
+- URL de la base de conocimiento del grupo: https://it-talent-wiki.vercel.app/docs/intro
+- URL de la presentación: https://www.canva.com/design/DAGB_43VmDE/MCOxrCoK_99F7QEca96XWA/view?utm_content=DAGB_43VmDE&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 Además, es posible que necesite estas credenciales:
 
