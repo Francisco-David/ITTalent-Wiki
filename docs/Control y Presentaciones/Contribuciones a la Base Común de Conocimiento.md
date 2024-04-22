@@ -49,6 +49,7 @@ ZARZUELA REINA, CARLOS
 |v1.0|18/02/24|Paco, Fernando, Ismael|Documento inicial|
 |v2.0|26/02/24|Paco|Cambio en el formato y adición del contenido de la 3a semana|
 |v2.1|03/03/24|Paco|Adición de contenido de la 4a semana|
+|v2.6|22/04/24|Paco|Adición de contenido de la 8a y 9a semana|
 
 ## **Resumen del documento**
 En este documento se especifican las contribuciones a la base de conocimientos de la asignatura disponible en [este enlace](https://bgcc.vercel.app/). También se recogen las acciones que se han tomado teniendo en cuenta el feedback proporcionado de una semana a otra.
@@ -76,6 +77,10 @@ En este documento se especifican las contribuciones a la base de conocimientos d
 [Semana 6	](#_b9ljviz0epcb)
 
 [Semana 7	](#_b9ljviz0epcb2)
+
+[Semana 8	](#_b9ljviz0epcb3)
+
+[Semana 9	](#_b9ljviz0epcb4)
 
 # 1. Contribuciones
 Para las contribuciones se llega a un acuerdo de que cada semana será un grupo el encargado de recoger todo el feedback general de esa sesión y desplegarlo en la página <https://bgcc.vercel.app/>. Pero cada grupo tendrá como encargo semanalmente subir el feedback de su propio grupo, además de revisar el general en busca de posibles carencias en este.
@@ -522,4 +527,46 @@ Se prepara un Elevator Pitch más claro cohesionandolo con el Killer Opener ya e
 **Aplicación**
 
 Se añade una API al desarrollo para validar los correos electrónicos usados y se añade el coste de esta al Opex.
+
+
+## <a name="_b9ljviz0epcb3"></a>**Semana 8**
+
+**Presentación**
+
+Se cuida que no haya ninguna diapositiva cuyo formato de imagen no permita reconocer los textos en esta. Se atiende a lo dicho en clas y se incluye una matriz con el esfuerzo en horas y el rendimiento estipulado por nuestro grupo con todos los integrantes.
+
+**Demo**
+
+Se usan datos realistas para la DEMO para los apartados de Candidatos y Representantes. Se aportan más gráficas para mostrar los datos para que quede más profesional.
+
+**Presentador**
+
+Cuida el movimiento por el espacio designado a presentar para no marear a la audiencia y procura, al mostrar alguna gráfica, desarrollar, mencionar o explicar algo de esta y no pasar sin comentarla.
+
+**Costes**
+
+A mayor número de clientes los costes varían; El personal de soporte aumentará si lo requiere la plataforma.
+
+**Usuarios Pilotos**
+
+Se habla con los usuarios piloto y tratamos de dejar claro cuál es la fecha límite para recibir su feedback, para tener tiempo a tomar acciones de consolidación en función a este.
+
+
+## <a name="_b9ljviz0epcb4"></a>**Semana 9**
+
+**Presentación**
+
+Creamos un nuevo anuncio con el feedback aportado en la anterior clase sobre el existente. Se realiza una diapositiva que refleje mejor la mejora del rendimiento de un integrante con respecto a la semana anterior.
+
+**Usuarios Potenciales**
+
+Se repiensan los usuarios potenciales de nuestra aplicación al no tener datos realistas o suficientemente justificados de personas que USEN o puedan llegar a usarla en algún momento. 
+
+**Demo**
+
+Nos cercioramos de que en el video de la demo se vaya directamente a las funcionalidades core sin pasar por otras como la edición de perfiles. Se incluyen los ToS en el registro.
+
+**Presentador**
+
+El presentador practica un ritmo constante de presentación para no subirlo y que se pierdan conceptos por ello.
 
