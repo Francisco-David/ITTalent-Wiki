@@ -971,7 +971,6 @@ HABRÁ 2 PRESENTACIONES distintas:
    1. Planning (Publicaciones en las RRSS)
    1. Responsables (De las RRSS)
    1. Número de impresiones que tenemos como objetivo
-   1. ...
 1. Coste de marketing – Desglosado
 1. Si hay algún anuncio que queramos poner que no saliera en la primera se pone para comentarlo
 1. Uso de las IAs
