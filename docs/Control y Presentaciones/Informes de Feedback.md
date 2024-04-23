@@ -115,6 +115,14 @@ ZARZUELA REINA, CARLOS
 
 [Tareas - ¿Qué no puede faltar?	](#_xw8pcxlaup9y23)
 
+[8. Semana 10 (23/04)	](#_3n6nqs3ox56d24)
+
+[Cosas a tener en cuenta	](#_4ki1iznv6aw624)
+
+[Consideraciones para IT TALENT	](#_es35wsm2my6q24)
+
+[Tareas - ¿Qué no puede faltar?	](#_xw8pcxlaup9y24)
+
 
 
 
@@ -881,3 +889,89 @@ sistema de memoria planteado para minimizar el número de llamadas
 1. **Uso de IA**
 1. QR **landing page**
 
+
+# <a name="_3n6nqs3ox56d24"></a> Semana 10 (23/04)
+## <a name="_4ki1iznv6aw624"></a>**Cosas a tener en cuenta**
+
+1. Evitar hablar de cosas como el GDPR que son generales e iguales para todos y entrar en conceptos de grupo.
+1. Justificar siempre por qué se darían datos optimistas o pesimistas.
+1. La DEMO debería tener algo parecido a una historia, no debe verse como una lista de funcionalidades. Es buen práctica que el anuncio se vea reflejado en la DEMO.
+1. Incluir cómo se van a medir y qué horizontes se van a poner a las métricas para resolver los problemas.
+1. Especificar los bugs que se han detectado y de qué manera se han solucionado.
+1. Si durante esa semana ha habido algún problema con los usuarios pilotos, se deben desarrollar las acciones que se han tomado con respecto al Acuerdo de los Usuarios Piloto.
+1. Por cada riesgo o problema que se presente, debe haber acciones de consolidación, pero lo más importante es que además deben haber métricas y se deben exponer en la presentación. “Vamos a reunirnos cada 2 días” “Vamos a …” Debe haber una métrica para medir el grado de satisfacción de la medida y un umbral que mida cuando se ha solucionado.
+1. Cuando se hable de los problemas que han aparecido, reflejar de alguna manera (una tabla es lo más sencillo para que lo vean claro los profesores) que se vea: Problema – Medida – Métrica - Estado 
+1. Las presentaciones deben servir de apoyo a la audiencia, no deben parecer apuntes para el orador. Se deben buscar más iconografías e imágenes.
+1. Los números realistas deben ser lo suficientemente optimistas como para que sea rentable como para que un equipo pueda mantenerla. Luego estos números se podrán justificar en la campaña de lanzamiento durante los próximos sprints.
+1. Si como presentador tenemos problemas de hablar rápido es buena práctica realizar ejercicios de vocalización previos a la presentación.
+1. No confundir los términos "beneficios" e "ingresos", sobre todo al reflejarlos en la presentación.
+1. Se debe cuidar el uso de conectores durante la presentación sobre todo si no tiene sentido coherente entre ambas frases.
+1. Hay que saber medir cuando, aún habiendo mucho esfuerzo en una tarea, si se da una corrección o una recomendación, aceptar estas y realizar algo de retrospectiva en lugar de tratar de defenderla a cualquier costo.
+1. No usar canciones demasiado conocidas para los anuncios. Plantearse usar herramientas de IA con el nombre de nuestra aplicación para estos.
+1. Se debería de prever con anterioridad a padecer el problema el pasarse de las horas estipuladas en la asignatura. Si ya ha pasado no se ha tratado de manera correcta.
+1. Si no se pueden realizar los test de carga sobre el AppEngine es conveniente buscar alternativas, aunque sea probarlo el local y extrapolar al despliegue real.
+1. Si alguien disminuye su rendimiento de manera constante es necesario tomar algún tipo de medida, hablarlo con él y llegar a algún tipo de solución para que la tendencia no siga.
+1. En los anuncios evitar anuncios de dinámica “¿Conoces la app ...?” Es mejor llegar de una manera más orgánica, en la que uno presente las necesidades que puede satisfacer la aplicación y entonces se le ocurra usar la nuestra.
+1. Al recoger el feedback de los usuarios piloto sobre los precios, nos da más información preguntar primero cuánto estaría dispuesto a pagar antes de mostrarle cuánto cuesta.
+
+
+## <a name="_es35wsm2my6q24"></a>**Consideraciones para IT TALENT**
+- Evitar hablar de cosas como el GDPR que son generales e iguales para todos y entrar en conceptos de grupo.
+- Justificar mejor por qué se darían datos optimistas o pesimistas.
+- La DEMO debería tener algo parecido a una historia, no debe verse como una lista de funcionalidades. Es buen práctica que el anuncio se vea reflejado en la DEMO.
+- Quitar decimales de los años de experiencia (son pequeños detalles pero no pueden llegar a la presentación siendo 15 miembros de equipo).
+- Incluir cómo se van a medir y qué horizontes se van a poner a las métricas para resolver los problemas.
+- Un fondo oscuro es poco práctico, debe como mínimo existir la opción de poner un modo claro. Es difícil leer cosas como la leyenda de los gráficos.
+- Dejar claro que la búsqueda de nuevos usuarios pilotos sigue activa.
+- Al ser una herramienta que se usaría de forma puntual y de manera no extendida no tiene sentido el fondo oscuro.
+- Especificar los bugs que se han detectado y de qué manera se han solucionado.
+- Si durante esa semana ha habido algún problema con los usuarios pilotos, se deben desarrollar las acciones que se han tomado con respecto al Acuerdo de los Usuarios Piloto.
+- Por cada riesgo o problema que se presente, debe haber acciones de consolidación, pero lo más importante es que además deben haber métricas y se deben exponer en la presentación. “Vamos a reunirnos cada 2 días” “Vamos a …” Debe haber una métrica para medir el grado de satisfacción de la medida y un umbral que mida cuando se ha solucionado.
+- Cuando se hable de los problemas que han aparecido, reflejar de alguna manera (una tabla es lo más sencillo para que lo vean claro los profesores) que se vea: Problema – Medida – Métrica - Estado 
+
+## <a name="_xw8pcxlaup9y24"></a>**Tareas - ¿Qué no puede faltar?**
+
+
+- WPL: 
+   - En el salón de actos 21 de mayo. Desde las 12:30  a 14:30
+   - Se podrá ensayar el Lunes de 13:30 a 16:30. Preparar temas como el cañón, audio…
+
+HABRÁ 2 PRESENTACIONES distintas:
+
+- **Una de 10 minutos para ensayar el WPL:**
+
+1. ¿De qué va el proyecto?
+   1. Killer opener
+   1. Elevator pitch
+   1. Video usuario/cliente
+1. ¿Cómo funciona? - DEMO
+1. ¿Hay competencia?
+   1. Análisis de competidores
+   1. ¿Qué nos diferencia?
+1. ¿Quién hay detrás? - Equipo
+1. ¿Es rentable?
+   1. Planes de precio
+   1. Resumen de plan de negocio, costes...
+   1. Oportunidades de inversión, ROI
+   1. Anuncio de inversores:
+      1. ¿Qué podemos ofrecer?
+      1. ¿De qué va el proyecto?
+      1. Opciones de inversión – “Si invertes X en tanto tiempo conseguirás Y”
+1. Landing page, contacto…
+
+
+- **Otra de 5 minutos sobre la campaña de lanzamiento:**
+
+1. Segmentación del mercado - ¿A quién va dirigido? (modelo de segmentación) (2 perfiles como mínimo)
+1. Algún tipo de optimización SEO – Buscadores, palabras claves…
+1. Campaña de lanzamiento previo al WPL – Promociones, acciones de impulso para tracción inicial (orientado al cliente más que al usuario)
+1. Acciones de marketing
+1. Community Management:
+   1. Objetivos (Píldora teórica)
+   1. Planning (Publicaciones en las RRSS)
+   1. Responsables (De las RRSS)
+   1. Número de impresiones que tenemos como objetivo
+   1. ...
+1. Coste de marketing – Desglosado
+1. Si hay algún anuncio que queramos poner que no saliera en la primera se pone para comentarlo
+1. Uso de las IAs
