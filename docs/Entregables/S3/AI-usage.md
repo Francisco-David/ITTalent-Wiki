@@ -69,7 +69,7 @@ ZARZUELA REINA, CARLOS
 
 
 
-1. # <a name="_a7sktcw3oobp"></a> Guía de Prompts
+ # <a name="_a7sktcw3oobp"></a>1. Guía de Prompts
 Para un uso más sencillo y colaborativo de las herramientas, haremos una guía donde estén **los prompts de interés o que puedan servir a cualquier integrante del proyecto**, en los que se describirán contextos para el desarrollo del producto.
 
 ## <a name="_2a57xou8c1ul"></a>**Contexto General del proyecto**
@@ -125,7 +125,7 @@ Plan avanzado 10 €/mes:
 Si te ha quedado claro confirmame con “Me ha quedado claro” si necesitas alguna aclaración con respecto al proyecto pídemelo.
 
 
-1. # <a name="_okojw5um7jvk"></a> Informes de Uso
+ # <a name="_okojw5um7jvk"></a>2. Informes de Uso
 En el desarrollo del proyecto se hará uso de IAs, por ello hemos decidido realizar un seguimiento de los documentos en los que han sido.
 ## <a name="_eni8px1b7nvu"></a>**Referencias**
 
@@ -156,3 +156,23 @@ En el desarrollo del proyecto se hará uso de IAs, por ello hemos decidido reali
 ## <a name="_vq37do362enl"></a>**Feedback de las Consultas**
 
 **Customer Agreement:** Fue necesario ir refinando el prompt tras la primera consulta con el feedback recibido por Claudette ya que generaba cláusulas excesivamente injustas.
+
+ # <a name="_a7sktcw3oobp"></a>4. Huella de CO2 
+
+En internet, hemos encontrado información difusa, sitios cómo [Nature](https://www.nature.com/articles/s41598-024-54271-x#:~:text=An%20informal%20online%20estimate%20for,divided%20by%20230%2C768%20queries) indican que cada consulta emite unos 0,382 gramos de CO2. Sin embargo, [Piktochart](https://piktochart.com/blog/carbon-footprint-of-chatgpt/#:~:text=With%20the%20help%20of%20a,approximately%204.32%20grams%20of%20CO2.) calcula que son unos 4,32 gramos por consulta. 
+
+Con este escenario, se realizarán los cálculos para las dos medidas previamente comentadas y, además, se calculará para la media de ambos, es decir, 2,351 gramos por consulta.
+
+|**Medida**|**Prompts**|**Total**|
+| - | - | - |
+|0,382g|12| 4,584g |
+|2,351g|12| 28,212g |
+|4,32g|12| 51,84 g |
+
+Como podemos observar en los cálculos, según la medida de Nature, habríamos emitido unos 4,6 gramos de CO2, lo que equivale a 7 minutos de respiración de un humano, lo cual es una nimiedad, pues un coche por cada litro de gasolina consumido, emite en promedio 2,35 kg de CO2. 
+
+En el caso de la medida dada por Piktochart, nos encontramos con 51,84 gramos, el cual equivale aproximadamente al CO2  emitido por un ordenador en una hora.  Aún siendo más de 10 veces mayor al caso anterior, no supone nada desproporcionado.
+
+Para finalizar, tenemos la media entre las dos medidas anteriores, lo cual nos da un total de 28,212 gramos, aproximadamente el gasto de una bombilla de bajo consumo durante unas 4 horas.
+
+En cualquier caso, el uso que hemos realizado con la Inteligencia Artificial no es excesivo, por lo tanto, la huella de carbono asociada tampoco lo es.
