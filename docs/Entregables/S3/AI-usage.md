@@ -135,8 +135,8 @@ En el desarrollo del proyecto se hará uso de IAs, por ello hemos decidido reali
 |**Commitment Agreement**|**Paco**|**https://chat.openai.com/share/a8f87608-1c10-4305-8929-883e84de7fda**|
 |**Guía de Presentación Estructurada**|**Mario**|[**https://chat.openai.com/share/7dda685c-befb-4149-8046-3b243acab974**](https://chat.openai.com/share/7dda685c-befb-4149-8046-3b243acab974)|
 |**Análisis de  competidores en el mercado**|**Alberto**|[**https://chat.openai.com/share/0d3aaf55-f529-42df-b064-175528b718d7**](https://chat.openai.com/share/0d3aaf55-f529-42df-b064-175528b718d7)|
-|**Preguntas sobre código** |**Andrés**|[**https://chat.openai.com/c/771e2f43-6dd8-4923-96eb-11f5bdfe460d**](https://chat.openai.com/c/771e2f43-6dd8-4923-96eb-11f5bdfe460d)|
-|**Preguntas sobre realización de testing sobre mocha**|**Andrés**|<p>[**https://chat.openai.com/c/38d6c8ab-3794-4342-b56e-93971d69f722**](https://chat.openai.com/c/38d6c8ab-3794-4342-b56e-93971d69f722)</p><p></p>|
+|**Preguntas sobre código** |**Andrés**|[**https://chat.openai.com/share/76c21d42-0781-48f9-b1ed-3153ec1b4d39**](https://chat.openai.com/share/76c21d42-0781-48f9-b1ed-3153ec1b4d39)|
+|**Preguntas sobre realización de testing sobre mocha**|**Andrés**|<p>[**https://chat.openai.com/share/fa91d3fb-3977-423c-b10a-4959c754115a**](https://chat.openai.com/share/fa91d3fb-3977-423c-b10a-4959c754115a)</p><p></p>|
 |**Record para identificar lenguajes de programación**|**Rubén**|[**https://chat.openai.com/share/eaf9b58a-6f13-444c-a590-75ee2d2498a1**](https://chat.openai.com/share/eaf9b58a-6f13-444c-a590-75ee2d2498a1) |
 |**Set para identificar tecnologías**|**Rubén**|[**https://chat.openai.com/share/c6ccd1d6-14e6-4783-b076-4c8492cf06e9**](https://chat.openai.com/share/c6ccd1d6-14e6-4783-b076-4c8492cf06e9) |
 |**Posibles preguntas frecuentes**|**Ismael**|[**https://chat.openai.com/share/b564b847-6591-4cb1-94b6-23ee45338cfd**](https://chat.openai.com/share/b564b847-6591-4cb1-94b6-23ee45338cfd) |
