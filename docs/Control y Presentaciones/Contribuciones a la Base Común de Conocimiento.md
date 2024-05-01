@@ -267,6 +267,23 @@ Para las contribuciones se llega a un acuerdo de que cada semana será un grupo 
 1. Al recoger el feedback de los usuarios piloto sobre los precios, nos da más información preguntar primero cuánto estaría dispuesto a pagar antes de mostrarle cuánto cuesta.
 
 
+- **Semana 11**
+
+1. Business Plan debe responder a “¿Cómo voy a ganar dinero con la aplicación? ¿Por qué y cómo vamos a ser rentables?”.
+1. Realizar el Anuncio de Inversores. Se deben incluir números, datos, ROI… Orientado al mercado y apoyado de estudios que hayamos realizado.No olvidar cuales son las prioridades del inversor. Ser claro con ¿Cuánto tengo que invertir? ¿Cuándo Tengo que invertir? y ¿Cuánto voy a ganar? CON NÚMEROS apoyados por estudios de marketing, anuncios, estudios de mercado… 
+1. Dar opciones de inversión sin nunca superar el 50% (de adquisición de la aplicación) y mostrando el ROI.
+1. EN la DEMO no incluir la presentación de la historia que cuenta Javi a la misma vez que se están realizando acciones sobre la aplicación, aunque sea el registro.
+1. Intentar realizar un anuncio a la vez que DEMO de esta manera podría quedar menos repetitivo. Es decir, en nuestro caso podría funcionar mejor un anuncio en el que se vean claramente las funciones de nuestra aplicación.
+1. Eliminar el Commitment Agreement de la presentación, no pega en las últimas presentaciones.
+1. Añadir la leyenda de la gráfica de la página 6.
+1. Mostrar algún story o publicación en la presentación de Marketing.
+1. Se debe mostrar la agenda de marketing en la presentación.
+1. Se ve que hay un coste inicial en el Marketing (que nos hacen empezar en negativo), se debe hablar de estos costes (desglose) además de otros datos como el número de usuarios que estimamos que aporte la campaña de marketing.
+1. Usar “Equipos” para el SEO no es una keyword efectiva, aparecerían otros resultados antes (deportes).
+1. Fernando debe alzar la voz en el Killer Opener de los CV.
+1. El audio debe ser mejorado en el anuncio (arreglar eco), aclararlo lo mas posible (o volver a grabarlo encajarlo en el video).
+1. Evitar usar términos como Capex, Opex, Matchmaking… en el WPL, ya que no son de dominio general (en la presentación habrá personas que no dominan estos términos) por lo que es mejor usar Coste Capital y Coste Operacional.
+
 <a name="_tyjcwt"></a>**Feedback general**
 
 ------------------------------------------
