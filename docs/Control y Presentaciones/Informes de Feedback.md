@@ -123,6 +123,14 @@ ZARZUELA REINA, CARLOS
 
 [Tareas - ¿Qué no puede faltar?	](#_xw8pcxlaup9y24)
 
+[9. Semana 11 (30/04)	](#_3n6nqs3ox56d25)
+
+[Cosas a tener en cuenta	](#_4ki1iznv6aw625)
+
+[Consideraciones para IT TALENT	](#_es35wsm2my6q25)
+
+[Tareas - ¿Qué no puede faltar?	](#_xw8pcxlaup9y25)
+
 
 
 
@@ -961,6 +969,99 @@ HABRÁ 2 PRESENTACIONES distintas:
 
 
 - **Otra de 5 minutos sobre la campaña de lanzamiento:**
+
+1. Segmentación del mercado - ¿A quién va dirigido? (modelo de segmentación) (2 perfiles como mínimo)
+1. Algún tipo de optimización SEO – Buscadores, palabras claves…
+1. Campaña de lanzamiento previo al WPL – Promociones, acciones de impulso para tracción inicial (orientado al cliente más que al usuario)
+1. Acciones de marketing
+1. Community Management:
+   1. Objetivos (Píldora teórica)
+   1. Planning (Publicaciones en las RRSS)
+   1. Responsables (De las RRSS)
+   1. Número de impresiones que tenemos como objetivo
+1. Coste de marketing – Desglosado
+1. Si hay algún anuncio que queramos poner que no saliera en la primera se pone para comentarlo
+1. Uso de las IAs
+
+
+# <a name="_3n6nqs3ox56d25"></a> Semana 11 (30/04)
+## <a name="_4ki1iznv6aw625"></a>**Cosas a tener en cuenta**
+
+1. Incluir subtítulos en las demos es una buena práctica sobre todo si el audio está distorsionado.
+1. Buscar uniformidad en las diapositivas no cambiar demasiado el tamaño de letra, aunque se trate de una gráfica.
+1. Evitar “Frases Genéricas” que no aportan nada en apartados como “¿Por qué nosotros?” se debe tratar de ser original y ser lo más objetivos y específicos posibles, todas las razones que demos se deben sustentar en algo.
+1. Es importante remarcar en qué momento empezaría a ser rentable nuestra aplicación.
+1. Evitar frases obvias como “Venimos a vender una aplicación”.
+1. No dedicar tanto como 4 o 5 slides a la estructura de equipo, también se debe tratar de que sea homogénea y todos tengan el mismo protagonismo.
+1. Cuando se habla del TCO se debe ir al caso realista, no al optimista.
+1. Cada vez que se vean datos a futuro se debe tratar de convencer un poco diciendo de dónde salen esos números.
+1. La música del anuncio no debe se estruendosa, no debe distraer del mensaje del mismo.
+1. Business Plan debe responder a “¿Cómo voy a ganar dinero con la aplicación? ¿Por qué y cómo vamos a ser rentables?”.
+1. No olvidar cuales son las prioridades del inversor (ROI) a la hora de realizar el anuncio.
+1. El nivel de información que se mete en una diapositiva o serie de diapositiva debe ser asimilable, por ejemplo, en la composición de equipos, no se pueden tener demasiadas diapositivas ni pararse demasiado en cada tema del que hay que hablar, se trata de sintetizar no de ser más rápido.
+1. Si se cambia el orden del momento en el que hablar de los competidores, debe estar justificado, que encaje con el elevator pitch.
+1. En el Killer Opener se debe dejar claro de que va nuestra aplicación, no caer en la dinámica de hablar a gente que ya la conoce.
+1. Evitar líneas o columnas en el análisis de competidores que reflejen que nadie tiene una característica que nosotros sí, se pierde el concepto de “Competición”.
+1. No decir que la aplicación puede fallar de manera irrecuperable en la presentación.
+1. Evitar mostrar las trabas por el camino (de índole “Casi dejamos el proyecto) en la presentación WPL.
+1. Evitar frases como “Como siempre…” “Como todas las semanas…” en el WPL.
+1. Si no llegamos a poder explicar todo lo que queremos del TCO, es conveniente ponerlo en el anuncio de inversores.
+1. No hablar a la vez en la DEMO o el Anuncio (en la presentación en vivo) si hay música en el mismo. Si hay algo que decir incluirlo en el audio del video.
+
+
+
+## <a name="_es35wsm2my6q25"></a>**Consideraciones para IT TALENT**
+- Business Plan debe responder a “¿Cómo voy a ganar dinero con la aplicación? ¿Por qué y cómo vamos a ser rentables?”.
+-  Realizar el Anuncio de Inversores. Se deben incluir números, datos, ROI… Orientado al mercado y apoyado de estudios que hayamos realizado.No olvidar cuales son las prioridades del inversor. Ser claro con ¿Cuánto tengo que invertir? ¿Cuándo Tengo que invertir? y ¿Cuánto voy a ganar? CON NÚMEROS apoyados por estudios de marketing, anuncios, estudios de mercado… 
+- Dar opciones de inversión sin nunca superar el 50% (de adquisición de la aplicación) y mostrando el ROI.
+- EN la DEMO no incluir la presentación de la historia que cuenta Javi a la misma vez que se están realizando acciones sobre la aplicación, aunque sea el registro.
+- Intentar realizar un anuncio a la vez que DEMO de esta manera podría quedar menos repetitivo. Es decir, en nuestro caso podría funcionar mejor un anuncio en el que se vean claramente las funciones de nuestra aplicación.
+- Eliminar el Commitment Agreement de la presentación, no pega en las últimas presentaciones.
+- Añadir la leyenda de la gráfica de la página 6.
+- Mostrar algún story o publicación en la presentación de Marketing.
+- Se debe mostrar la agenda de marketing en la presentación.
+- Se ve que hay un coste inicial en el Marketing (que nos hacen empezar en negativo), se debe hablar de estos costes (desglose) además de otros datos como el número de usuarios que estimamos que aporte la campaña de marketing.
+- Usar “Equipos” para el SEO no es una keyword efectiva, aparecerían otros resultados antes (deportes).
+- Fernando debe alzar la voz en el Killer Opener de los CV.
+- El audio debe ser mejorado en el anuncio (arreglar eco), aclararlo lo mas posible (o volver a grabarlo encajarlo en el video).
+- Evitar usar términos como Capex, Opex, Matchmaking… en el WPL, ya que no son de dominio general (en la presentación habrá personas que no dominan estos términos) por lo que es mejor usar Coste Capital y Coste Operacional.
+
+
+
+## <a name="_xw8pcxlaup9y25"></a>**Tareas - ¿Qué no puede faltar?**
+
+- A iniciativa del grupo de tarde, se han puesto en contacto de la escuela para publicitar su aplicación. Se usarán las pantallas para publicitar las apps en la que podremos poner una pantalla en la que pongamos de que va el proyecto. Pasaran una plantilla por EV para modificarla.
+
+- Definir el "perfil" bien: ¿Dónde están segmentados nuestro perfiles del público al que va dirigido?
+
+- WPL: 
+   - En el salón de actos 21 de mayo. Desde las 12:30  a 14:30
+   - Se podrá ensayar el Lunes de 13:30 a 16:30. Preparar temas como el cañón, audio…
+
+
+- **10 minutos para el WPL:**
+
+1. ¿De qué va el proyecto?
+   1. Killer opener
+   1. Elevator pitch
+   1. Video usuario/cliente
+1. ¿Cómo funciona? - DEMO
+1. ¿Hay competencia?
+   1. Análisis de competidores
+   1. ¿Qué nos diferencia?
+1. ¿Quién hay detrás? - Equipo
+1. ¿Es rentable?
+   1. Planes de precio
+   1. Resumen de plan de negocio, costes...
+   1. Oportunidades de inversión, ROI
+   1. Anuncio de inversores:
+      1. ¿Qué podemos ofrecer?
+      1. ¿De qué va el proyecto?
+      1. Opciones de inversión – “Si invertes X en tanto tiempo conseguirás Y”
+1. Landing page, contacto…
+
+
+- **5 minutos para la campaña de lanzamiento:**
 
 1. Segmentación del mercado - ¿A quién va dirigido? (modelo de segmentación) (2 perfiles como mínimo)
 1. Algún tipo de optimización SEO – Buscadores, palabras claves…
