@@ -1,6 +1,6 @@
 ﻿<div style={{ display: 'flex' }}>
-  <img src="/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
-  <img src="/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
+  <img src="/static/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
+  <img src="/static/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
 </div>
 
 ## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
@@ -48,11 +48,12 @@ ZARZUELA REINA, CARLOS
 | v1.0        | 02/02/2024 | Alberto, Alejandro, Ismael, Mario | Documento inicial                                |
 | v1.1        | 03/02/2024 | Alberto, Alejandro, Ismael, Mario | Finalización de la primera versión del documento |
 | v1.2        | 10/02/2024 | Francisco, Alejandro              | Finalización de la segunda versión del documento |
-| v1.3        | 16/02/2024 | Ismael,Francisco                  | Finalización de la tercera versión del documento |
+| v1.3        | 16/02/2024 | Ismael, Francisco                 | Finalización de la tercera versión del documento |
 | v1.4        | 01/03/2024 | Francisco                         | Finalización de la cuarta versión del documento  |
 | v1.5        | 17/03/2024 | Francisco                         | Finalización de una nueva versión del documento  |
 | v1.6        | 29/03/2024 | Francisco                         | Finalización de una nueva versión del documento  |
 | v1.7        | 19/04/2024 | Francisco                         | Finalización de una nueva versión del documento  |
+| v1.8        | 03/05/2024 | Francisco                         | Finalización de una nueva versión del documento  |
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
 
@@ -73,6 +74,8 @@ En este informe, se llevará a cabo una evaluación detallada de los costes, jun
 [**Estimación general de costes**](#_3znysh7)
 
 [Costes de puesta en marcha](#_t35hwt4r1rbg)
+
+[Costes de marketing](#_mj8t1npc9dus)
 
 [Costes de desarrollo](#_vvewq7jwuq3n)
 
@@ -128,32 +131,43 @@ En este caso, nos vuelve a dar 1 punto (102/100).
 
 El estudio realizado nos lleva a la conclusión de que cada análisis conlleva un total de 2 puntos gastados. Cualquier cuenta de GitHub, utilizando un token de autenticación, proporciona 5000 puntos por hora. Teniendo eso en cuenta, además del hecho de que los candidatos pueden modificar su perfil (y, por lo tanto, generar un análisis) una vez al mes, y si pagan el plan avanzado 3 veces, analicemos cada escenario por separado.
 
+Como gasto inicial se incluyen 1.000€ que se destinatarán a campañas de marketing enfocadas a empresarios que buscan candidatos y a candidatos que buscan empleo. Nos centraremos en LinkedIn, pues allí se encuentra nuestro público objetivo, y destinaremos un 60% a las empresas, pues suponen la fuente de ingresos más importante de la aplicación.
+
 En el escenario **pesimista** tendremos las siguientes condiciones iniciales:
 
 Durante los 6 primeros meses, el lanzamiento del producto enfrentará desafíos, resultando en ingresos mínimos. El número de usuarios prácticamente no incrementará, resultando en los siguientes números en el último mes de este difícil período:
 
-- El 5% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones; estando solo el 15% de ellas interesadas en el plan más costoso:
-  - 10 empresas están suscritas a nuestro plan avanzado.
-  - 50 empresas están suscritas a nuestro plan básico.
-  - 6 empresas están suscritas a un plan personalizado por valor de 150€.
+- El 6% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones, estando solo el 15% de ellas interesadas en el plan más costoso:
+  - 12 empresas están suscritas a nuestro plan avanzado.
+  - 60 empresas están suscritas a nuestro plan básico.
+  - 8 empresas están suscritas a un plan personalizado por valor de 150€.
 - El 1% de las personas desempleadas de Sevilla utilizan nuestra aplicación, de las cuales un 1% deciden pagar nuestra suscripción:
   - 614 candidatos utilizan nuestra aplicación.
   - 6 candidatos están suscritos a nuestro plan avanzado.
+- La campaña de marketing con LinkedIn Ads genera 200 clics de empresarios con un CPC de 3€. El 5% deciden pagar alguna de nuestras suscripciones, estando solo el 15% de ellos interesados en el plan más costoso:
+  - 2 empresas, además de las 12 que se habían conseguido sin la campaña, están suscritas a nuestro plan avanzado.
+  - 7 empresas, además de las 60 que se habían conseguido sin la campaña, están suscritas a nuestro plan básico.
+  - 1 empresa, además de las 8 que se habían conseguido sin la campaña, están suscritas a un plan personalizado por valor de 150€.
+- La campaña de marketing con LinkedIn Ads genera 200 clics de candidatos con un CPC de 2€. El 15% se convierten en usuarios de la aplicación, de los cuales el 10% de ellos deciden pagar nuestra suscripción:
+  - 30 candidatos, además de los 614 que se habían conseguido sin la campaña, utilizan nuestra aplicación.
+  - 2 candidatos, además de los 6 que se habían conseguido sin la campaña, están suscritos a nuestro plan avanzado.
+
+En este escenario, la campaña de marketing no resulta rentable, pues se consiguen 40 usuarios nuevos pero los beneficios económicos están por debajo de los 1.000€ que costó.
 
 | **Rol**       | <p> </p><p>Número de usuarios (mensuales)</p> |
 | :------------ | :-------------------------------------------- |
-| Candidato     | 614                                           |
-| Representante | 66                                            |
-| **Total**     | **680**                                       |
+| Candidato     | 644                                           |
+| Representante | 90                                            |
+| **Total**     | **734**                                       |
 
-Se podrán realizar, como máximo, 626 análisis al mes. Por lo tanto, se gastarán, como máximo, 1.252 puntos de la API de GraphQL.
+Se podrán realizar, como máximo, 660 análisis al mes. Por lo tanto, se gastarán, como máximo, 1.320 puntos de la API de GraphQL.
 
 Al cabo de 12 meses, el crecimiento de ingresos seguirá siendo lento. Se han mejorado los resultados, pero siguen siendo ingresos insuficientes para recuperar la inversión, resultando en los siguientes números el último mes de este período:
 
-- El 7% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones; estando solo el 20% de ellas interesadas en el plan más costoso:
-  - 19 empresas están suscritas a nuestro plan avanzado.
-  - 68 empresas están suscritas a nuestro plan básico.
-  - 6 empresas están suscritas a un plan personalizado por valor de 150€.
+- El 8% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones, estando solo el 20% de ellas interesadas en el plan más costoso:
+  - 21 empresas están suscritas a nuestro plan avanzado.
+  - 77 empresas están suscritas a nuestro plan básico.
+  - 8 empresas están suscritas a un plan personalizado por valor de 150€.
 - El 1,5% de las personas desempleadas de Sevilla utilizan nuestra aplicación, de las cuales un 2% deciden pagar nuestra suscripción:
   - 922 candidatos utilizan nuestra aplicación.
   - 18 candidatos están suscritos a nuestro plan avanzado.
@@ -161,50 +175,59 @@ Al cabo de 12 meses, el crecimiento de ingresos seguirá siendo lento. Se han me
 | **Rol**       | <p> </p><p>Número de usuarios (mensuales)</p> |
 | :------------ | :-------------------------------------------- |
 | Candidato     | 922                                           |
-| Representante | 93                                            |
-| **Total**     | **1.015**                                     |
+| Representante | 106                                           |
+| **Total**     | **1.028**                                     |
 
 Se podrán realizar, como máximo, 958 análisis al mes. Por lo tanto, se gastarán, como máximo, 1.916 puntos de la API de GraphQL.
 
 Al cabo de 24 meses, la empresa enfrentará decisiones difíciles, con ingresos decrecientes, resultando en los siguientes números en el último mes de este período:
 
-- El 5,2% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones; estando solo el 10% de ellas interesadas en el plan más costoso:
-  - 7 empresas están suscritas a nuestro plan avanzado.
-  - 60 empresas están suscritas a nuestro plan básico.
-  - 2 empresas están suscritas a un plan personalizado por valor de 150€.
-- El 1.2% de las personas desempleadas de Sevilla utilizan nuestra aplicación, de las cuales un 2% deciden pagar nuestra suscripción:
+- El 6% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones, estando solo el 12% de ellas interesadas en el plan más costoso:
+  - 10 empresas están suscritas a nuestro plan avanzado.
+  - 64 empresas están suscritas a nuestro plan básico.
+  - 6 empresas están suscritas a un plan personalizado por valor de 150€.
+- El 1,2% de las personas desempleadas de Sevilla utilizan nuestra aplicación, de las cuales un 2% deciden pagar nuestra suscripción:
   - 737 candidatos utilizan nuestra aplicación.
   - 15 candidatos están suscritos a nuestro plan avanzado.
 
 | **Rol**       | <p> </p><p>Número de usuarios (mensuales)</p> |
 | :------------ | :-------------------------------------------- |
 | Candidato     | 737                                           |
-| Representante | 69                                            |
-| **Total**     | **806**                                       |
+| Representante | 80                                            |
+| **Total**     | **817**                                       |
 
 En el escenario **optimista** tendremos las siguientes condiciones iniciales:
 
 Durante los 6 primeros meses, los ingresos crecerán de manera modesta a medida que el producto gana tracción, resultando en los siguientes números en el último mes de este período:
 
-- El 10% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones; estando el 30% de ellas interesadas en el plan más costoso:
+- El 10% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones, estando el 30% de ellas interesadas en el plan más costoso:
   - 40 empresas están suscritas a nuestro plan avanzado.
   - 81 empresas están suscritas a nuestro plan básico.
   - 12 empresas están suscritas a un plan personalizado por valor de 150€.
 - El 2% de las personas desempleadas de Sevilla utilizan nuestra aplicación, de las cuales un 10% deciden pagar nuestra suscripción:
   - 1.229 candidatos utilizan nuestra aplicación.
   - 123 candidatos están suscritos a nuestro plan avanzado.
+- La campaña de marketing con LinkedIn Ads genera 600 clics de empresarios con un CPC de 1€. El 20% deciden pagar alguna de nuestras suscripciones, estando el 30% de ellos interesados en el plan más costoso:
+  - 36 empresas, además de las 40 que se habían conseguido sin la campaña, están suscritas a nuestro plan avanzado.
+  - 77 empresas, además de las 81 que se habían conseguido sin la campaña, están suscritas a nuestro plan básico.
+  - 7 empresas, además de las 12 que se habían conseguido sin la campaña, están suscritas a un plan personalizado por valor de 150€.
+- La campaña de marketing con LinkedIn Ads genera 400 clics de candidatos con un CPC de 1€. El 30% se convierten en usuarios de la aplicación, de los cuales el 25% de ellos deciden pagar nuestra suscripción:
+  - 120 candidatos, además de los 1.229 que se habían conseguido sin la campaña, utilizan nuestra aplicación.
+  - 30 candidatos, además de los 123 que se habían conseguido sin la campaña, están suscritos a nuestro plan avanzado.
+
+En este escenario, la campaña de marketing ha resultado muy rentable, pues se han conseguido una gran cantidad de usuarios, además de que los beneficios superan con creces al coste de la campaña.
 
 | **Rol**       | <p> </p><p>Número de usuarios (mensuales)</p> |
 | :------------ | :-------------------------------------------- |
-| Candidato     | 1.229                                         |
-| Representante | 133                                           |
-| **Total**     | **1.362**                                     |
+| Candidato     | 1.349                                         |
+| Representante | 253                                           |
+| **Total**     | **1.602**                                     |
 
-Se podrán realizar, como máximo, 1.475 análisis al mes. Por lo tanto, se gastarán, como máximo, 2.950 puntos de la API de GraphQL.
+Se podrán realizar, como máximo, 1.655 análisis al mes. Por lo tanto, se gastarán, como máximo, 3.310 puntos de la API de GraphQL.
 
 - Al cabo de 12 meses, el producto captará una gran cuota de mercado, siendo este un punto de inflexión. Los ingresos incrementan mes a mes, resultando en los siguientes números en el último mes de este período:
 
-- El 30% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones; estando el 40% de ellas interesadas en el plan más costoso:
+- El 30% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones, estando el 40% de ellas interesadas en el plan más costoso:
   - 159 empresas están suscritas a nuestro plan avanzado.
   - 258 empresas están suscritas a nuestro plan básico.
   - 18 empresas están suscritas a un plan personalizado por valor de 150€.
@@ -224,7 +247,7 @@ Es la primera vez que se sobrepasan los 5000 puntos que GraphQL ofrece cada hora
 
 Al cabo de 24 meses, la empresa se consolidará en el mercado, con ingresos que continúan creciendo a un ritmo más moderado, resultando en los siguientes números en el último mes de este período:
 
-- El 40% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones; estando el 50% de ellas interesadas en el plan más costoso:
+- El 40% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones, estando el 50% de ellas interesadas en el plan más costoso:
   - 266 empresas están suscritas a nuestro plan avanzado.
   - 236 empresas están suscritas a nuestro plan básico.
   - 30 empresas están suscritas a un plan personalizado por valor de 150€.
@@ -246,25 +269,34 @@ En el escenario **realista** tendremos las siguientes condiciones iniciales:
 
 Durante los 6 primeros meses, los ingresos crecerán de forma gradual, resultando en los siguientes números en el último mes de este período:
 
-- El 7% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones; estando el 20% de ellas interesadas en el plan más costoso:
-  - 19 empresas están suscritas a nuestro plan avanzado.
-  - 67 empresas están suscritas a nuestro plan básico.
-  - 7 empresas están suscritas a un plan personalizado por valor de 150€.
+- El 8% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones, estando el 20% de ellas interesadas en el plan más costoso:
+  - 21 empresas están suscritas a nuestro plan avanzado.
+  - 76 empresas están suscritas a nuestro plan básico.
+  - 9 empresas están suscritas a un plan personalizado por valor de 150€.
 - El 1,5% de las personas desempleadas de Sevilla utilizan nuestra aplicación, de las cuales un 8% deciden pagar nuestra suscripción:
   - 922 candidatos utilizan nuestra aplicación.
   - 74 candidatos están suscritos a nuestro plan avanzado.
+- La campaña de marketing con LinkedIn Ads genera 300 clics de empresarios con un CPC de 2€. El 10% deciden pagar alguna de nuestras suscripciones, estando el 20% de ellos interesados en el plan más costoso:
+  - 6 empresas, además de las 21 que se habían conseguido sin la campaña, están suscritas a nuestro plan avanzado.
+  - 21 empresas, además de las 76 que se habían conseguido sin la campaña, están suscritas a nuestro plan básico.
+  - 3 empresas, además de las 9 que se habían conseguido sin la campaña, están suscritas a un plan personalizado por valor de 150€.
+- La campaña de marketing con LinkedIn Ads genera 267 clics de candidatos con un CPC de 1,5€. El 20% se convierten en usuarios de la aplicación, de los cuales el 15% de ellos deciden pagar nuestra suscripción:
+  - 53 candidatos, además de los 922 que se habían conseguido sin la campaña, utilizan nuestra aplicación.
+  - 8 candidatos, además de los 74 que se habían conseguido sin la campaña, están suscritos a nuestro plan avanzado.
+
+En este escenario, la campaña de marketing ha salido rentable, no tanto como en el caso optimista pero los beneficios han superado con creces al coste de la campaña.
 
 | **Rol**       | <p> </p><p>Número de usuarios (mensuales)</p> |
 | :------------ | :-------------------------------------------- |
 | Candidato     | 922                                           |
-| Representante | 93                                            |
-| **Total**     | **1.015**                                     |
+| Representante | 136                                           |
+| **Total**     | **1.058**                                     |
 
-Se podrán realizar, como máximo, 1.070 análisis al mes. Por lo tanto, se gastarán, como máximo, 2.140 puntos de la API de GraphQL.
+Se podrán realizar, como máximo, 1.086 análisis al mes. Por lo tanto, se gastarán, como máximo, 2.172 puntos de la API de GraphQL.
 
 Al cabo de 12 meses, la empresa observará un crecimiento sostenido de ingresos. La competencia es notable pero manejable, resultando en los siguientes números en el último mes de este período:
 
-- El 15% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones; estando el 30% de ellas interesadas en el plan más costoso:
+- El 15% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones, estando el 30% de ellas interesadas en el plan más costoso:
   - 60 empresas están suscritas a nuestro plan avanzado.
   - 126 empresas están suscritas a nuestro plan básico.
   - 13 empresas están suscritas a un plan personalizado por valor de 150€.
@@ -282,7 +314,7 @@ Se podrán realizar, como máximo, 2.211 análisis al mes. Por lo tanto, se gast
 
 Al cabo de 24 meses, se consolidará la base de clientes y el crecimiento se moderará, resultando en los siguientes números en el último mes de este período:
 
-- El 25% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones; estando el 40% de ellas interesadas en el plan más costoso:
+- El 25% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones, estando el 40% de ellas interesadas en el plan más costoso:
   - 133 empresas están suscritas a nuestro plan avanzado.
   - 185 empresas están suscritas a nuestro plan básico.
   - 14 empresas están suscritas a un plan personalizado por valor de 150€.
@@ -314,6 +346,16 @@ Son todos los costes previos al desarrollo. Pueden incluir material, licencias d
 | :--------------------- | :----------- | :-------------------- | :------------------- |
 | Ordenadores portátiles | 15 unidades  | 400,00€               | 6\.000,00 €          |
 | **Total**              |              |                       | **6.000,00 €**       |
+
+### <a name="_mj8t1npc9dus"></a> Costes de marketing
+
+Son todos los costes relativos al plan de marketing, que incluyen las campañas publicitarias realizadas para impulsar el producto desde su lanzamiento.
+
+| **Campaña**               | **Coste**      |
+| :------------------------ | :------------- |
+| LinkedIn Ads - Empresas   | 600,00€        |
+| LinkedIn Ads - Candidatos | 400,00€        |
+| **Total**                 | **1.000,00 €** |
 
 ### <a name="_vvewq7jwuq3n"></a> Costes de desarrollo
 
@@ -381,16 +423,17 @@ Para calcular el TCO se deben tener en cuenta todos los costes asociados con el 
 | <p></p><p>**Tipo de coste**</p> |           Total |
 | :------------------------------ | --------------: |
 | Puesta en marcha                |     6\.000,00 € |
+| Marketing                       |     1\.000,00 € |
 | Desarrollo                      |     25\.196,4 € |
 | Mantenimiento                   |    10\.956,06 € |
-| **Total**                       | **42.152,46 €** |
+| **Total**                       | **43.152,46 €** |
 
 Si elegimos tener un colchón para imprevistos del 15%, el TCO final sería de
 
-**48.475,33 €**
+**49.625,33 €**
 
 <div style={{ display: 'flex' }}>
-  <img src="/img/DistribucionTCO.png" alt="Imagen 3"/>
+  <img src="/static/img/DistribucionTCO.png" alt="Imagen 3"/>
 </div>
 
 Figura 9. Distribución del TCO
@@ -410,10 +453,11 @@ Figura 9. Distribución del TCO
 | :------------------ | :------------------- |
 | Luz                 | 244,77 €             |
 | Internet            | 252,17 €             |
+| Costes de marketing | 1\.000,00 €          |
 | Costes de personal  | 35\.437,50 €         |
 | Licencias mensuales | 180,46 €             |
 | Servidores          | 37,56 €              |
-| **Total**           | **36.152,46 €**      |
+| **Total**           | **37.152,46 €**      |
 
 Ahora vamos a calcular el **retorno de la inversión (ROI)** para los tres escenarios (optimista, pesimista y realista).
 
@@ -421,11 +465,11 @@ Comenzamos con el escenario **optimista**, calculando los ingresos que estimamos
 
 | **Plan de precios**           | **Suscripciones** | <p> </p><p>Total</p> |
 | :---------------------------- | :---------------: | :------------------- |
-| Plan básico (empresas)        |        81         | 4\.050,00 €          |
-| Plan avanzado (empresas)      |        40         | 4\.000,00 €          |
-| Plan personalizado (empresas) |        12         | 1\.800,00 €          |
-| Plan avanzado (candidatos)    |        123        | 1\.230,00 €          |
-| **Total**                     |                   | **11.080,00 €**      |
+| Plan básico (empresas)        |        158        | 7\.900,00 €          |
+| Plan avanzado (empresas)      |        76         | 7\.600,00 €          |
+| Plan personalizado (empresas) |        19         | 2\.850,00 €          |
+| Plan avanzado (candidatos)    |        153        | 1\.530,00 €          |
+| **Total**                     |                   | **19.880,00 €**      |
 
 A pesar de perder dinero en los primeros meses, se comenzó a recuperar la inversión muy pronto.
 
@@ -500,18 +544,18 @@ El aumento en los ingresos supera con creces el aumento en el coste total operat
 Basándonos en los ingresos estimados en los tres puntos de referencia (6 meses, 1 año y 2 años), podemos estimar la siguiente evolución:
 
 <div style={{ display: 'flex' }}>
-  <img src="/img/EstimacionOptimista.png" alt="Imagen 4"/>
+  <img src="/static/img/EstimacionOptimista.png" alt="Imagen 4"/>
 </div>
 
 Vamos ahora con el escenario **pesimista**, calculando los ingresos que estimamos obtener al sexto mes:
 
 | **Plan de precios**           | **Suscripciones** | <p> </p><p>Total</p> |
 | :---------------------------- | :---------------: | :------------------- |
-| Plan básico (empresas)        |        50         | 2\.500,00 €          |
-| Plan avanzado (empresas)      |        10         | 1\.600,00 €          |
-| Plan personalizado (empresas) |         6         | 900,00 €             |
-| Plan avanzado (candidatos)    |         6         | 60,00 €              |
-| **Total**                     |                   | **4.460,00 €**       |
+| Plan básico (empresas)        |        67         | 3\.350,00 €          |
+| Plan avanzado (empresas)      |        14         | 1\.400,00 €          |
+| Plan personalizado (empresas) |         9         | 1\.350,00 €          |
+| Plan avanzado (candidatos)    |         8         | 80,00 €              |
+| **Total**                     |                   | **6.180,00 €**       |
 
 Las pérdidas son considerablemente grandes; por lo tanto, durante este periodo la empresa consideró necesario tomar medidas, reduciendo el personal y teniendo que recalcular el coste mensual operativo:
 
@@ -539,11 +583,11 @@ Calculamos los ingresos que estimamos obtener al decimosegundo mes:
 
 | **Plan de precios**           | **Suscripciones** | <p> </p><p>Total</p> |
 | :---------------------------- | :---------------: | :------------------- |
-| Plan básico (empresas)        |        68         | 3\.400,00 €          |
-| Plan avanzado (empresas)      |        19         | 1\.900,00 €          |
-| Plan personalizado (empresas) |         6         | 900,00 €             |
+| Plan básico (empresas)        |        77         | 3\.850,00 €          |
+| Plan avanzado (empresas)      |        21         | 2\.100,00 €          |
+| Plan personalizado (empresas) |         8         | 1\.200,00 €          |
 | Plan avanzado (candidatos)    |        18         | 180,00 €             |
-| **Total**                     |                   | **6.380,00 €**       |
+| **Total**                     |                   | **7.330,00 €**       |
 
 El aumento de usuarios es muy pequeño y la empresa está en mi peligro, por lo que durante este periodo nos vimos obligados a prescindir del Community Manager y recalcular el coste mensual operativo:
 
@@ -570,29 +614,29 @@ Por último, analizamos los ingresos que estimamos obtener al vigesimocuarto mes
 
 | **Plan de precios**           | **Suscripciones** | <p> </p><p>Total</p> |
 | :---------------------------- | :---------------: | :------------------- |
-| Plan básico (empresas)        |        60         | 3\.000,00 €          |
-| Plan avanzado (empresas)      |         7         | 700,00 €             |
-| Plan personalizado (empresas) |         2         | 300,00 €             |
+| Plan básico (empresas)        |        64         | 3\.200,00 €          |
+| Plan avanzado (empresas)      |        10         | 1\.000,00 €          |
+| Plan personalizado (empresas) |         6         | 900,00 €             |
 | Plan avanzado (candidatos)    |        15         | 150,00 €             |
-| **Total**                     |                   | **4.150,00 €**       |
+| **Total**                     |                   | **5.250,00 €**       |
 
 Prescindir del Community Manager redujo las pérdidas durante un tiempo, pero el crecimiento también bajó y la empresa no ha dejado de perder dinero desde que se fundó.
 
 Basándonos en los ingresos estimados en los tres puntos de referencia (6 meses, 1 año y 2 años), podemos estimar la siguiente evolución:
 
 <div style={{ display: 'flex' }}>
-  <img src="/img/EstimacionPesimista.png" alt="Imagen 5"/>
+  <img src="/static/img/EstimacionPesimista.png" alt="Imagen 5"/>
 </div>
 
 Para finalizar, vamos con la estimación **realista**, calculando los ingresos que estimamos obtener al sexto mes:
 
 | **Plan de precios**           | **Suscripciones** | <p> </p><p>Total</p> |
 | :---------------------------- | :---------------: | :------------------- |
-| Plan básico (empresas)        |        67         | 3\.350,00 €          |
-| Plan avanzado (empresas)      |        19         | 1\.900,00 €          |
-| Plan personalizado (empresas) |         7         | 1\.050,00 €          |
-| Plan avanzado (candidatos)    |        74         | 740,00 €             |
-| **Total**                     |                   | **7.040,00 €**       |
+| Plan básico (empresas)        |        97         | 4\.850,00 €          |
+| Plan avanzado (empresas)      |        27         | 2\.700,00 €          |
+| Plan personalizado (empresas) |        12         | 1\.800,00 €          |
+| Plan avanzado (candidatos)    |        82         | 820,00 €             |
+| **Total**                     |                   | **10.170,00 €**      |
 
 Los primeros meses perdimos dinero, ya que los ingresos no superaron el coste mensual operativo; sin embargo, el crecimiento invitó a pensar que, muy pronto, comenzaríamos a recuperarlo.
 
@@ -645,16 +689,16 @@ El incremento en el número de usuarios no es tan grande como en el periodo ante
 Basándonos en los ingresos estimados en los tres puntos de referencia (6 meses, 1 año y 2 años), podemos estimar la siguiente evolución:
 
 <div style={{ display: 'flex' }}>
-  <img src="/img/EstimacionRealista.png" alt="Imagen 6"/>
+  <img src="/static/img/EstimacionRealista.png" alt="Imagen 6"/>
 </div>
 
 Es momento de analizar los resultados obtenidos en cada escenario:
 
 **Escenario optimista:**
 
-- Se tardan 6 meses en acabar un mes con balance positivo.
-- Estamos en un balance total positivo a los 9 meses.
-- Al transcurrir los 24 meses, la empresa queda en un balance positivo, habiendo ganado 434.987,66 € y consiguiendo recuperar la inversión (puesta en marcha + desarrollo) en 12 meses.
+- Se tardan 3 meses en acabar un mes con balance positivo.
+- Estamos en un balance total positivo a los 4 meses.
+- Al transcurrir los 24 meses, la empresa queda en un balance positivo, habiendo ganado 481.507,66 € y consiguiendo recuperar la inversión (puesta en marcha + marketing + desarrollo) en 9 meses.
 
 **Escenario pesimista:**
 
@@ -664,13 +708,13 @@ Es momento de analizar los resultados obtenidos en cada escenario:
 
 **Escenario realista:**
 
-- Se tardan 9 meses en acabar un mes con balance positivo.
-- Estamos en un balance total positivo a los 17 meses.
-- Al transcurrir los 24 meses, la empresa queda en un balance positivo, habiendo ganado 85.211,52 € y consiguiendo recuperar la inversión en 22 meses.
+- Se tardan 8 meses en acabar un mes con balance positivo.
+- Estamos en un balance total positivo a los 14 meses.
+- Al transcurrir los 24 meses, la empresa queda en un balance positivo, habiendo ganado 111.601,52 € y consiguiendo recuperar la inversión en 19 meses.
 
-Utilizando la estimación **PERT**, llegamos a la conclusión de que tardaremos alrededor de 12 meses en comenzar a recuperar la inversión (que los ingresos cada mes comiencen a superar a los gastos). Esto es así porque:
+Utilizando la estimación **PERT**, llegamos a la conclusión de que tardaremos alrededor de 8 meses en comenzar a recuperar la inversión (que los ingresos cada mes comiencen a superar a los gastos). Esto es así porque:
 
-PERT = (Optimista + (4x Realista) + Pesimista) / 6 -> (6 + (4x9) + 11)/6 = 8,83 meses
+PERT = (Optimista + (4x Realista) + Pesimista) / 6 -> (3 + (4x8) + 11)/6 = 7,66 meses
 
 **Plan de acción en caso de aumento de usuarios:**
 
@@ -718,7 +762,7 @@ Ofrecemos los siguientes planes de pago:
 | **Plan personalizado** | <a name="_lajxygsx53si"></a>- |                                                                                                                                                                                                                                 -Características personalizadas bajo demanda.                                                                                                                                                                                                                                 |
 
 <div style={{ display: 'flex' }}>
-  <img src="/img/PricingEmpresas.png" alt="Imagen 7"/>
+  <img src="/static/img/PricingEmpresas.png" alt="Imagen 7"/>
 </div>
 
 Estos planes han sido determinados tras un minucioso análisis de mercado. El **plan básico** se ha posicionado con **un precio más competitivo** y suficientes características como para que sea completamente funcional en un proceso de contratación. La idea es que los usuarios del plan básico sientan que tienen todo lo que necesitan para cumplir con el propósito con el que instalaron la aplicación.
@@ -739,7 +783,7 @@ Ofrecemos los siguientes planes de pago:
 | **Plan avanzado** | <p></p><p><a name="_5ba8shiu5m7"></a><a name="_i452zi3xp17z"></a>10 €/mes</p> | <p><a name="_45wnzio2sgdt"></a>-Todas las funcionalidades del plan anterior.</p><p><a name="_mbzkg4xvbnz"></a>-Posibilidad de actualizar los datos tres veces cada 30 días.</p><p><a name="_k60xc3dcs4i"></a>-Posibilidad de ver qué empresas han visualizado tu perfil.</p><p><a name="_fiwf192aq2yh"></a>-Estadísticas avanzadas de la aplicación, que ofrecerán una visión de los perfiles profesionales que están teniendo más éxito.</p> |
 
 <div style={{ display: 'flex' }}>
-  <img src="/img/PricingCandidatos.png" alt="Imagen 8"/>
+  <img src="/static/img/PricingCandidatos.png" alt="Imagen 8"/>
 </div>
 
 A diferencia de para las empresas, el **plan básico** es gratuito. Queremos que cualquier usuario, independientemente de poder pagar o no, tenga la oportunidad de encontrar empleo en la aplicación.
@@ -751,7 +795,7 @@ Hemos identificado que, **para amortizar nuestra inversión** en un período apr
 Además, **para que el mantenimiento anual sea rentable**, necesitaríamos **247 empresas** en el **plan básico**, **93 empresas** en el **plan avanzado**, **740 candidatos** en el **plan avanzado** o cualquier combinación de estos (sin contar el plan personalizado).
 
 <div style={{ display: 'flex' }}>
-  <img src="/img/PrecioPlanes.png" alt="Imagen 9"/>
+  <img src="/static/img/PrecioPlanes.png" alt="Imagen 9"/>
   Figura 1. Gráfica para calcular el precio de los planes y el volumen de usuarios necesarios
 </div>
 
