@@ -23,6 +23,7 @@ BERMEJO SORIA, CARLOS         - Creación
 |v.2.0|29/03/2024|<p>Carlos Bermejo Soria</p><p>Rubén Casal Ferrero</p>|Unificación de documentos de usuarios piloto|
 |v.2.0|30/03/2024|Carlos Bermejo Soria|Añadir *feedback* recibido|
 |v.2.1|20/04/2024|Carlos Bermejo Soria|Actualización para tercer Sprint|
+|v.2.2|02/05/2024|Carlos Bermejo Soria|Actualización para PPL|
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
 Este documento se completará progresivamente con la **actividad** y la **comunicación** con los usuarios piloto, ya sean aquellos correspondientes a empresas y terceros o a los usuarios piloto del grupo 7 de la facultad. Además, se pretende establecer un **plan de acción** para llevar a cabo a lo largo del desarrollo.
@@ -125,6 +126,8 @@ La actividad con respecto a los usuarios piloto de empresas quedará registrada 
 |15/03/2024|GFT|Se recibe **una respuesta** de una potencial usuaria piloto. Sin embargo, no parece confirmar nada.|
 |20/04/2024|Novomas|Se envían los **manuales** a Novomás.|
 |21/04/2024|Novomas|**Recibimos** feedback de Novomás.|
+|21/04/2024|Novomas|**Recibimos** feedback de Novomás.|
+|24/04/2024|Novomas|Carlos Zarzuela Reina contacta con nuevas empresa y potenciales usuarios piloto, empezando con IR Soluciones.|
 ||||
 ||||
 
@@ -166,6 +169,9 @@ La actividad con respecto a los usuarios piloto de candidatos quedará registrad
 |30/03/2024|Grupo 7|**Recibimos** el manual y los enlaces a despliegue para empezar a probar la aplicación hasta el lunes.|
 |19/04/2024|Grupo 7|**Entregamos** el manual y los enlaces a despliegue para empezar a probar la aplicación hasta el lunes.|
 |20/04/2024|Grupo 7|**Recibimos** feedback de los usuarios piloto y seguimos a la espera de recibir los manuales y formularios.|
+|24/04/2024|Grupo 7|**Recibimos** el manual y los enlaces de despliegue del S3 con cierto retrasopara empezar a probar la aplicación hasta el lunes.|
+|26/04/2024|Grupo 7|**Empezamos a hacer de usuarios piloto** con Javier Fernández Castillo, Carlos Bermejo Soria y Mario Izquierdo Lavado como voluntarios.|
+|29/04/2024|Grupo 7|**Terminamos** de entregar el feedback del S3 para el grupo 7 y comentamos la posibilidad de trabajar con ellos durante el PPL ampliando la cantidad de usuarios piloto.|
 ||||
 ||||
 

@@ -37,7 +37,7 @@ ZARZUELA REINA, CARLOS
 
 
 
-### Entregable: S2
+### Entregable: S3
 ### Grupo 01 (Mañana) - IT Talent
 
 
@@ -81,8 +81,6 @@ En este documento se especifican las contribuciones a la base de conocimientos d
 [Semana 8	](#_b9ljviz0epcb3)
 
 [Semana 9	](#_b9ljviz0epcb4)
-
-[Semana 10 ](#_b9ljviz0epcb5)
 
 # 1. Contribuciones
 Para las contribuciones se llega a un acuerdo de que cada semana será un grupo el encargado de recoger todo el feedback general de esa sesión y desplegarlo en la página <https://bgcc.vercel.app/>. Pero cada grupo tendrá como encargo semanalmente subir el feedback de su propio grupo, además de revisar el general en busca de posibles carencias en este.
@@ -243,47 +241,6 @@ Para las contribuciones se llega a un acuerdo de que cada semana será un grupo 
 1. Muller mencionó que es buena practica realizar pruebas de carga que muestren cuantás peticiones son necesarias para agotar los créditos de Google.
 1. A Muller le gustó: Segmentación de mercado de cara al proyect launch (píldora teórica).
 
-- **Semana 10**
-
-1. Evitar hablar de cosas como el GDPR que son generales e iguales para todos y entrar en conceptos de grupo.
-1. Justificar siempre por qué se darían datos optimistas o pesimistas.
-1. La DEMO debería tener algo parecido a una historia, no debe verse como una lista de funcionalidades. Es buen práctica que el anuncio se vea reflejado en la DEMO.
-1. Incluir cómo se van a medir y qué horizontes se van a poner a las métricas para resolver los problemas.
-1. Especificar los bugs que se han detectado y de qué manera se han solucionado.
-1. Si durante esa semana ha habido algún problema con los usuarios pilotos, se deben desarrollar las acciones que se han tomado con respecto al Acuerdo de los Usuarios Piloto.
-1. Por cada riesgo o problema que se presente, debe haber acciones de consolidación, pero lo más importante es que además deben haber métricas y se deben exponer en la presentación. “Vamos a reunirnos cada 2 días” “Vamos a …” Debe haber una métrica para medir el grado de satisfacción de la medida y un umbral que mida cuando se ha solucionado.
-1. Cuando se hable de los problemas que han aparecido, reflejar de alguna manera (una tabla es lo más sencillo para que lo vean claro los profesores) que se vea: Problema – Medida – Métrica - Estado 
-1. Las presentaciones deben servir de apoyo a la audiencia, no deben parecer apuntes para el orador. Se deben buscar más iconografías e imágenes.
-1. Los números realistas deben ser lo suficientemente optimistas como para que sea rentable como para que un equipo pueda mantenerla. Luego estos números se podrán justificar en la campaña de lanzamiento durante los próximos sprints.
-1. Si como presentador tenemos problemas de hablar rápido es buena práctica realizar ejercicios de vocalización previos a la presentación.
-1. No confundir los términos "beneficios" e "ingresos", sobre todo al reflejarlos en la presentación.
-1. Se debe cuidar el uso de conectores durante la presentación sobre todo si no tiene sentido coherente entre ambas frases.
-1. Hay que saber medir cuando, aún habiendo mucho esfuerzo en una tarea, si se da una corrección o una recomendación, aceptar estas y realizar algo de retrospectiva en lugar de tratar de defenderla a cualquier costo.
-1. No usar canciones demasiado conocidas para los anuncios. Plantearse usar herramientas de IA con el nombre de nuestra aplicación para estos.
-1. Se debería de prever con anterioridad a padecer el problema el pasarse de las horas estipuladas en la asignatura. Si ya ha pasado no se ha tratado de manera correcta.
-1. Si no se pueden realizar los test de carga sobre el AppEngine es conveniente buscar alternativas, aunque sea probarlo el local y extrapolar al despliegue real.
-1. Si alguien disminuye su rendimiento de manera constante es necesario tomar algún tipo de medida, hablarlo con él y llegar a algún tipo de solución para que la tendencia no siga.
-1. En los anuncios evitar anuncios de dinámica “¿Conoces la app ...?” Es mejor llegar de una manera más orgánica, en la que uno presente las necesidades que puede satisfacer la aplicación y entonces se le ocurra usar la nuestra.
-1. Al recoger el feedback de los usuarios piloto sobre los precios, nos da más información preguntar primero cuánto estaría dispuesto a pagar antes de mostrarle cuánto cuesta.
-
-
-- **Semana 11**
-
-1. Business Plan debe responder a “¿Cómo voy a ganar dinero con la aplicación? ¿Por qué y cómo vamos a ser rentables?”.
-1. Realizar el Anuncio de Inversores. Se deben incluir números, datos, ROI… Orientado al mercado y apoyado de estudios que hayamos realizado.No olvidar cuales son las prioridades del inversor. Ser claro con ¿Cuánto tengo que invertir? ¿Cuándo Tengo que invertir? y ¿Cuánto voy a ganar? CON NÚMEROS apoyados por estudios de marketing, anuncios, estudios de mercado… 
-1. Dar opciones de inversión sin nunca superar el 50% (de adquisición de la aplicación) y mostrando el ROI.
-1. EN la DEMO no incluir la presentación de la historia que cuenta Javi a la misma vez que se están realizando acciones sobre la aplicación, aunque sea el registro.
-1. Intentar realizar un anuncio a la vez que DEMO de esta manera podría quedar menos repetitivo. Es decir, en nuestro caso podría funcionar mejor un anuncio en el que se vean claramente las funciones de nuestra aplicación.
-1. Eliminar el Commitment Agreement de la presentación, no pega en las últimas presentaciones.
-1. Añadir la leyenda de la gráfica de la página 6.
-1. Mostrar algún story o publicación en la presentación de Marketing.
-1. Se debe mostrar la agenda de marketing en la presentación.
-1. Se ve que hay un coste inicial en el Marketing (que nos hacen empezar en negativo), se debe hablar de estos costes (desglose) además de otros datos como el número de usuarios que estimamos que aporte la campaña de marketing.
-1. Usar “Equipos” para el SEO no es una keyword efectiva, aparecerían otros resultados antes (deportes).
-1. Fernando debe alzar la voz en el Killer Opener de los CV.
-1. El audio debe ser mejorado en el anuncio (arreglar eco), aclararlo lo mas posible (o volver a grabarlo encajarlo en el video).
-1. Evitar usar términos como Capex, Opex, Matchmaking… en el WPL, ya que no son de dominio general (en la presentación habrá personas que no dominan estos términos) por lo que es mejor usar Coste Capital y Coste Operacional.
-
 <a name="_tyjcwt"></a>**Feedback general**
 
 ------------------------------------------
@@ -309,13 +266,10 @@ No suspirar a lo largo de la presentación, da sensación de agotamiento de lo q
 
 Siempre cuidar y tener claro el hilo de la presentación. Debe de haber coherencia entre los puntos y no dejar conceptos sueltos.
 
-Si como presentador tenemos problemas de hablar rápido es buena práctica realizar ejercicios de vocalización previos a la presentación.
-
-Se debe cuidar el uso de conectores durante la presentación sobre todo si no tiene sentido coherente entre ambas frases.
 
 
 
-**Presentación**
+`	`**Presentación**
 
 Tratar de homogeneizar las fotos de los participantes, que no tengan fondos muy diferentes.
 
@@ -367,17 +321,6 @@ Mantener siempre una diapositiva con la Landing Page con QR aunque sea en la úl
 
 Siempre incluir los estados de la comunicación en la gestión de usuarios pilotos.
 
-La DEMO debería tener algo parecido a una historia, no debe verse como una lista de funcionalidades. Es buen práctica que el anuncio se vea reflejado en la DEMO.
-
-Las presentaciones deben servir de apoyo a la audiencia, no deben parecer apuntes para el orador. Se deben buscar más iconografías e imágenes.
-
-No confundir los términos "beneficios" e "ingresos", sobre todo al reflejarlos en la presentación.
-
-No usar canciones demasiado conocidas para los anuncios. Plantearse usar herramientas de IA con el nombre de nuestra aplicación para estos.
-
-En los anuncios evitar anuncios de dinámica “¿Conoces la app ...?” Es mejor llegar de una manera más orgánica, en la que uno presente las necesidades que puede satisfacer la aplicación y entonces se le ocurra usar la nuestra.
-
-
 **Análisis de competidores**
 
 En vez de situar competidores o elementos en lista (de ventajas y desventajas), realizar un mapa y agruparlos por similaridad para evaluarlos de esta manera.
@@ -385,7 +328,6 @@ En vez de situar competidores o elementos en lista (de ventajas y desventajas), 
 Pese a estar en la fase de desarrollo el análisis de competidores siempre debe estar presente en las presentaciones.
 
 Para un análisis de competidores más sintetizado es suficiente con pararse en los tres más similares a nuestra plataforma focalizando en la característica más “killer”.
-
 
 **Análisis de costes**
 
@@ -399,37 +341,9 @@ Hablar de porcentajes del número de usuarios que tienen que usar nuestra aplica
 
 El número de usuarios que necesitamos para mantener la aplicación debe tener porcentajes con respecto al número de personas en el sector en Sevilla por ejemplo.
 
-Justificar siempre por qué se darían datos optimistas o pesimistas.
-
-Los números realistas deben ser lo suficientemente optimistas como para que sea rentable como para que un equipo pueda mantenerla. Luego estos números se podrán justificar en la campaña de lanzamiento durante los próximos sprints.
-
-
 **Documentación**
 
 Reflejar en el Commitment Agreement cuando personas tiene penalizaciones o “ya no van a por el 10”.
-
-
-**Análisis de Riesgos**
-
-Por cada riesgo o problema que se presente, debe haber acciones de consolidación, pero lo más importante es que además deben haber métricas y se deben exponer en la presentación. “Vamos a reunirnos cada 2 días” “Vamos a …” Debe haber una métrica para medir el grado de satisfacción de la medida y un umbral que mida cuando se ha solucionado.
-
-Incluir cómo se van a medir y qué horizontes se van a poner a las métricas para resolver los problemas.
-
-Especificar los bugs que se han detectado y de qué manera se han solucionado.
-
-Cuando se hable de los problemas que han aparecido, reflejar de alguna manera (una tabla es lo más sencillo para que lo vean claro los profesores) que se vea: Problema – Medida – Métrica - Estado 
-
-Se debería de prever con anterioridad a padecer el problema el pasarse de las horas estipuladas en la asignatura. Si ya ha pasado no se ha tratado de manera correcta.
-
-Si no se pueden realizar los test de carga sobre el AppEngine es conveniente buscar alternativas, aunque sea probarlo el local y extrapolar al despliegue real.
-
-
-**Usuarios Piloto**
-
-Si durante esa semana ha habido algún problema con los usuarios pilotos, se deben desarrollar las acciones que se han tomado con respecto al Acuerdo de los Usuarios Piloto.
-
-Al recoger el feedback de los usuarios piloto sobre los precios, nos da más información preguntar primero cuánto estaría dispuesto a pagar antes de mostrarle cuánto cuesta.
-
 
 **Proyecto en general**
 
@@ -451,9 +365,8 @@ El testing no puede estar presente solamente en el sprint 3, deben ser FAST, se 
 
 En caso de tener problemas en el desarrollo, siempre valorar la posibilidad de mover tareas de un sprint a otro.
 
-Hay que saber medir cuando, aún habiendo mucho esfuerzo en una tarea, si se da una corrección o una recomendación, aceptar estas y realizar algo de retrospectiva en lugar de tratar de defenderla a cualquier costo.
 
-Si alguien disminuye su rendimiento de manera constante es necesario tomar algún tipo de medida, hablarlo con él y llegar a algún tipo de solución para que la tendencia no siga.
+**
 
 
 

@@ -93,11 +93,10 @@ Los principales temas a tratar en el documento son los siguientes:
 **2-Aceptación - Negativo:**
 - **Historia de usuario:** Como representante, quiero que se me impida crear un equipo al no introducir mi token correctamente 
 - **Condiciones:**
-  - [ ] Que salte error 400 Forbiden Access al no enviar ningún token
-  - [ ] Que salte error 403 Forbiden Access al enviar un token no existente
-  - [ ] Que salte error 403 Forbiden Acces al enviar un token de otro representante
-- **Estado:** Incompleto
-- **Aceptación:** 0%
+  - [X] Que salte error 401 Forbiden Access al no enviar ningún token
+  - [X] Que salte error 401 Forbiden Access al enviar un token no existente
+- **Estado:** Completado
+- **Aceptación:** 100%
 
 **3-Aceptación - Negativo:**
 - **Historia de usuario:** Como representante, quiero que se me impida crear un equipo al enviar peticiones con campos incorrectos

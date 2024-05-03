@@ -97,6 +97,7 @@ Una vez terminado este Acuerdo, el derecho del Usuario a utilizar el Servicio ce
 <a name="_j6e03t4ioezn"></a>Disponibilidad del Servicio: IT Talent se esforzará por mantener una disponibilidad del servicio del 80%.
 
 <a name="_xtw3vwnwkgao"></a>Tiempo de respuesta: IT Talent se compromete a proporcionar un tiempo de respuesta promedio de menos de 5 ms para las solicitudes de los usuarios.
+
 ## <a name="_da67ed6eb8im"></a>**3.2 Objetivos de Nivel de Servicio (SLO)**
 <a name="_4on2jpjoqgk"></a>Los siguientes objetivos de nivel de servicio se aplican a los servicios de IT Talent:
 
