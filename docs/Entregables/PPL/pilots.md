@@ -127,7 +127,8 @@ La actividad con respecto a los usuarios piloto de empresas quedará registrada 
 |20/04/2024|Novomas|Se envían los **manuales** a Novomás.|
 |21/04/2024|Novomas|**Recibimos** feedback de Novomás.|
 |21/04/2024|Novomas|**Recibimos** feedback de Novomás.|
-|24/04/2024|Novomas|Carlos Zarzuela Reina contacta con nuevas empresa y potenciales usuarios piloto, empezando con IR Soluciones.|
+|24/04/2024|IR Soluciones|Carlos Zarzuela Reina **contacta** con nuevas empresa y potenciales usuarios piloto, empezando con IR Soluciones.|
+|04/05/2024|IR Soluciones|Aún no se recibe respuesta de la empresa pero se notifica que el despliegue de una nueva versión ha sido realizada.|
 ||||
 ||||
 
@@ -171,7 +172,8 @@ La actividad con respecto a los usuarios piloto de candidatos quedará registrad
 |20/04/2024|Grupo 7|**Recibimos** feedback de los usuarios piloto y seguimos a la espera de recibir los manuales y formularios.|
 |24/04/2024|Grupo 7|**Recibimos** el manual y los enlaces de despliegue del S3 con cierto retrasopara empezar a probar la aplicación hasta el lunes.|
 |26/04/2024|Grupo 7|**Empezamos a hacer de usuarios piloto** con Javier Fernández Castillo, Carlos Bermejo Soria y Mario Izquierdo Lavado como voluntarios.|
-|29/04/2024|Grupo 7|**Terminamos** de entregar el feedback del S3 para el grupo 7 y comentamos la posibilidad de trabajar con ellos durante el PPL ampliando la cantidad de usuarios piloto.|
+|29/04/2024|Representante grupo 7|**Terminamos** de entregar el feedback del S3 para el grupo 7 y comentamos la posibilidad de trabajar con ellos durante el PPL ampliando la cantidad de usuarios piloto.|
+|04/05/2024|Representante grupo 7|Finalizamos el **despliegue** para el PPL y avisamos al representante del grupo 7 para que se lo comunique a los potenciales usuarios piloto.|
 ||||
 ||||
 
@@ -215,13 +217,25 @@ El plan no ha de ser seguido estrictamente tal y como fue definido en primera in
 |24|Tratamiento del *feedback* recibido (3)|01/04 - 01/04|Equipo de control y presentación|DONE|
 |**SPRINT 3** (02/04)|||||
 |25|Creación de tareas para aplicar el *feedback* recibido|02/04 - 03/04|Coordinación|DONE|
-|29|Búsqueda de nuevas fuentes de usuarios.|02/04 - 15/04|Carlos Bermejo Soria|FAIL|
-|30|**Pruebas de IT Talent D3**|18/04 - 22/04|Usuarios Piloto grupo 7|DONE|
-|31|**Pruebas de IT Talent D3 de empresas**|18/04 - 22/04|Usuarios Piloto grupo 7|DONE|
-|32|Análisis del *feedback* recibido (4)|21/04 - 22/04|Equipo de control y presentación|DONE|
-|33|Tratamiento del *feedback* recibido (4)|21/04 - 22/04|Equipo de control y presentación|DONE|
-|34|Creación de tareas para aplicar el *feedback* recibido (2)|18/04 - 22/04|Coordinación|DONE|
-|35|Recopilación final de *feedback* y aplicaciones|21/04 - 22/04|Equipo de control y presentación|DONE|
+|26|Búsqueda de nuevas fuentes de usuarios.|02/04 - 15/04|Carlos Bermejo Soria|FAIL|
+|27|Creación Manual de Usuario de candidatos y representantes (3)|02/04 - 18/04|Carlos Bermejo Soria|DONE|
+|28|**Pruebas de IT Talent D3**|18/04 - 22/04|Usuarios Piloto grupo 7|DONE|
+|29|**Pruebas de IT Talent D3 de empresas**|18/04 - 22/04|Empresas|DONE|
+|30|Análisis del *feedback* recibido (4)|21/04 - 22/04|Equipo de control y presentación|DONE|
+|31|Tratamiento del *feedback* recibido (4)|21/04 - 22/04|Equipo de control y presentación|DONE|
+|32|Creación de tareas para aplicar el *feedback* recibido (2)|18/04 - 22/04|Coordinación|DONE|
+|33|Recopilación final de *feedback* y aplicaciones|21/04 - 22/04|Equipo de control y presentación|DONE|
+|**PPL** (23/04)|||||
+|34|Mejora Commitment Agreement de Usuarios Piloto|24/04 - 25/04|Carlos Bermejo Soria|DONE|
+|35|Creación de tareas para aplicar el *feedback* recibido|24/04 - 25/04|Coordinación|DONE|
+|36|Búsqueda de nuevas fuentes de usuarios representantes.|24/04 - 30/04|Carlos Zarzuela Reina|DONE|
+|37|Búsqueda de nuevas fuentes de usuarios candidatos.|24/04 - 30/04|Javier Fernández Castillo|DONE|
+|38|Creación Manual de Usuario de candidatos y representantes (4)|24/04 - 04/05|Carlos Bermejo Soria|DONE|
+|39|**Pruebas de IT Talent D3.1**|04/05 - 06/05|Usuarios Piloto grupo 7|DONE|
+|40|**Pruebas de IT Talent D3.1 de empresas**|04/05 - 06/05|Empresas|DONE|
+|41|Análisis del *feedback* recibido (5)|04/05 - 06/05|Equipo de control y presentación|DONE|
+|42|Tratamiento del *feedback* recibido (5)|04/05 - 06/05|Equipo de control y presentación|DONE|
+
 
 
 
@@ -331,13 +345,13 @@ Valoraciones
 
 
 
-|Empresa|Prueba 1|Prueba 2|Prueba 3|||
+|Empresa|Prueba 1|Prueba 2|Prueba 3|Prueba 4|Prueba 5|
 | :- | :- | :- | :- | :- | :- |
-|NOVAMAS|-|-|Por determinar|||
-|GFT|Valoración informal|-|-|||
-|FUJITSU|-|-|-|||
-|AYESA|-|-|-|||
-|IR SOLUCIONES|-|-|-|||
+|NOVAMAS|-|-|5|Por determinar||
+|GFT|Valoración informal|-|-|-||
+|FUJITSU|-|-|-|-||
+|AYESA|-|-|-|-||
+|IR SOLUCIONES|-|-|-|Por determinar||
 
 
 ### <a name="_qbccg627y82l"></a>4.1.3 Canales de comunicación
@@ -425,9 +439,9 @@ Los usuarios piloto con los que contamos en este momento son el **grupo 7 del tu
 
 
 
-|Empresa|Prueba 1|Prueba 2|Prueba 3|||
+|Empresa|Prueba 1|Prueba 2|Prueba 3|Prueba 4|Prueba 5|
 | :- | :- | :- | :- | :- | :- |
-|Grupo 7 ISPP|4|6|7|||
+|Grupo 7 ISPP|4|6|7|Por determinar||
 
 ### <a name="_3cbpmnz6b25"></a>4.2.5 Canales de comunicación
 
