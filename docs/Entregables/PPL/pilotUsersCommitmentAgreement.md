@@ -4,6 +4,9 @@
 
 ***Grupo 1 - IT Talent***
 
+### Entregable: PPL
+### Grupo 01 (Mañana) - IT Talent
+
 Yo,                                                      , en calidad de estudiante de la asignatura de Ingeniería de Software y Práctica Profesional (ISPP) para el curso académico 2023-24, reconozco y acepto las siguientes cláusulas como parte integral de mi compromiso con el programa de usuarios piloto del grupo 1:
 
 1. Me comprometo a dedicar un **esfuerzo mínimo de** **1 hora total** a las tareas requeridas para probar y analizar las versiones de prueba de la aplicación.

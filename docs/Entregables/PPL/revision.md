@@ -34,6 +34,8 @@ ZARZUELA REINA, CARLOS
 
 **Sevilla, Enero 2024**
 
+### Entregable: PPL
+### Grupo 01 (Mañana) - IT Talent
 
 # <a name="_z05qqri5g3tk"></a>Control de Versiones
 

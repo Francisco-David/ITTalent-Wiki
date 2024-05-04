@@ -8,7 +8,7 @@
 BERMEJO SORIA, CARLOS         - Creación
 
 
-### Entregable: S3
+### Entregable: PPL
 ### Grupo 01 (Mañana) - IT Talent
 
 
