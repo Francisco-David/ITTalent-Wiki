@@ -1,4 +1,3 @@
-﻿#
 <a name="_nyu1wutz94vl"></a>**ISPP 2023-24**
 
 **Acuerdo de Compromiso para Usuarios Piloto**
