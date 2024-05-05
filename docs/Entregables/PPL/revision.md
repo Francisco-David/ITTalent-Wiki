@@ -1,6 +1,9 @@
-﻿<a name="_x0ol9ac5ou8t"></a><a name="_ebgmx8b5zfn6"></a>**Reviewers Guide #PPL**
+<div style={{ display: 'flex' }}>
+  <img src="/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
+  <img src="/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
+</div>
 
-<a name="_576gf9ppazqt"></a>**Ingeniería del Software y Práctica Profesional - Universidad de Sevilla**
+## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
 
 BERMEJO SORIA, CARLOS
 
@@ -32,10 +35,12 @@ VILAPLANA DE TRÍAS, FRANCISCO DAVID
 
 ZARZUELA REINA, CARLOS
 
-**Sevilla, Enero 2024**
+<a name="_heading=h.pg8quxt9d0oa">Sevilla, Mayo 2024</a>
 
 ### Entregable: PPL
 ### Grupo 01 (Mañana) - IT Talent
+
+## **Reviewers Guide**
 
 # <a name="_z05qqri5g3tk"></a>Control de Versiones
 
