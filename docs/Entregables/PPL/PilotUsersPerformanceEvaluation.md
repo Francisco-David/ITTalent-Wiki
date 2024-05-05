@@ -24,12 +24,13 @@ Evaluation of pilot users from group 7 ISPP 23/24
 
 |**Factor**|**#S1**|**#S2**|**#S3**|**#PPL**|**#WPL**|
 | :- | :- | :- | :- | :- | :- |
-|*Punctuality*|10|10|10|||
-|*Feedback Validity*|10|10|10|||
-|*Feedback Amount*|10|10|10|||
-|*Communication*|10|10|10|||
+|*Punctuality*|10|10|10|10||
+|*Feedback Validity*|10|10|10|10||
+|*Feedback Amount*|10|10|10|10||
+|*Communication*|10|10|10|10||
 
 *These scores are not supposed to value any individual but the group as a whole, having in mind everything that the users could do with the given information and agreements*
+
 **Entregable: PPL**
 
 **Grupo 01 (Mañana) - IT Talent**
