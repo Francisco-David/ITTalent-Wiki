@@ -1,11 +1,18 @@
-<a name="_nyu1wutz94vl"></a>**ISPP 2023-24**
+<div style={{ display: 'flex' }}>
+  <img src="/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
+  <img src="/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
+</div>
 
-**Acuerdo de Compromiso para Usuarios Piloto**
+## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
 
-***Grupo 1 - IT Talent***
+BERMEJO SORIA, CARLOS
+
+<a name="_heading=h.pg8quxt9d0oa">Sevilla, Mayo 2024</a>
 
 ### Entregable: PPL
 ### Grupo 01 (Mañana) - IT Talent
+
+## **Acuerdo de Compromiso para Usuarios Piloto**
 
 Yo,                                                      , en calidad de estudiante de la asignatura de Ingeniería de Software y Práctica Profesional (ISPP) para el curso académico 2023-24, reconozco y acepto las siguientes cláusulas como parte integral de mi compromiso con el programa de usuarios piloto del grupo 1:
 
