@@ -24,6 +24,7 @@ BERMEJO SORIA, CARLOS         - Creación
 |v.2.0|30/03/2024|Carlos Bermejo Soria|Añadir *feedback* recibido|
 |v.2.1|20/04/2024|Carlos Bermejo Soria|Actualización para tercer Sprint|
 |v.2.2|02/05/2024|Carlos Bermejo Soria|Actualización para PPL|
+|v.2.3|05/05/2024|Carlos Bermejo Soria|Añadir *feedback* recibido|
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
 Este documento se completará progresivamente con la **actividad** y la **comunicación** con los usuarios piloto, ya sean aquellos correspondientes a empresas y terceros o a los usuarios piloto del grupo 7 de la facultad. Además, se pretende establecer un **plan de acción** para llevar a cabo a lo largo del desarrollo.
@@ -174,6 +175,7 @@ La actividad con respecto a los usuarios piloto de candidatos quedará registrad
 |26/04/2024|Grupo 7|**Empezamos a hacer de usuarios piloto** con Javier Fernández Castillo, Carlos Bermejo Soria y Mario Izquierdo Lavado como voluntarios.|
 |29/04/2024|Representante grupo 7|**Terminamos** de entregar el feedback del S3 para el grupo 7 y comentamos la posibilidad de trabajar con ellos durante el PPL ampliando la cantidad de usuarios piloto.|
 |04/05/2024|Representante grupo 7|Finalizamos el **despliegue** para el PPL y avisamos al representante del grupo 7 para que se lo comunique a los potenciales usuarios piloto.|
+|04/05/2024|Grupo 7|*Recibimos* feedback de los usuarios piloto|
 ||||
 ||||
 
@@ -555,3 +557,78 @@ No existe actualmente feedback por parte de representantes de la segunda demo.
 |**Sugerencias**|no lo habéis estructurado adecuadamente|
 |**Otros comentarios**|os falta depurarlo|
 |**Valoración formulario**|3/5|
+
+- Análisis del feedback:
+ 
+La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta prioridad se correspondería con la etiqueta que se le asignaría a la tarea de enmendación de errores que podría generarse en el tablero del proyecto, en caso de que se considerase oportuno. Por otra parte, "FC" representa si el error es una _Software Failure Condition_ o no.
+|Error|Detalles|Prioridad|FC|
+| :- | :- | :- | :- |
+|Visualización del modal|El modal de aceptar los términos de licencia no aparece en medio de la pantalla, sino abajo. Además es algo difícil de leer ya que hay poco contraste.|Muy baja|NO|
+|Leak de usuarios|Hay "leak" de usuarios, hasta el punto que te da los datos de su _subscriptionId_, y la puedes robar con un PATCH a tu usuario, consiguiendo status premium sin tener que pagar.|Neutral|NO|
+|Foto de perfil|Cuando copias el link de una imagen de internet, te viene sin el .png o .jpg. Al pegarlo en el formulario de editar usuario te dice que el problema es que tiene que empezar con http:// o https://, lo cual ya hace. Por tanto, hay que ir completando a mano lo del .png (solo lo sabrías si tienes el manual del usuario candidato), y ademas por cada caracter que pones te salta el error, lo que lo hace un poco pesado.|Neutral|NO|
+|Errores de _responsiveness_|Hay diversos errores de _responsiveness_ en diversas secciones de la aplicación.|Alta|NO|
+|La sección de análisis es poco "friendly"|El usuario piloto asegura que la información que aparece en el análisis de Github es complicada de entender.|Muy baja|NO|
+
+
+
+- Decisiones y soluciones:
+
+Para solucionar el feedback, dado el poco tiempo restante, se esperará a la siguiente semana.
+
+## <a name="_4vr4b9yuuwpy"></a>**5.4 Demo 3.1**
+- Feedback de candidatos:
+
+
+
+|**Nombre**|Antonio Rodríguez Ruiz|
+| :- | :- |
+|**Fecha**|2024-05-05|
+|**Clockify**|<https://app.clockify.me/shared/6637436d963af9639f1407b6>|
+|**Valoración general**|8/10|
+|**Valoración perfil**|8/10|
+|**¿Es cómoda la actualización del perfil?**|En general muy bien. Me entristece que no se pueda usar en movil ya que ha dejado de ser responsive pero en términos generales es mucho más útil y bonita, aunque si la pantalla es menor a 1080p empezamos a tener problemas de superposiscion de elementos. Buen trabajo|
+|**¿Se entienden los planes de suscripción? ¿Pagaría por ellos?**|Se entienden bien. Si embargo yo, personalmente, no pagaria por ello ya que hay estadísticas públicas anualmente sobre el tipo de informacion presente en "trends". Y las empresas las puedo ver y contactar a través de LinkedIn|
+|**¿Cree que la sección de pago para el cambio de plan es intuitiva?**|Lo es, pero el código postal en España es distinto a otros paises, dejarlo como un numero de 5 digitos no es la mejor opción. Por ejemplo en UK son 6 letras|
+|**Valoración login/register/logout**|9/10|
+|**Valoración Developer Info**|9/10|
+|**¿Cree que los campos de Developer Info son adecuados?**|Sí, son interesantes|
+|**Valoración Working Experience**|5/10|
+|**Valoración notificaciones**|5/10|
+|**Valoración "Trends"**|7/10|
+|**Fallos**|Errores GRAVES: - Al entrar por primera vez no me aparecian los botones de Register y Login. Se cree que puede ser debido a que tenia un token antiguo en el localStorage - Las notigicaciones solo tienen boton "Dismiss" - Mientras compraba el plan Pro se me ha acabado la sesion por alguna razon. Ha sido una sesion de unos 10 minutos. Otros errores: - Si se pulsa el boton update developer info sin cambiar el token de github tambien se gastan las veces que se puede hacer. - Sigo sin poder crear mi trabajo actual como experiencia. - Se sigue pudiendo robar una subscriptionId a otro usuario mandando una request manual de PATCH. - El input de has olvidado la contraseña no tiene estilos - Actualizando el usuario si pongo el link de una imagen sin el .png se carga bien, pero cuando le doy a guardar me dice que es invalida.|
+|**Sugerencias**|	- Arreglar estilos del sidebar, lleva roto desde el Sprint 1 - Permitir introducir mi trabajo actual - Crear un link que te lleve a crear un token de github con los campos necesarios pre-seleccionados. Parecido a como hacen IDEs como IntelliJ|
+|**Otros comentarios**||
+|**Valoración formulario**|5/5|
+
+- Feedback representantes:
+
+No existe actualmente feedback por parte de representantes de la demo 3.1.
+
+- Análisis del feedback:
+ 
+La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta prioridad se correspondería con la etiqueta que se le asignaría a la tarea de enmendación de errores que podría generarse en el tablero del proyecto, en caso de que se considerase oportuno. Por otra parte, "FC" representa si el error es una _Software Failure Condition_ o no.
+|Error|Detalles|Prioridad|FC|
+| :- | :- | :- | :- |
+|Error en _Local Storage_|Al abrir la página con el almacenamiento local en el navegador de un usuario que no existe, se genera un error que impide al usuario realizar ninguna acción. Tiene que realizar GET Hacking o borrar el almacenamiento local del navegador para poder continuar.|Muy alta|SÍ|
+|Notificaciones|El usuario piloto asegura que las notificaciones solo tienen botón "Dismiss".|Alta|NO|
+|Fin de sesión inesperado|El usuario piloto asegura que su sesión se acabó en apenas 10 minutos y mientras realizaba un cambio de suscripción.|Neutral|NO|
+|Número de intentos|Si se pulsa el boton update developer info sin cambiar el token de github tambien se gastan las veces que se puede hacer.|Muy baja|NO|
+|Limitaciones de _Working Experience_|El usuario piloto no puede seleccionar su profesión actual como Working Experience. Se necesitan más opciones.|Baja|NO|
+|Robo de suscripciones|Se sigue pudiendo robar una _subscriptionId_ a otro usuario mandando una _request_ manual de PATCH.|Alta|NO|
+|Estilos de olvido de contraseña|El _input_ de "has olvidado la contraseña" no tiene estilos.|Muy baja|NO|
+|Validador de imagen de perfil|Actualizando el usuario, si se pone el link de una imagen sin el ".png", se carga bien, pero cuando se le da a guardar dice que es invalida.|Baja|NO|
+|Estilos del _Navbar_|La barra de navegación tiene fallos puntuales en los estilos.|Baja|NO|
+|Facilitar creación de un token de Github|Sería útil un enlace a la página de creación de token de Github para mejorar la UX.|Muy baja|NO|
+|Errores de _responsiveness_|Hay diversos errores de _responsiveness_ en diversas secciones de la aplicación. Especialmente debido a las gráficas.|Alta|NO|
+
+- Decisiones y soluciones:
+
+Para solucionar el feedback, dado el poco tiempo restante, se esperará a la siguiente semana.
+
+
+
+
+
+
+
+
