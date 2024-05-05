@@ -40,9 +40,9 @@ ZARZUELA REINA, CARLOS
 ### Entregable: PPL
 ### Grupo 01 (Mañana) - IT Talent
 
-## **Reviewers Guide**
+# **Reviewers Guide**
 
-# <a name="_z05qqri5g3tk"></a>Control de Versiones
+## <a name="_z05qqri5g3tk"></a>Control de Versiones
 
 |**Versión**|**Fecha**|**Autor**|**Cambios**|
 | :- | :- | :- | :- |
