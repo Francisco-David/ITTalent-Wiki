@@ -376,7 +376,7 @@ Individual Contribution Summary
 
 - Vilaplana de Trías, Francisco:
 
-    - Como parte de control y presentaciones: recepción y sintetización del feedback obtenido, contribuciones a la base de conocimiento y acciones de consolidación. Como parte de marketing: documento de Oportunidades de inversión.
+    - Como parte de control y presentaciones: recepción y sintetización del feedback obtenido, contribuciones a la base de conocimiento y acciones de consolidación. Como parte de marketing: documento de Oportunidades de inversión. También actualiza el Customer Agreement.
 
 - Zarzuela Reina, Carlos:
 
