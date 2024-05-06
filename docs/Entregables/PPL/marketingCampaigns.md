@@ -96,7 +96,7 @@ Se pretende tener una **presencia continuada en redes sociales** (principalmente
 
 Disponemos de un **roadmap** con las publicaciones a realizar planificadas:
 
-![Foto1](/img/campana.png)
+![Foto1](/img/campana.jpg)
 
 En cuanto a las **impresiones esperadas**, se estima en torno a 100 suscriptores tras el comienzo de la campaña de marketing, y en torno a 35 likes de media por publicación realizada. Lo que significa que en torno al 30% de los seguidores les gustaría e interesaría el contenido y la aplicación. 
 
