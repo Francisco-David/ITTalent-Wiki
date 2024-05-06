@@ -108,17 +108,17 @@ Pero preferimos ser más realistas, observando otras aplicaciones similares en e
 
 **Cantidad de inversión:** 
 
-**Financiar lo gastado hasta el momento	→**	Coste Inicial: Desarrollo, puesta en     						          	                 marcha, mantenimiento.
+**Financiar lo gastado hasta el momento**	→	Coste Inicial: Desarrollo, puesta en marcha, mantenimiento.
 
-`								`Marketing.
+→ Marketing.
 
-`								`Colchón económico.
+→ Colchón económico.
 
-`						`**TOTAL:  131.615 € 3 meses**
+**TOTAL:  131.615 € 3 meses**
 
-`						`**TOTAL después del tercer mes:  11.000 €/mes**
+**TOTAL después del tercer mes:  11.000 €/mes**
 
-`	`Financiar el crecimiento  →**	Opex, mantenimiento,  infraestructura, … Todos los gastos 					que aumentarían al crecer el número de empleados y  						usuarios de la plataforma.
+**Financiar el crecimiento** → Opex, mantenimiento, infraestructura, … Todos los gastos que aumentarían al crecer el número de empleados y usuarios de la plataforma.
 
 En los 2 primeros años el gasto total de financiación: **164.615 + 132.000= 296.000€**
 
@@ -128,9 +128,8 @@ Pensamos en el gasto total en los próximos 3 años:
 
 Por lo tanto buscamos una inversión inicial de al menos unos  **300.000€** de inversión para recuperar los gastos en los dos primeros años.
 
-1. <a name="_70i2k0bh1krz"></a>**Tendencias del Mercado que Respalden la Oportunidad de Inversión**
+1. ## <a name="_70i2k0bh1krz"></a>**Tendencias del Mercado que Respalden la Oportunidad de Inversión**
 
-   ------------------------------------------------------------------------------------------------
 Análisis detallado de las tendencias del mercado de reclutamiento y contratación de talento en la industria informática en España de los datos extraídos de la página de [Infoempleo](https://cdnazure.infoempleo.com/infoempleo/documentacion/Informe-infoempleo-adecco-2022.pdf):
 
 
@@ -285,7 +284,7 @@ Un ejemplo sería el de un inversor que proporciona unos **30.000€** **a un pl
 Para mantener a los usuarios comprometidos y satisfechos a largo plazo, tenemos una estrategía que se centra en varias áreas claves de nuestra aplicación:
 
 
-`	`**1. Desarrollo continuo de funcionalidades:** No solo planteamos implementar nuevas funciones para mejorar las existentes, sino también mejorar la experiencia del usuario al hacer la interfaz más intuitiva y fácil de usar.
+**1. Desarrollo continuo de funcionalidades:** No solo planteamos implementar nuevas funciones para mejorar las existentes, sino también mejorar la experiencia del usuario al hacer la interfaz más intuitiva y fácil de usar.
 
 **2. Mejoras futuras en la aplicación:**
 
