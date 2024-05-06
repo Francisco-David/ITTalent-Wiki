@@ -664,41 +664,33 @@ El presentador practica un ritmo constante de presentación para no subirlo y qu
 ## <a name="_b9ljviz0epcb5"></a>**Semana 10**
 
 **Presentación**
+
 Se evita hablar de cosas que son generales o iguales para todos los grupos y al dar los datos pesistas u optimistas se acompaña de una explicación de cómo se podrían dar. Procura que pese a tener confirmados algunas empresas, la búsqueda de más empresas piloto sigue activa.
 
 **DEMO**
+
 Se procura que exista una correlación con el anuncio y la DEMO para que haya cierta linearidad o hilo en esta y no sea una ristra de funcionalidades.
 
 **Aplicación**
+
 Se trabaja en planear la adición de un modo claro en la aplicación. Se trabaja una serie de bugs reportados por los usuarios pilotos.
 
 
 
 ## <a name="_b9ljviz0epcb6"></a>**Semana 11**
 
-- Business Plan debe responder a “¿Cómo voy a ganar dinero con la aplicación? ¿Por qué y cómo vamos a ser rentables?”.
--  Realizar el Anuncio de Inversores. Se deben incluir números, datos, ROI… Orientado al mercado y apoyado de estudios que hayamos realizado.No olvidar cuales son las prioridades del inversor. Ser claro con ¿Cuánto tengo que invertir? ¿Cuándo Tengo que invertir? y ¿Cuánto voy a ganar? CON NÚMEROS apoyados por estudios de marketing, anuncios, estudios de mercado… 
-- Dar opciones de inversión sin nunca superar el 50% (de adquisición de la aplicación) y mostrando el ROI.
-- EN la DEMO no incluir la presentación de la historia que cuenta Javi a la misma vez que se están realizando acciones sobre la aplicación, aunque sea el registro.
-- Intentar realizar un anuncio a la vez que DEMO de esta manera podría quedar menos repetitivo. Es decir, en nuestro caso podría funcionar mejor un anuncio en el que se vean claramente las funciones de nuestra aplicación.
-- Eliminar el Commitment Agreement de la presentación, no pega en las últimas presentaciones.
-- Añadir la leyenda de la gráfica de la página 6.
-- Mostrar algún story o publicación en la presentación de Marketing.
-- Se debe mostrar la agenda de marketing en la presentación.
-- Se ve que hay un coste inicial en el Marketing (que nos hacen empezar en negativo), se debe hablar de estos costes (desglose) además de otros datos como el número de usuarios que estimamos que aporte la campaña de marketing.
-- Usar “Equipos” para el SEO no es una keyword efectiva, aparecerían otros resultados antes (deportes).
-- Fernando debe alzar la voz en el Killer Opener de los CV.
-- El audio debe ser mejorado en el anuncio (arreglar eco), aclararlo lo mas posible (o volver a grabarlo encajarlo en el video).
-- Evitar usar términos como Capex, Opex, Matchmaking… en el WPL, ya que no son de dominio general (en la presentación habrá personas que no dominan estos términos) por lo que es mejor usar Coste Capital y Coste Operacional.
-
 **Marketing**
+
 Se realiza un business plan claro, se valora la aplicación y se redactan las oportunidades de inversion apoyado por investigaciones y estudios de mercado. Se retira la Keyword "Equipos" del SEO.
 
 **Presentación**
+
 Se elimina el apartado del Commitment Agreement ya que a estas alturas no es necesario incluirlo.
 
 **Aplicación**
+
 Se arreglan una serie de bugs reportados por los usuarios pilotos.
 
 **Presentador**
+
 Fernando se encargará de tener un micrófono para él en la presentación o de alzar la voz en caso de no ser posible un segundo micrófono. También se trabaja evitar términos más técnicos durante la presentación como Capex, Opex, Matchmaking... En su lugar se usaran otros como por ejemplo "Coste Operacional".
