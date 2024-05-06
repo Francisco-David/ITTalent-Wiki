@@ -564,7 +564,6 @@ No existe actualmente feedback por parte de representantes de la segunda demo.
 
 - Análisis del feedback:
  
-La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta prioridad se correspondería con la etiqueta que se le asignaría a la tarea de enmendación de errores que podría generarse en el tablero del proyecto, en caso de que se considerase oportuno. Por otra parte, "FC" representa si el error es una _Software Failure Condition_ o no.
 |Error|Detalles|Prioridad|FC|
 | :- | :- | :- | :- |
 |Visualización del modal|El modal de aceptar los términos de licencia no aparece en medio de la pantalla, sino abajo. Además es algo difícil de leer ya que hay poco contraste.|Muy baja|NO|
@@ -574,7 +573,7 @@ La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta 
 |La sección de análisis es poco "friendly"|El usuario piloto asegura que la información que aparece en el análisis de Github es complicada de entender.|Muy baja|NO|
 |Acceso a _Trends_|Se puede acceder a las estadísticas sin tener el plan adeacuado.|Alta|NO|
 
-
+La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta prioridad se correspondería con la etiqueta que se le asignaría a la tarea de enmendación de errores que podría generarse en el tablero del proyecto, en caso de que se considerase oportuno. Por otra parte, "FC" representa si el error es una _Software Failure Condition_ o no.
 
 - Decisiones y soluciones:
 
@@ -652,8 +651,8 @@ La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta 
 |**Valoración formulario**|-|
 
 - Análisis del feedback:
- 
-La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta prioridad se correspondería con la etiqueta que se le asignaría a la tarea de enmendación de errores que podría generarse en el tablero del proyecto, en caso de que se considerase oportuno. Por otra parte, "FC" representa si el error es una _Software Failure Condition_ o no.
+
+
 |Error|Detalles|Prioridad|FC|
 | :- | :- | :- | :- |
 |Error en _Local Storage_|Al abrir la página con el almacenamiento local en el navegador de un usuario que no existe, se genera un error que impide al usuario realizar ninguna acción. Tiene que realizar GET Hacking o borrar el almacenamiento local del navegador para poder continuar.|Muy alta|SÍ|
@@ -672,6 +671,9 @@ La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta 
 |_Escape Hatch_ más claro|El usuario piloto no ha encontrado el acceso al _Escape Hatch_ que lleva a la página de inicio. Se puede hacer más visible.|Muy baja|NO|
 |Fecha de finalización de _Work Experience_|La fecha de finalización de las experiencias laborales debería ser indefinida por si el candidato aún se encuentra en la posición y no sabe cuándo terminará. Habría que considerar qué hacer con los años de experiencia.|Neutral|NO|
 |_Top Repositories_|El apartado de Top Repositories no aclara mucho si, por ejemplo, todos los repos que aparecen tienen 0 estrellas y 0 forks. Podría haber alguna manera de ordenarlos y ver en qué se prioriza.|Baja|NO|
+
+La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta prioridad se correspondería con la etiqueta que se le asignaría a la tarea de enmendación de errores que podría generarse en el tablero del proyecto, en caso de que se considerase oportuno. Por otra parte, "FC" representa si el error es una _Software Failure Condition_ o no.
+
 
 - Decisiones y soluciones:
 
