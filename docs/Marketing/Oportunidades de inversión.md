@@ -96,9 +96,10 @@ ZARZUELA REINA, CARLOS
 
 
 1. # <a name="_3znysh7"></a>Oportunidades de inversión
-   1. ## <a name="_u6auzfoy15ac"></a>**Cantidad de Inversión Buscada y Uso Previsto de los Fondos**
-**
-`	`Dado que IT Talent ofrece una solución única en el mercado al automatizar la búsqueda de talento y generar cuadros comparativos, podríamos asignarle un valor adicional de aproximadamente **1 millón de euros** debido a su **singularidad y potencial de disruptividad en el mercado**.
+
+1. ## <a name="_u6auzfoy15ac"></a>**Cantidad de Inversión Buscada y Uso Previsto de los Fondos**
+
+Dado que IT Talent ofrece una solución única en el mercado al automatizar la búsqueda de talento y generar cuadros comparativos, podríamos asignarle un valor adicional de aproximadamente **1 millón de euros** debido a su **singularidad y potencial de disruptividad en el mercado**.
 
 Pero preferimos ser más realistas, observando otras aplicaciones similares en el mercado que han logrado valoraciones comparables, como LinkedIn o Glassdoor, podríamos tomar sus valoraciones como referencia. Por ejemplo, si **LinkedIn** tiene una valoración de mercado de unos **10 mil millones** de euros, podríamos considerar que IT Talent, al ser una solución más especializada pero aún en desarrollo, podría tener una valoración inicial de alrededor del **0.007%** de la de **LinkedIn**. Sin embargo, dado que estamos siendo **conservadores**, podríamos ajustar esta cifra hacia abajo y asignarle a IT Talent una valoración de **700.000 euros** en función de comparaciones con otras aplicaciones similares.
 
@@ -108,29 +109,28 @@ Pero preferimos ser más realistas, observando otras aplicaciones similares en e
 
 **Cantidad de inversión:** 
 
-**Financiar lo gastado hasta el momento	→**	Coste Inicial: Desarrollo, puesta en     						          	                 marcha, mantenimiento.
+**Financiar lo gastado hasta el momento**	→	Coste Inicial: Desarrollo, puesta en marcha, mantenimiento.
 
-`								`Marketing.
+→ Marketing.
 
-`								`Colchón económico.
+→ Colchón económico.
 
-`						`**TOTAL:  131.615 € 3 meses**
+**TOTAL:  131.615 € 3 meses**
 
-`						`**TOTAL después del tercer mes:  11.000 €/mes**
+**TOTAL después del tercer mes:  11.000 €/mes**
 
-`	`Financiar el crecimiento  →**	Opex, mantenimiento,  infraestructura, … Todos los gastos 					que aumentarían al crecer el número de empleados y  						usuarios de la plataforma.
+**Financiar el crecimiento** → Opex, mantenimiento, infraestructura, … Todos los gastos que aumentarían al crecer el número de empleados y usuarios de la plataforma.
 
 En los 2 primeros años el gasto total de financiación: **164.615 + 132.000= 296.000€**
 
 Pensamos en el gasto total en los próximos 3 años:
 
-`		`**TOTAL APROXIMADO: 428.000 €** 
+**TOTAL APROXIMADO: 428.000 €** 
 
 Por lo tanto buscamos una inversión inicial de al menos unos  **300.000€** de inversión para recuperar los gastos en los dos primeros años.
 
-1. <a name="_70i2k0bh1krz"></a>**Tendencias del Mercado que Respalden la Oportunidad de Inversión**
+1. ## <a name="_70i2k0bh1krz"></a>**Tendencias del Mercado que Respalden la Oportunidad de Inversión**
 
-   ------------------------------------------------------------------------------------------------
 Análisis detallado de las tendencias del mercado de reclutamiento y contratación de talento en la industria informática en España de los datos extraídos de la página de [Infoempleo](https://cdnazure.infoempleo.com/infoempleo/documentacion/Informe-infoempleo-adecco-2022.pdf):
 
 
@@ -285,7 +285,7 @@ Un ejemplo sería el de un inversor que proporciona unos **30.000€** **a un pl
 Para mantener a los usuarios comprometidos y satisfechos a largo plazo, tenemos una estrategía que se centra en varias áreas claves de nuestra aplicación:
 
 
-`	`**1. Desarrollo continuo de funcionalidades:** No solo planteamos implementar nuevas funciones para mejorar las existentes, sino también mejorar la experiencia del usuario al hacer la interfaz más intuitiva y fácil de usar.
+**1. Desarrollo continuo de funcionalidades:** No solo planteamos implementar nuevas funciones para mejorar las existentes, sino también mejorar la experiencia del usuario al hacer la interfaz más intuitiva y fácil de usar.
 
 **2. Mejoras futuras en la aplicación:**
 
