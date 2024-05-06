@@ -1,4 +1,4 @@
-﻿<div style={{ display: 'flex' }}>
+<div style={{ display: 'flex' }}>
   <img src="/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
   <img src="/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
 </div>
@@ -37,7 +37,7 @@ ZARZUELA REINA, CARLOS
 
 
 
-### Entregable: S2
+### Entregable: PPL
 ### Grupo 01 (Mañana) - IT Talent
 
 
@@ -50,6 +50,7 @@ ZARZUELA REINA, CARLOS
 |v2.0|26/02/24|Paco|Cambio en el formato y adición del contenido de la 3a semana|
 |v2.1|03/03/24|Paco|Adición de contenido de la 4a semana|
 |v2.6|22/04/24|Paco|Adición de contenido de la 8a y 9a semana|
+|v2.7|05/05/24|Paco|Adición de contenido de la 10a y 11a semana|
 
 ## **Resumen del documento**
 En este documento se especifican las contribuciones a la base de conocimientos de la asignatura disponible en [este enlace](https://bgcc.vercel.app/). También se recogen las acciones que se han tomado teniendo en cuenta el feedback proporcionado de una semana a otra.

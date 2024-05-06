@@ -56,8 +56,13 @@ Una vez terminado este Acuerdo, el derecho del Usuario a utilizar el Servicio ce
 
 
 # <a name="_wj2b1byxl6m1"></a>2. Precios y Servicios
-## <a name="_w8hc7g8g1tm2"></a>**2.1 Planes para Empresas**
-<a name="_pwi1srhug83l"></a>Plan Básico: 30€/mes
+
+## <a name="_w8hc7g8g1tm3"></a>**2.1 Precios**
+La información sobre los precios está disponible en el siguiente [link](https://it-talent-wiki.vercel.app/docs/Marketing/Pricing). Si una vez registrado desea cambiarlo, puede acceder a la oferta de los diferentes planes en el apartado "Subscriptions" de la barra lateral.
+
+
+## <a name="_w8hc7g8g1tm2"></a>**2.2.1 Servicios para Empresas**
+<a name="_pwi1srhug83l"></a>Plan Básico:
 
 - <a name="_sxr40vzdkpt6"></a>Hasta 25 búsquedas de candidatos al mes.
 - <a name="_wcz6szahqesc"></a>Búsqueda individual y por equipos de hasta 3 personas.
@@ -65,7 +70,7 @@ Una vez terminado este Acuerdo, el derecho del Usuario a utilizar el Servicio ce
 - <a name="_l07evzcayi5u"></a>Filtros básicos disponibles.
 - <a name="_nssi35u6xjjk"></a>Prueba gratis de 30 días.
 
-<a name="_xnfvqtk3i85b"></a>Plan Avanzado: 80€/mes
+<a name="_xnfvqtk3i85b"></a>Plan Avanzado:
 
 - <a name="_9g3ufnkdkjt0"></a>Hasta 150 búsquedas de candidatos al mes.
 - <a name="_b1hqp8bz56kw"></a>Búsqueda por equipos de hasta 5 personas.
@@ -78,18 +83,19 @@ Una vez terminado este Acuerdo, el derecho del Usuario a utilizar el Servicio ce
 <a name="_a03e5s3ubhfq"></a>Plan Personalizado: Precios y características personalizadas bajo demanda.
 
 
-## <a name="_x0dgzvjnpc3d"></a>**2.2 Planes para Usuarios en Búsqueda de Empleo**
-<a name="_gnzg8dp3lmwz"></a>Plan Básico: Gratuito
+## <a name="_x0dgzvjnpc3d"></a>**2.2.2 Servicios para Usuarios en Búsqueda de Empleo**
+<a name="_gnzg8dp3lmwz"></a>Plan Básico:
 
 - <a name="_760wlm5fvdt0"></a>Todas las funcionalidades básicas de la aplicación.
 - <a name="_ip4sx3b23obx"></a>Posibilidad de actualizar los datos cada 30 días.
 
-<a name="_gqs0n8rn70tu"></a>Plan Avanzado: 10€/mes
+<a name="_gqs0n8rn70tu"></a>Plan Avanzado:
 
 - <a name="_58gfhr552k7b"></a>Todas las funcionalidades del plan anterior.
 - <a name="_tf3uw1j9f3wb"></a>Posibilidad de actualizar los datos tres veces cada 30 días.
 - <a name="_v850zuc4e2im"></a>Posibilidad de ver qué empresas han visualizado tu perfil.
 - <a name="_r8n72f7y5wa4"></a>Estadísticas avanzadas de la aplicación.
+
 # <a name="_abvryauyv25q"></a>3. SLAS (Service Level Agreements)
 ## <a name="_aa6nfus4j9eo"></a>**3.1 Indicadores de Nivel de Servicio (SLI)**
 <a name="_8m4rija4b8vx"></a>Los siguientes indicadores de nivel de servicio se aplican a los servicios de IT Talent:
