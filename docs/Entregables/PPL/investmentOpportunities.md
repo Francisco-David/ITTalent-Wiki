@@ -96,9 +96,10 @@ ZARZUELA REINA, CARLOS
 
 
 1. # <a name="_3znysh7"></a>Oportunidades de inversión
-   1. ## <a name="_u6auzfoy15ac"></a>**Cantidad de Inversión Buscada y Uso Previsto de los Fondos**
-**
-`	`Dado que IT Talent ofrece una solución única en el mercado al automatizar la búsqueda de talento y generar cuadros comparativos, podríamos asignarle un valor adicional de aproximadamente **1 millón de euros** debido a su **singularidad y potencial de disruptividad en el mercado**.
+
+1. ## <a name="_u6auzfoy15ac"></a>**Cantidad de Inversión Buscada y Uso Previsto de los Fondos**
+
+Dado que IT Talent ofrece una solución única en el mercado al automatizar la búsqueda de talento y generar cuadros comparativos, podríamos asignarle un valor adicional de aproximadamente **1 millón de euros** debido a su **singularidad y potencial de disruptividad en el mercado**.
 
 Pero preferimos ser más realistas, observando otras aplicaciones similares en el mercado que han logrado valoraciones comparables, como LinkedIn o Glassdoor, podríamos tomar sus valoraciones como referencia. Por ejemplo, si **LinkedIn** tiene una valoración de mercado de unos **10 mil millones** de euros, podríamos considerar que IT Talent, al ser una solución más especializada pero aún en desarrollo, podría tener una valoración inicial de alrededor del **0.007%** de la de **LinkedIn**. Sin embargo, dado que estamos siendo **conservadores**, podríamos ajustar esta cifra hacia abajo y asignarle a IT Talent una valoración de **700.000 euros** en función de comparaciones con otras aplicaciones similares.
 
@@ -124,7 +125,7 @@ En los 2 primeros años el gasto total de financiación: **164.615 + 132.000= 29
 
 Pensamos en el gasto total en los próximos 3 años:
 
-`		`**TOTAL APROXIMADO: 428.000 €** 
+**TOTAL APROXIMADO: 428.000 €** 
 
 Por lo tanto buscamos una inversión inicial de al menos unos  **300.000€** de inversión para recuperar los gastos en los dos primeros años.
 
