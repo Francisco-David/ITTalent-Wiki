@@ -72,7 +72,7 @@ No existe actualmente feedback por parte de representantes de la segunda demo.
 |**Clockify**|<https://app.clockify.me/shared/6623fedc0730fe5f66bbc340>|
 |**Valoración general**|7/10|
 |**Valoración perfil**|8/10|
-|**¿Es cómo la actualización del perfil?**|Sí, lo es|
+|**¿Es cómoda la actualización del perfil?**|Sí, lo es|
 |**¿Se entienden los planes de suscripción?**|Si, se entienden, pero no se aplican correctamente. Puedo ver stats sin ser Pro, es confuso|
 |**¿Cree que la sección de pago para el cambio de plan es intuitiva?**|Sí, lo es|
 |**Valoración login/register/logout**|8/10|
@@ -93,7 +93,7 @@ No existe actualmente feedback por parte de representantes de la segunda demo.
 |**Fecha**|20/4/2024|
 |**Valoración general**|5/10|
 |**Valoración perfil**|5/10|
-|**¿Es cómo la actualización del perfil?**|Tiene problemas|
+|**¿Es cómoda la actualización del perfil?**|Tiene problemas|
 |**¿Se entienden los planes de suscripción?**|No lo sé, no sé el fixing price|
 |**¿Cree que la sección de pago para el cambio de plan es intuitiva?**|No, me siento inseguro pagando|
 |**Valoración login/register/logout**|4/10|
@@ -152,12 +152,50 @@ La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta 
 |**Valoración "Trends"**|7/10|
 |**Fallos**|Errores GRAVES: - Al entrar por primera vez no me aparecian los botones de Register y Login. Se cree que puede ser debido a que tenia un token antiguo en el localStorage - Las notigicaciones solo tienen boton "Dismiss" - Mientras compraba el plan Pro se me ha acabado la sesion por alguna razon. Ha sido una sesion de unos 10 minutos. Otros errores: - Si se pulsa el boton update developer info sin cambiar el token de github tambien se gastan las veces que se puede hacer. - Sigo sin poder crear mi trabajo actual como experiencia. - Se sigue pudiendo robar una subscriptionId a otro usuario mandando una request manual de PATCH. - El input de has olvidado la contraseña no tiene estilos - Actualizando el usuario si pongo el link de una imagen sin el .png se carga bien, pero cuando le doy a guardar me dice que es invalida.|
 |**Sugerencias**|	- Arreglar estilos del sidebar, lleva roto desde el Sprint 1 - Permitir introducir mi trabajo actual - Crear un link que te lleve a crear un token de github con los campos necesarios pre-seleccionados. Parecido a como hacen IDEs como IntelliJ|
-|**Otros comentarios**||
+|**Otros comentarios**|-|
+|**Valoración formulario**|5/5|
+
+|**Nombre**|-|
+| :- | :- |
+|**Fecha**|2024-05-03|
+|**Clockify**|-|
+|**Valoración general**|10/10|
+|**Valoración perfil**|9/10|
+|**¿Es cómoda la actualización del perfil?**|Sí, lo es|
+|**¿Se entienden los planes de suscripción? ¿Pagaría por ellos?**|Se entienden correctamente y probablemente merezcan la pena con un uso más intensivo de la aplicación|
+|**¿Cree que la sección de pago para el cambio de plan es intuitiva?**|Sí, lo es|
+|**Valoración login/register/logout**|10/10|
+|**Valoración Developer Info**|10/10|
+|**¿Cree que los campos de Developer Info son adecuados?**|Sí, son interesantes|
+|**Valoración Working Experience**|8/10|
+|**Valoración notificaciones**|10/10|
+|**Valoración "Trends"**|10/10|
+|**Fallos**|- El token de sesión suele caducar muy rápido, ocurre en algunos momentos puntuales mientras se usa la app - Al volver atrás, acabas en la pantalla principal con un mensaje "Welcome (nombre del usuario)" y pese a que se puede acceder desde la pestaña de la izquierda, debería de haber un acceso rápido desde la propia pantalla de bienvenida|
+|**Sugerencias**|- En la experiencia de trabajo dejaría que la fecha de End fuese indefinida (por si el candidato se encuentra aún en ella) - Agregaría en la sección de experiencia de trabajo un apartado de tecnologías usadas - El apartado de Top Repositories no aclara mucho si, por ejemplo, todos los repos que aparecen tienen 0 estrellas y forks 0. Podría haber alguna manera de ordenarlos o ver en qué se prioriza|
+|**Otros comentarios**|Muy buen trabajo del equipo, me ha sorprendido y tiene mucho potencial|
 |**Valoración formulario**|5/5|
 
 - Feedback representantes:
 
-No existe actualmente feedback por parte de representantes de la demo 3.1.
+|**Nombre empresa**|ITCON Iberia|
+| :- | :- |
+|**Fecha**|2024-05-03|
+|**Valoración general**|10/10|
+|**Valoración perfil**|9/10|
+|**¿Es cómoda la actualización del perfil?**|Sí, lo es|
+|**¿Se entienden los planes de suscripción?**|Según si se da un uso intensivo podría resultar interesante, al menos con el plan BASIC. El Pro quizás puede resultar interesante con un mayor volumen de uso|
+|**¿Cree que la sección de pago para el cambio de plan es intuitiva?**|	Sí, lo es|
+|**Valoración login/register/logout**|10/10|
+|**Valoración del análisis**|10/10|
+|**¿Qué cambios le haría a la sección de análisis?**|Permitiría que se pudiese acceder al contenido de los repositorios mostrados en el perfil encontrado en el análisis|
+|**Valoración historial de análisis**|9/10|
+|**Valoración búsqueda de equipos**|9/10|
+|**¿Qué cambios haría a la búsqueda de equipos?**|Poder buscar por un sólo candidato o dejar un sólo formulario de búsqueda y que se filtre el listado a raíz de ahí|
+|**Valoración historial de búsqueda**|9/10|
+|**Fallos**|- El token de sesión a veces caduca muy rápido, ocurre en la pantalla de Subscription|
+|**Sugerencias**|- Poder acceder de forma más intuitiva desde el perfil a tus candidatos favoritos - Búsqueda de candidatos con un sólo formulario|
+|**Otros comentarios**|Tiene mucho potencial, un gran trabajo. Interfaz muy bonita y sencilla y buena representación de datos|
+|**Valoración formulario**|-|
 
 - Análisis del feedback:
  
@@ -175,6 +213,11 @@ La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta 
 |Estilos del _Navbar_|La barra de navegación tiene fallos puntuales en los estilos.|Baja|NO|
 |Facilitar creación de un token de Github|Sería útil un enlace a la página de creación de token de Github para mejorar la UX.|Muy baja|NO|
 |Errores de _responsiveness_|Hay diversos errores de _responsiveness_ en diversas secciones de la aplicación. Especialmente debido a las gráficas.|Alta|NO|
+|Enlace a repositorios|El usuario piloto considera útil un enlace directo a los repositorios desde el análisis.|Muy baja|NO|
+|Búsqueda de 1 candidato|El usuario piloto considera útil la posibilidad de buscar un solo candidato en la búsqueda de equipos.|Baja|NO|
+|_Escape Hatch_ más claro|El usuario piloto no ha encontrado el acceso al _Escape Hatch_ que lleva a la página de inicio. Se puede hacer más visible.|Muy baja|NO|
+|Fecha de finalización de _Work Experience_|La fecha de finalización de las experiencias laborales debería ser indefinida por si el candidato aún se encuentra en la posición y no sabe cuándo terminará. Habría que considerar qué hacer con los años de experiencia.|Neutral|NO|
+|_Top Repositories_|El apartado de Top Repositories no aclara mucho si, por ejemplo, todos los repos que aparecen tienen 0 estrellas y 0 forks. Podría haber alguna manera de ordenarlos y ver en qué se prioriza.|Baja|NO|
 
 - Decisiones y soluciones:
 

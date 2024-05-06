@@ -127,8 +127,9 @@ La actividad con respecto a los usuarios piloto de empresas quedará registrada 
 |15/03/2024|GFT|Se recibe **una respuesta** de una potencial usuaria piloto. Sin embargo, no parece confirmar nada.|
 |20/04/2024|Novomas|Se envían los **manuales** a Novomás.|
 |21/04/2024|Novomas|**Recibimos** feedback de Novomás.|
-|21/04/2024|Novomas|**Recibimos** feedback de Novomás.|
 |24/04/2024|IR Soluciones|Carlos Zarzuela Reina **contacta** con nuevas empresa y potenciales usuarios piloto, empezando con IR Soluciones.|
+|30/04/2024|ITCON Iberia|Javier Fernández Castillo **contacta** con ITCON Iberia y consigue que acepten ser usuarios piloto.|
+|03/05/2024|ITCON Iberia|**Recibimos** feedback de ITCON Iberia|
 |04/05/2024|IR Soluciones|Aún no se recibe respuesta de la empresa pero se notifica que el despliegue de una nueva versión ha sido realizada.|
 ||||
 ||||
@@ -257,6 +258,8 @@ Los usuarios representantes pilotos potenciales con los que contamos son:
 | :- | :- |
 |Novomas|motero@novomas.es|
 |*GFT Technologies*|*Marta.Lopez@gft.com*|
+|ITCON Iberia|-|
+|IR Soluciones|-|
 
 
 También contamos con los posibles siguiente usuarios pilotos representantes:
@@ -349,11 +352,12 @@ Valoraciones
 
 |Empresa|Prueba 1|Prueba 2|Prueba 3|Prueba 4|Prueba 5|
 | :- | :- | :- | :- | :- | :- |
-|NOVAMAS|-|-|5|Por determinar||
+|NOVOMAS|-|-|5|Por determinar||
 |GFT|Valoración informal|-|-|-||
 |FUJITSU|-|-|-|-||
 |AYESA|-|-|-|-||
 |IR SOLUCIONES|-|-|-|Por determinar||
+|ITCON IBERIA|-|-|-|10||
 
 
 ### <a name="_qbccg627y82l"></a>4.1.3 Canales de comunicación
@@ -605,9 +609,47 @@ La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta 
 |**Otros comentarios**||
 |**Valoración formulario**|5/5|
 
+|**Nombre**|-|
+| :- | :- |
+|**Fecha**|2024-05-03|
+|**Clockify**|-|
+|**Valoración general**|10/10|
+|**Valoración perfil**|9/10|
+|**¿Es cómoda la actualización del perfil?**|Sí, lo es|
+|**¿Se entienden los planes de suscripción? ¿Pagaría por ellos?**|Se entienden correctamente y probablemente merezcan la pena con un uso más intensivo de la aplicación|
+|**¿Cree que la sección de pago para el cambio de plan es intuitiva?**|Sí, lo es|
+|**Valoración login/register/logout**|10/10|
+|**Valoración Developer Info**|10/10|
+|**¿Cree que los campos de Developer Info son adecuados?**|Sí, son interesantes|
+|**Valoración Working Experience**|8/10|
+|**Valoración notificaciones**|10/10|
+|**Valoración "Trends"**|10/10|
+|**Fallos**|- El token de sesión suele caducar muy rápido, ocurre en algunos momentos puntuales mientras se usa la app - Al volver atrás, acabas en la pantalla principal con un mensaje "Welcome (nombre del usuario)" y pese a que se puede acceder desde la pestaña de la izquierda, debería de haber un acceso rápido desde la propia pantalla de bienvenida|
+|**Sugerencias**|- En la experiencia de trabajo dejaría que la fecha de End fuese indefinida (por si el candidato se encuentra aún en ella) - Agregaría en la sección de experiencia de trabajo un apartado de tecnologías usadas - El apartado de Top Repositories no aclara mucho si, por ejemplo, todos los repos que aparecen tienen 0 estrellas y forks 0. Podría haber alguna manera de ordenarlos o ver en qué se prioriza|
+|**Otros comentarios**|Muy buen trabajo del equipo, me ha sorprendido y tiene mucho potencial|
+|**Valoración formulario**|5/5|
+
 - Feedback representantes:
 
-No existe actualmente feedback por parte de representantes de la demo 3.1.
+|**Nombre empresa**|ITCON Iberia|
+| :- | :- |
+|**Fecha**|2024-05-03|
+|**Valoración general**|10/10|
+|**Valoración perfil**|9/10|
+|**¿Es cómoda la actualización del perfil?**|Sí, lo es|
+|**¿Se entienden los planes de suscripción?**|Según si se da un uso intensivo podría resultar interesante, al menos con el plan BASIC. El Pro quizás puede resultar interesante con un mayor volumen de uso|
+|**¿Cree que la sección de pago para el cambio de plan es intuitiva?**|	Sí, lo es|
+|**Valoración login/register/logout**|10/10|
+|**Valoración del análisis**|10/10|
+|**¿Qué cambios le haría a la sección de análisis?**|Permitiría que se pudiese acceder al contenido de los repositorios mostrados en el perfil encontrado en el análisis|
+|**Valoración historial de análisis**|9/10|
+|**Valoración búsqueda de equipos**|9/10|
+|**¿Qué cambios haría a la búsqueda de equipos?**|Poder buscar por un sólo candidato o dejar un sólo formulario de búsqueda y que se filtre el listado a raíz de ahí|
+|**Valoración historial de búsqueda**|9/10|
+|**Fallos**|- El token de sesión a veces caduca muy rápido, ocurre en la pantalla de Subscription|
+|**Sugerencias**|- Poder acceder de forma más intuitiva desde el perfil a tus candidatos favoritos - Búsqueda de candidatos con un sólo formulario|
+|**Otros comentarios**|Tiene mucho potencial, un gran trabajo. Interfaz muy bonita y sencilla y buena representación de datos|
+|**Valoración formulario**|-|
 
 - Análisis del feedback:
  
@@ -625,10 +667,16 @@ La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta 
 |Estilos del _Navbar_|La barra de navegación tiene fallos puntuales en los estilos.|Baja|NO|
 |Facilitar creación de un token de Github|Sería útil un enlace a la página de creación de token de Github para mejorar la UX.|Muy baja|NO|
 |Errores de _responsiveness_|Hay diversos errores de _responsiveness_ en diversas secciones de la aplicación. Especialmente debido a las gráficas.|Alta|NO|
+|Enlace a repositorios|El usuario piloto considera útil un enlace directo a los repositorios desde el análisis.|Muy baja|NO|
+|Búsqueda de 1 candidato|El usuario piloto considera útil la posibilidad de buscar un solo candidato en la búsqueda de equipos.|Baja|NO|
+|_Escape Hatch_ más claro|El usuario piloto no ha encontrado el acceso al _Escape Hatch_ que lleva a la página de inicio. Se puede hacer más visible.|Muy baja|NO|
+|Fecha de finalización de _Work Experience_|La fecha de finalización de las experiencias laborales debería ser indefinida por si el candidato aún se encuentra en la posición y no sabe cuándo terminará. Habría que considerar qué hacer con los años de experiencia.|Neutral|NO|
+|_Top Repositories_|El apartado de Top Repositories no aclara mucho si, por ejemplo, todos los repos que aparecen tienen 0 estrellas y 0 forks. Podría haber alguna manera de ordenarlos y ver en qué se prioriza.|Baja|NO|
 
 - Decisiones y soluciones:
 
 Para solucionar el feedback, dado el poco tiempo restante, se esperará a la siguiente semana.
+
 
 
 
