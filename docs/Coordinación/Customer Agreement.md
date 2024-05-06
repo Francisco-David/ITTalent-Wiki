@@ -58,7 +58,7 @@ Una vez terminado este Acuerdo, el derecho del Usuario a utilizar el Servicio ce
 # <a name="_wj2b1byxl6m1"></a>2. Precios y Servicios
 
 ## <a name="_w8hc7g8g1tm3"></a>**2.1 Precios**
-<a name="_x7qr7qob7evi1"></a>La información sobre los precios está disponible en el siguiente [link](https://it-talent-wiki.vercel.app/docs/Marketing/Pricing). Si una vez registrado desea cambiarlo, puede acceder a la oferta de los diferentes planes en el apartado "Subscriptions" de la barra lateral.
+<a name="_x7qr7qob7evi1"></a>La información sobre los precios está disponible en el siguiente link: <https://it-talent-wiki.vercel.app/docs/Marketing/Pricing>. Si una vez registrado desea cambiarlo, puede acceder a la oferta de los diferentes planes en el apartado "Subscriptions" de la barra lateral.
 
 
 ## <a name="_w8hc7g8g1tm2"></a>**2.2.1 Servicios para Empresas**
