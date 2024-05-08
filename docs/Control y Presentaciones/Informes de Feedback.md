@@ -131,6 +131,14 @@ ZARZUELA REINA, CARLOS
 
 [Tareas - ¿Qué no puede faltar?	](#_xw8pcxlaup9y25)
 
+[10. Semana 12 (07/05)	](#_3n6nqs3ox56d26)
+
+[Cosas a tener en cuenta	](#_4ki1iznv6aw626)
+
+[Consideraciones para IT TALENT	](#_es35wsm2my6q26)
+
+[Tareas - ¿Qué no puede faltar?	](#_xw8pcxlaup9y26)
+
 
 
 
@@ -1037,6 +1045,106 @@ HABRÁ 2 PRESENTACIONES distintas:
 - WPL: 
    - En el salón de actos 21 de mayo. Desde las 12:30  a 14:30
    - Se podrá ensayar el Lunes de 13:30 a 16:30. Preparar temas como el cañón, audio…
+
+
+- **10 minutos para el WPL:**
+
+1. ¿De qué va el proyecto?
+   1. Killer opener
+   1. Elevator pitch
+   1. Video usuario/cliente
+1. ¿Cómo funciona? - DEMO
+1. ¿Hay competencia?
+   1. Análisis de competidores
+   1. ¿Qué nos diferencia?
+1. ¿Quién hay detrás? - Equipo
+1. ¿Es rentable?
+   1. Planes de precio
+   1. Resumen de plan de negocio, costes...
+   1. Oportunidades de inversión, ROI
+   1. Anuncio de inversores:
+      1. ¿Qué podemos ofrecer?
+      1. ¿De qué va el proyecto?
+      1. Opciones de inversión – “Si invertes X en tanto tiempo conseguirás Y”
+1. Landing page, contacto…
+
+
+- **5 minutos para la campaña de lanzamiento:**
+
+1. Segmentación del mercado - ¿A quién va dirigido? (modelo de segmentación) (2 perfiles como mínimo)
+1. Algún tipo de optimización SEO – Buscadores, palabras claves…
+1. Campaña de lanzamiento previo al WPL – Promociones, acciones de impulso para tracción inicial (orientado al cliente más que al usuario)
+1. Acciones de marketing
+1. Community Management:
+   1. Objetivos (Píldora teórica)
+   1. Planning (Publicaciones en las RRSS)
+   1. Responsables (De las RRSS)
+   1. Número de impresiones que tenemos como objetivo
+1. Coste de marketing – Desglosado
+1. Si hay algún anuncio que queramos poner que no saliera en la primera se pone para comentarlo
+1. Uso de las IAs
+
+# <a name="_3n6nqs3ox56d26"></a> Semana 12 (07/05)
+## <a name="_4ki1iznv6aw626"></a>**Cosas a tener en cuenta**
+
+1. No incluir competidores que no supongan competición en el análisis.
+1. El número de usuarios concurrentes debe ir justificado con la campaña de marketing o con datos del mercado.
+1. Las transiciones deben quedar naturales, respondiendo a las preguntas que nos han dado los profesores ¿De qué va el proyecto? ¿Quién hay detrás? ¿Quién más hay en el mercado? E ir pasando por los diferentes puntos de esta manera.
+1. No entrar a detalle en la estructura del equipo, solo enseñarla.
+1. Siempre tiene que haber algo de Marketing en la presentación del WPL.
+1. Debería verse el número de horas con la que se está contando que trabajará el equipo de desarrollo.
+1. Evitar transiciones entre diapositivas como “ahora vamos a ver el anuncio de, ahora vamos a ver la grafica de” debe ser más natural y fluido. Cambiarlo por frases como “¿Cómo sacaremos dinero de todo esto?”
+1. Eliminar funciones tipo CRUD de la DEMO como funciones de Editar o Eliminar.
+1. Nombrar los roles de GDPR, GM… en el WPL sobra, con diferenciar al CEO es suficiente. Solo es necesario dejar claro que somos un grupo “SÓLIDO”.
+1. Evitar demasiado detalle en los costes o en los planes de precios, no pasarse con el desglose.
+1. No se debería invertir demasiado tiempo en diapositivas de costes o demasiado complejas, con demasiadas cifras, que no se puedan digerir. Incluir QRs con “más detalle en este link”.
+1. El anuncio de inversores debe estar desasociado del resto de anuncios. Hablar de las ventajas competitivas con el resto de aplicaciones, ROI, Cuánto pedimos Y cuanto van a conseguir a cambio. El resto sobra.
+1. Eliminar cualquier vocabulario técnico de la presentación, diapositiva o verbal. Sólo debería incluirse un vocabulario que entienda un alumno de inicio de carrera.
+1. Tratar de no cerrar abruptamente las presentaciones, se debe llegar de manera más sosegada.
+
+
+## <a name="_es35wsm2my6q26"></a>**Consideraciones para IT TALENT**
+
+- Buen inicio efectivo.
+- Somo un buen ejemplo de cómo se pasa de un tema a otro, enlazando el hilo argumental con un buen ritmo.
+- Para el killer opener, El tono de voz de Fernando tiene que ser más elevado. Imprimir varios currículos y preguntar quién tiene uno de IT.
+- El anuncio no se puede considerar como tal, es demasiado largo:
+   - El tema oscuro con música triste no casan nada bien. Transmite algo contradictorio, da una sensación de desolación con el negro + música triste mientras se usa la aplicación hace que parezca que ITTALENT da desidia. La música triste debe ser al principio, una vez se usa la aplicación se debe cambiar a un motivo alegre, de esperanza.
+   - Cuidar que Javi dice Plan Pro y se clica en el Advance.
+   - La historia parece dirigida a una sola persona que busca trabajo o no queda lo suficientemente claro que existen ambas.
+
+- A lo largo del resto de la aplicación se debe seguir reforzando la formación de equipos y las ventajas que esto da con respecto a otras aplicaciones disponibles en el mercado. Si no se enseñan las ventajas o lo rompedor que es de forma natural, incluir una diapositiva que indique las razones por la que lo es.
+- Revisar los términos ISPP ONLY como “TCO”, cambiar términos aunque se desglosen las siglas.
+- El anuncio de inversores está en muy buena dirección. Eliminar la parte en la que se habla de “Los beneficios a X meses”. El audio dice que se ganan 15K y en el video pone que se ganan 43K (sin hacer la resta) es algo contradictorio.
+- Eliminar la keyword “Team Building”, es otra cosa, no tiene que ver con nuestra aplicación.
+- Los datos de impresiones deben estar en el WPL actualizados, quedan muy bien.
+
+
+## <a name="_xw8pcxlaup9y26"></a>**Tareas - ¿Qué no puede faltar?**
+
+- La semana que viene es de retrospectiva: Presentación rápida destacando contribuciones de cada miembro poniendo los commits a GitHub, las horas de clockify... debe ser ágil para que de tiempo a todos. 15 mins.
+
+
+- WPL: 
+   - En el salón de actos Martes 21 de mayo de las 12:30 a 14:30
+   - Se podrá ensayar el Lunes 20 de mayo de 13:30 a 16:30. Preparar temas como el cañón, audio…
+
+
+- La rúbrica para la evalución del WPL se compartirá por EV, y contendrá algo como:
+
+
+**CALIDA AUDIOVISUAL**: Calidad de audio, sonido, video...
+
+**DELIVERY**: Cómo se hace la presentación, dirección, energía, ritmo, queda claro los mensajes que se han querido destacar sobre el resto de la información...
+
+**PROBLEMA**: queda claro como arreglamos el problema con nuestro proyecto
+
+**TARGET**: queda claro el publico objetivo...
+
+**MODELO DE NEGOCIO**: queda clara la ventaja con la competición...
+
+
+Luego a parte se evaluará el **Software** desarrollado.
 
 
 - **10 minutos para el WPL:**
