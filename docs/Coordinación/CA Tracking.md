@@ -70,6 +70,11 @@ Sin cambios
 ## Semana 5
 
 - Nadie ha incumplido ninguna cláusula la semana 4
+
+Sin cambios
+
+## Semana 6
+
 - Nadie ha incumplido ninguna cláusula la semana 5
 
 Sin cambios
