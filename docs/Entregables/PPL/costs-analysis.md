@@ -119,7 +119,7 @@ Para cada análisis la aplicación realiza dos consultas. Sumando las solicitude
 
 Total = 23 solicitudes.
 
-Aplicando la fórmula que se proporciona en la documentación de GitHub (dividiendo entre 100 y redondeando) nos da un total de 1 punto (23/100). Sumando las solicitudes que se tienen que realizar para la segunda:
+Aplicando la fórmula que se proporciona en la [documentación de GitHub](https://docs.github.com/en/graphql/overview/rate-limits-and-node-limits-for-the-graphql-api) (dividiendo entre 100 y redondeando) nos da un total de 1 punto (23/100). Sumando las solicitudes que se tienen que realizar para la segunda:
 
 - Detalles básicos del usuario = 1
 - 100 últimas Pull Requests = 1
