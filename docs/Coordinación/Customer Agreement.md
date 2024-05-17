@@ -3,6 +3,43 @@
   <img src="/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
 </div>
 
+## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
+
+BERMEJO SORIA, CARLOS
+
+CASAL FERRERO, RUBÉN
+
+DOMÍNGUEZ RUIZ. ANDRÉS
+
+DOMÍNGUEZ-ADAME RUIZ. ALBERTO
+
+FERNÁNDEZ CASTILLO, JAVIER
+
+GALLARDO MARTOS, DANIEL
+
+HERRERA RAMIREZ, ISMAEL
+
+IZQUIERDO LAVADO, MARIO
+
+MATEOS GÓMEZ, FERNANDO JOSÉ
+
+MERINO PALMA, ALEJANDRO JOSÉ
+
+MONTERO MARTÍNEZ, FRANCISCO JESÚS
+
+LÓPEZ MOYANO, ROCÍO
+
+OTERO BARBASÁN, MANUEL
+
+VILAPLANA DE TRÍAS, FRANCISCO DAVID
+
+ZARZUELA REINA, CARLOS
+
+<a name="_pg8quxt9d0oa"></a> Sevilla, Mayo 2024
+
+### Entregable: WPL
+
+### Grupo 01 (Mañana) - IT Talent
 # <a name="_x0ol9ac5ou8t"></a><a name="_3w47vc6c8s4m"></a>1. Términos de Servicio
 ## <a name="_flri5wcx5wy2"></a>**1.1 Uso Aceptable**
 <a name="_8omdied3e5v9"></a>El uso de los servicios proporcionados por IT Talent está sujeto a las siguientes condiciones de uso aceptable:
