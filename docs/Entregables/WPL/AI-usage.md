@@ -34,10 +34,13 @@ OTERO BARBASÁN, MANUEL
 VILAPLANA DE TRÍAS, FRANCISCO DAVID
 
 ZARZUELA REINA, CARLOS
-### <a name="_pg8quxt9d0oa"></a>**Sevilla, Mayo 2024**
-### Entregable: PPL
+
+<a name="_pg8quxt9d0oa"></a> Sevilla, Mayo 2024
+
+### Entregable: WPL
+
 ### Grupo 01 (Mañana) - IT Talent
-# <a name="_1c0z70cedazh"></a>
+
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
 <a name="_30j0zll"></a>Guía de prompts e informe del uso de IAs como ChatGPT y Copilot durante el desarrollo del proyecto.
@@ -130,7 +133,7 @@ En el desarrollo del proyecto se hará uso de IAs, por ello hemos decidido reali
 ## <a name="_eni8px1b7nvu"></a>**Referencias**
 
 
-|**Documento**|**Autor**|**Prompt**|
+|**Documento**|**Autor**|**Enlace**|
 | - | - | - |
 |**Commitment Agreement**|**Paco**|**https://chat.openai.com/share/a8f87608-1c10-4305-8929-883e84de7fda**|
 |**Guía de Presentación Estructurada**|**Mario**|[**https://chat.openai.com/share/7dda685c-befb-4149-8046-3b243acab974**](https://chat.openai.com/share/7dda685c-befb-4149-8046-3b243acab974)|
@@ -140,6 +143,10 @@ En el desarrollo del proyecto se hará uso de IAs, por ello hemos decidido reali
 |**Record para identificar lenguajes de programación**|**Rubén**|[**https://chat.openai.com/share/eaf9b58a-6f13-444c-a590-75ee2d2498a1**](https://chat.openai.com/share/eaf9b58a-6f13-444c-a590-75ee2d2498a1) |
 |**Set para identificar tecnologías**|**Rubén**|[**https://chat.openai.com/share/c6ccd1d6-14e6-4783-b076-4c8492cf06e9**](https://chat.openai.com/share/c6ccd1d6-14e6-4783-b076-4c8492cf06e9) |
 |**Posibles preguntas frecuentes**|**Ismael**|[**https://chat.openai.com/share/b564b847-6591-4cb1-94b6-23ee45338cfd**](https://chat.openai.com/share/b564b847-6591-4cb1-94b6-23ee45338cfd) |
+|**Campañas de marketing**|**Fran**|[**https://mubert.com/render**](https://mubert.com/render) |
+|**Campañas de marketing**|**Fran**|[**https://multimedia.easeus.com/es/vocal-remover/**](https://multimedia.easeus.com/es/vocal-remover/) |
+|**Campañas de marketing**|**Fran**|[**https://reccloud.com/es/**](https://reccloud.com/es/) |
+
 
 # <a name="_lxvzil9v1vrk"></a>3. Prompts
 *Usar **ctrl+shift+v** para pegar sin formato*
