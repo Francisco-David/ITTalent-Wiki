@@ -35,9 +35,9 @@ VILAPLANA DE TRÍAS, FRANCISCO DAVID
 
 ZARZUELA REINA, CARLOS
 
-<a name="_pg8quxt9d0oa"></a> Sevilla, Enero 2024
+<a name="_pg8quxt9d0oa"></a> Sevilla, Mayo 2024
 
-### Entregable: PPL
+### Entregable: WPL
 
 ### Grupo 01 (Mañana) - IT Talent
 
@@ -48,10 +48,6 @@ ZARZUELA REINA, CARLOS
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
 <a name="_30j0zll"></a>En este documento se redactará sobre las diferentes campañas de marketing que se van a realizar de cara al WPL del proyecto de IT Talent detallando los procedimientos de cada uno.
-
-
-
-
 
 # <a name="_e68x9493qzfo"></a><a name="_i5qr52v7pxmz"></a><a name="_syky7tsi5dl6"></a><a name="_6wznnz805gos"></a><a name="_ew6n2p90f57y"></a><a name="_6y221q6jcpmw"></a><a name="_9j8c07fxd5sy"></a>Índice
 
@@ -70,10 +66,6 @@ ZARZUELA REINA, CARLOS
 [**4. Métodos de búsqueda de competidores	8**](#_5weno87a2pl)
 
 [**5. Bibliografía	11**](#_h4vkhy77fne7)
-
-
-
-
 
 
 
