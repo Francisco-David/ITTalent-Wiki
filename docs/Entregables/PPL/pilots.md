@@ -8,7 +8,7 @@
 BERMEJO SORIA, CARLOS         - Creación
 
 
-### Entregable: S3
+### Entregable: PPL
 ### Grupo 01 (Mañana) - IT Talent
 
 
@@ -24,6 +24,7 @@ BERMEJO SORIA, CARLOS         - Creación
 |v.2.0|30/03/2024|Carlos Bermejo Soria|Añadir *feedback* recibido|
 |v.2.1|20/04/2024|Carlos Bermejo Soria|Actualización para tercer Sprint|
 |v.2.2|02/05/2024|Carlos Bermejo Soria|Actualización para PPL|
+|v.2.3|05/05/2024|Carlos Bermejo Soria|Añadir *feedback* recibido|
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
 Este documento se completará progresivamente con la **actividad** y la **comunicación** con los usuarios piloto, ya sean aquellos correspondientes a empresas y terceros o a los usuarios piloto del grupo 7 de la facultad. Además, se pretende establecer un **plan de acción** para llevar a cabo a lo largo del desarrollo.
@@ -126,8 +127,10 @@ La actividad con respecto a los usuarios piloto de empresas quedará registrada 
 |15/03/2024|GFT|Se recibe **una respuesta** de una potencial usuaria piloto. Sin embargo, no parece confirmar nada.|
 |20/04/2024|Novomas|Se envían los **manuales** a Novomás.|
 |21/04/2024|Novomas|**Recibimos** feedback de Novomás.|
-|21/04/2024|Novomas|**Recibimos** feedback de Novomás.|
-|24/04/2024|Novomas|Carlos Zarzuela Reina contacta con nuevas empresa y potenciales usuarios piloto, empezando con IR Soluciones.|
+|24/04/2024|IR Soluciones|Carlos Zarzuela Reina **contacta** con nuevas empresa y potenciales usuarios piloto, empezando con IR Soluciones.|
+|30/04/2024|ITCON Iberia|Javier Fernández Castillo **contacta** con ITCON Iberia y consigue que acepten ser usuarios piloto.|
+|03/05/2024|ITCON Iberia|**Recibimos** feedback de ITCON Iberia|
+|04/05/2024|IR Soluciones|Aún no se recibe respuesta de la empresa pero se notifica que el despliegue de una nueva versión ha sido realizada.|
 ||||
 ||||
 
@@ -171,7 +174,9 @@ La actividad con respecto a los usuarios piloto de candidatos quedará registrad
 |20/04/2024|Grupo 7|**Recibimos** feedback de los usuarios piloto y seguimos a la espera de recibir los manuales y formularios.|
 |24/04/2024|Grupo 7|**Recibimos** el manual y los enlaces de despliegue del S3 con cierto retrasopara empezar a probar la aplicación hasta el lunes.|
 |26/04/2024|Grupo 7|**Empezamos a hacer de usuarios piloto** con Javier Fernández Castillo, Carlos Bermejo Soria y Mario Izquierdo Lavado como voluntarios.|
-|29/04/2024|Grupo 7|**Terminamos** de entregar el feedback del S3 para el grupo 7 y comentamos la posibilidad de trabajar con ellos durante el PPL ampliando la cantidad de usuarios piloto.|
+|29/04/2024|Representante grupo 7|**Terminamos** de entregar el feedback del S3 para el grupo 7 y comentamos la posibilidad de trabajar con ellos durante el PPL ampliando la cantidad de usuarios piloto.|
+|04/05/2024|Representante grupo 7|Finalizamos el **despliegue** para el PPL y avisamos al representante del grupo 7 para que se lo comunique a los potenciales usuarios piloto.|
+|04/05/2024|Grupo 7|*Recibimos* feedback de los usuarios piloto|
 ||||
 ||||
 
@@ -215,13 +220,25 @@ El plan no ha de ser seguido estrictamente tal y como fue definido en primera in
 |24|Tratamiento del *feedback* recibido (3)|01/04 - 01/04|Equipo de control y presentación|DONE|
 |**SPRINT 3** (02/04)|||||
 |25|Creación de tareas para aplicar el *feedback* recibido|02/04 - 03/04|Coordinación|DONE|
-|29|Búsqueda de nuevas fuentes de usuarios.|02/04 - 15/04|Carlos Bermejo Soria|FAIL|
-|30|**Pruebas de IT Talent D3**|18/04 - 22/04|Usuarios Piloto grupo 7|DONE|
-|31|**Pruebas de IT Talent D3 de empresas**|18/04 - 22/04|Usuarios Piloto grupo 7|DONE|
-|32|Análisis del *feedback* recibido (4)|21/04 - 22/04|Equipo de control y presentación|DONE|
-|33|Tratamiento del *feedback* recibido (4)|21/04 - 22/04|Equipo de control y presentación|DONE|
-|34|Creación de tareas para aplicar el *feedback* recibido (2)|18/04 - 22/04|Coordinación|DONE|
-|35|Recopilación final de *feedback* y aplicaciones|21/04 - 22/04|Equipo de control y presentación|DONE|
+|26|Búsqueda de nuevas fuentes de usuarios.|02/04 - 15/04|Carlos Bermejo Soria|FAIL|
+|27|Creación Manual de Usuario de candidatos y representantes (3)|02/04 - 18/04|Carlos Bermejo Soria|DONE|
+|28|**Pruebas de IT Talent D3**|18/04 - 22/04|Usuarios Piloto grupo 7|DONE|
+|29|**Pruebas de IT Talent D3 de empresas**|18/04 - 22/04|Empresas|DONE|
+|30|Análisis del *feedback* recibido (4)|21/04 - 22/04|Equipo de control y presentación|DONE|
+|31|Tratamiento del *feedback* recibido (4)|21/04 - 22/04|Equipo de control y presentación|DONE|
+|32|Creación de tareas para aplicar el *feedback* recibido (2)|18/04 - 22/04|Coordinación|DONE|
+|33|Recopilación final de *feedback* y aplicaciones|21/04 - 22/04|Equipo de control y presentación|DONE|
+|**PPL** (23/04)|||||
+|34|Mejora Commitment Agreement de Usuarios Piloto|24/04 - 25/04|Carlos Bermejo Soria|DONE|
+|35|Creación de tareas para aplicar el *feedback* recibido|24/04 - 25/04|Coordinación|DONE|
+|36|Búsqueda de nuevas fuentes de usuarios representantes.|24/04 - 30/04|Carlos Zarzuela Reina|DONE|
+|37|Búsqueda de nuevas fuentes de usuarios candidatos.|24/04 - 30/04|Javier Fernández Castillo|DONE|
+|38|Creación Manual de Usuario de candidatos y representantes (4)|24/04 - 04/05|Carlos Bermejo Soria|DONE|
+|39|**Pruebas de IT Talent D3.1**|04/05 - 06/05|Usuarios Piloto grupo 7|DONE|
+|40|**Pruebas de IT Talent D3.1 de empresas**|04/05 - 06/05|Empresas|DONE|
+|41|Análisis del *feedback* recibido (5)|04/05 - 06/05|Equipo de control y presentación|DONE|
+|42|Tratamiento del *feedback* recibido (5)|04/05 - 06/05|Equipo de control y presentación|DONE|
+
 
 
 
@@ -241,6 +258,8 @@ Los usuarios representantes pilotos potenciales con los que contamos son:
 | :- | :- |
 |Novomas|motero@novomas.es|
 |*GFT Technologies*|*Marta.Lopez@gft.com*|
+|ITCON Iberia|-|
+|IR Soluciones|-|
 
 
 También contamos con los posibles siguiente usuarios pilotos representantes:
@@ -331,13 +350,14 @@ Valoraciones
 
 
 
-|Empresa|Prueba 1|Prueba 2|Prueba 3|||
+|Empresa|Prueba 1|Prueba 2|Prueba 3|Prueba 4|Prueba 5|
 | :- | :- | :- | :- | :- | :- |
-|NOVAMAS|-|-|Por determinar|||
-|GFT|Valoración informal|-|-|||
-|FUJITSU|-|-|-|||
-|AYESA|-|-|-|||
-|IR SOLUCIONES|-|-|-|||
+|NOVOMAS|-|-|5|Por determinar||
+|GFT|Valoración informal|-|-|-||
+|FUJITSU|-|-|-|-||
+|AYESA|-|-|-|-||
+|IR SOLUCIONES|-|-|-|Por determinar||
+|ITCON IBERIA|-|-|-|10||
 
 
 ### <a name="_qbccg627y82l"></a>4.1.3 Canales de comunicación
@@ -425,9 +445,9 @@ Los usuarios piloto con los que contamos en este momento son el **grupo 7 del tu
 
 
 
-|Empresa|Prueba 1|Prueba 2|Prueba 3|||
+|Empresa|Prueba 1|Prueba 2|Prueba 3|Prueba 4|Prueba 5|
 | :- | :- | :- | :- | :- | :- |
-|Grupo 7 ISPP|4|6|7|||
+|Grupo 7 ISPP|4|6|7|Por determinar||
 
 ### <a name="_3cbpmnz6b25"></a>4.2.5 Canales de comunicación
 
@@ -515,7 +535,7 @@ No existe actualmente feedback por parte de representantes de la segunda demo.
 |**Valoración Working Experience**|7/10|
 |**Valoración notificaciones**|5/10|
 |**Valoración "Trends"**|7/10|
-|**Fallos**|Muchos de estos problemas están relacionados con capturas de pantalla que os enviaré por otros medios. - El modal de aceptar los términos de licencia no aparece en medio de la pantalla, sino abajo. Además es algo difícil de leer ya que hay poco contraste. - Hay tremendo leak de usuarios, hasta el punto que te da los datos de su subscripcion id, y la puedes robar con un PATCH a tu usuario, consiguiendo status premium sin tener que pagar. - Cuando copias el link de una imagen de internet, te viene sin el .png o .jpg. Al pegarlo en el formulario de editar usuario te dice que el problema es que tiene que empezar con http:// o https://, lo cual ya hace. Por tanto hay que ir completando a mano lo del .png (solo lo sabrias si tienes el manual del usuario candidato), y ademas por cada caracter que pones te salta el error, lo que lo hace un poco pesado. - El usuario "Representative" proporcionado en el manual del usuario candidato no es valido. Es decir, no me puedo loggear con las credenciales provistas, y por tanto no he podido probar la parte de las notificaciones. - Las gráficas de repositorios más forkeados no se si están rotas o no, pero son casi ilegibles, no entiendo la información que representa. El resto de errores estan relacionados con la responsiveness de la aplicacion. He visto que esta muy mejorada, por lo que como interpreto que lo habeis tomado en cuenta os indico donde se puede mejorar un poco: - La tabla de repositorios populares esta rota en movil - El titulo de la pantalla de notificaciones se sale del container - El register está bien adaptado a móviles, pero no el login. El input se vuelve enano.|
+|**Fallos**|Muchos de estos problemas están relacionados con capturas de pantalla que os enviaré por otros medios. - El modal de aceptar los términos de licencia no aparece en medio de la pantalla, sino abajo. Además es algo difícil de leer ya que hay poco contraste. - Hay tremendo leak de usuarios, hasta el punto que te da los datos de su subscripcion id, y la puedes robar con un PATCH a tu usuario, consiguiendo status premium sin tener que pagar. - Cuando copias el link de una imagen de internet, te viene sin el .png o .jpg. Al pegarlo en el formulario de editar usuario te dice que el problema es que tiene que empezar con http:// o https://, lo cual ya hace. Por tanto hay que irtr completando a mano lo del .png (solo lo sabrias si tienes el manual del usuario candidato), y ademas por cada caracter que pones te salta el error, lo que lo hace un poco pesado. - El usuario "Representative" proporcionado en el manual del usuario candidato no es valido. Es decir, no me puedo loggear con las credenciales provistas, y por tanto no he podido probar la parte de las notificaciones. - Las gráficas de repositorios más forkeados no se si están rotas o no, pero son casi ilegibles, no entiendo la información que representa. El resto de errores estan relacionados con la responsiveness de la aplicacion. He visto que esta muy mejorada, por lo que como interpreto que lo habeis tomado en cuenta os indico donde se puede mejorar un poco: - La tabla de repositorios populares esta rota en movil - El titulo de la pantalla de notificaciones se sale del container - El register está bien adaptado a móviles, pero no el login. El input se vuelve enano.|
 |**Sugerencias**|Muchas de estas sugerencias están relacionados con capturas de pantalla que os enviaré por otros medios. - Estaría bien que te permitiera poner tu trabajo actual y no solo trabajos pasados, lo que no es posible actualmente pq te pide una fecha de fin obligatoriamente. - Estaría bien que para probar la aplicación la base de datos estuviera algo más populada. La parte de las trends se queda un poco vacía. La ultima es una sugerencia personal: - Por favor arreglad el sidebar, el highlight sigue super descentrado con respecto al elemento seleccionado, y me raya que no se cierre cuando hago click fuera, como si fuera un modal. Mas que nada pq este tipo de sidebars que se ponen encima de la app y no desplazan el contenido siempre funcionan, en ese aspecto, como un modal.|
 |**Otros comentarios**|Muy buen trabajo con respecto al Sprint anterior, se nota el crunch!!|
 |**Valoración formulario**|5/5|
@@ -541,3 +561,129 @@ No existe actualmente feedback por parte de representantes de la segunda demo.
 |**Sugerencias**|no lo habéis estructurado adecuadamente|
 |**Otros comentarios**|os falta depurarlo|
 |**Valoración formulario**|3/5|
+
+- Análisis del feedback:
+ 
+|Error|Detalles|Prioridad|FC|
+| :- | :- | :- | :- |
+|Visualización del modal|El modal de aceptar los términos de licencia no aparece en medio de la pantalla, sino abajo. Además es algo difícil de leer ya que hay poco contraste.|Muy baja|NO|
+|Leak de usuarios|Hay "leak" de usuarios, hasta el punto que te da los datos de su _subscriptionId_, y la puedes robar con un PATCH a tu usuario, consiguiendo status premium sin tener que pagar.|Neutral|NO|
+|Foto de perfil|Cuando copias el link de una imagen de internet, te viene sin el .png o .jpg. Al pegarlo en el formulario de editar usuario te dice que el problema es que tiene que empezar con http:// o https://, lo cual ya hace. Por tanto, hay que ir completando a mano lo del .png (solo lo sabrías si tienes el manual del usuario candidato), y ademas por cada caracter que pones te salta el error, lo que lo hace un poco pesado.|Neutral|NO|
+|Errores de _responsiveness_|Hay diversos errores de _responsiveness_ en diversas secciones de la aplicación.|Alta|NO|
+|La sección de análisis es poco "friendly"|El usuario piloto asegura que la información que aparece en el análisis de Github es complicada de entender.|Muy baja|NO|
+|Acceso a _Trends_|Se puede acceder a las estadísticas sin tener el plan adeacuado.|Alta|NO|
+
+La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta prioridad se correspondería con la etiqueta que se le asignaría a la tarea de enmendación de errores que podría generarse en el tablero del proyecto, en caso de que se considerase oportuno. Por otra parte, "FC" representa si el error es una _Software Failure Condition_ o no.
+
+- Decisiones y soluciones:
+
+|Issue|Acción|Detalles|Estado|
+| :- | :- | :- | :- |
+|[#403](https://github.com/JaviFdez7/ISPP-G1-Talent/issues/403)|Resolver error foto de perfil|Resolver problema de actualizacion de foto descrito en el feedback.|DONE|
+|[#430](https://github.com/JaviFdez7/ISPP-G1-Talent/issues/430)|Mejorar foto de perfil|Cargar foto de perfil desde local.|TO DO|
+|[#434](https://github.com/JaviFdez7/ISPP-G1-Talent/issues/434)|Acceso a _Trends_|Que los trends sean accesibles solo por el plan de suscripcion adecuado.|DONE|
+
+## <a name="_4vr4b9yuuwpy"></a>**5.4 Demo 3.1**
+- Feedback de candidatos:
+
+
+
+|**Nombre**|Antonio Rodríguez Ruiz|
+| :- | :- |
+|**Fecha**|2024-05-05|
+|**Clockify**|<https://app.clockify.me/shared/6637436d963af9639f1407b6>|
+|**Valoración general**|8/10|
+|**Valoración perfil**|8/10|
+|**¿Es cómoda la actualización del perfil?**|En general muy bien. Me entristece que no se pueda usar en movil ya que ha dejado de ser responsive pero en términos generales es mucho más útil y bonita, aunque si la pantalla es menor a 1080p empezamos a tener problemas de superposiscion de elementos. Buen trabajo|
+|**¿Se entienden los planes de suscripción? ¿Pagaría por ellos?**|Se entienden bien. Si embargo yo, personalmente, no pagaria por ello ya que hay estadísticas públicas anualmente sobre el tipo de informacion presente en "trends". Y las empresas las puedo ver y contactar a través de LinkedIn|
+|**¿Cree que la sección de pago para el cambio de plan es intuitiva?**|Lo es, pero el código postal en España es distinto a otros paises, dejarlo como un numero de 5 digitos no es la mejor opción. Por ejemplo en UK son 6 letras|
+|**Valoración login/register/logout**|9/10|
+|**Valoración Developer Info**|9/10|
+|**¿Cree que los campos de Developer Info son adecuados?**|Sí, son interesantes|
+|**Valoración Working Experience**|5/10|
+|**Valoración notificaciones**|5/10|
+|**Valoración "Trends"**|7/10|
+|**Fallos**|Errores GRAVES: - Al entrar por primera vez no me aparecian los botones de Register y Login. Se cree que puede ser debido a que tenia un token antiguo en el localStorage - Las notigicaciones solo tienen boton "Dismiss" - Mientras compraba el plan Pro se me ha acabado la sesion por alguna razon. Ha sido una sesion de unos 10 minutos. Otros errores: - Si se pulsa el boton update developer info sin cambiar el token de github tambien se gastan las veces que se puede hacer. - Sigo sin poder crear mi trabajo actual como experiencia. - Se sigue pudiendo robar una subscriptionId a otro usuario mandando una request manual de PATCH. - El input de has olvidado la contraseña no tiene estilos - Actualizando el usuario si pongo el link de una imagen sin el .png se carga bien, pero cuando le doy a guardar me dice que es invalida.|
+|**Sugerencias**|	- Arreglar estilos del sidebar, lleva roto desde el Sprint 1 - Permitir introducir mi trabajo actual - Crear un link que te lleve a crear un token de github con los campos necesarios pre-seleccionados. Parecido a como hacen IDEs como IntelliJ|
+|**Otros comentarios**||
+|**Valoración formulario**|5/5|
+
+|**Nombre**|-|
+| :- | :- |
+|**Fecha**|2024-05-03|
+|**Clockify**|-|
+|**Valoración general**|10/10|
+|**Valoración perfil**|9/10|
+|**¿Es cómoda la actualización del perfil?**|Sí, lo es|
+|**¿Se entienden los planes de suscripción? ¿Pagaría por ellos?**|Se entienden correctamente y probablemente merezcan la pena con un uso más intensivo de la aplicación|
+|**¿Cree que la sección de pago para el cambio de plan es intuitiva?**|Sí, lo es|
+|**Valoración login/register/logout**|10/10|
+|**Valoración Developer Info**|10/10|
+|**¿Cree que los campos de Developer Info son adecuados?**|Sí, son interesantes|
+|**Valoración Working Experience**|8/10|
+|**Valoración notificaciones**|10/10|
+|**Valoración "Trends"**|10/10|
+|**Fallos**|- El token de sesión suele caducar muy rápido, ocurre en algunos momentos puntuales mientras se usa la app - Al volver atrás, acabas en la pantalla principal con un mensaje "Welcome (nombre del usuario)" y pese a que se puede acceder desde la pestaña de la izquierda, debería de haber un acceso rápido desde la propia pantalla de bienvenida|
+|**Sugerencias**|- En la experiencia de trabajo dejaría que la fecha de End fuese indefinida (por si el candidato se encuentra aún en ella) - Agregaría en la sección de experiencia de trabajo un apartado de tecnologías usadas - El apartado de Top Repositories no aclara mucho si, por ejemplo, todos los repos que aparecen tienen 0 estrellas y forks 0. Podría haber alguna manera de ordenarlos o ver en qué se prioriza|
+|**Otros comentarios**|Muy buen trabajo del equipo, me ha sorprendido y tiene mucho potencial|
+|**Valoración formulario**|5/5|
+
+- Feedback representantes:
+
+|**Nombre empresa**|ITCON Iberia|
+| :- | :- |
+|**Fecha**|2024-05-03|
+|**Valoración general**|10/10|
+|**Valoración perfil**|9/10|
+|**¿Es cómoda la actualización del perfil?**|Sí, lo es|
+|**¿Se entienden los planes de suscripción?**|Según si se da un uso intensivo podría resultar interesante, al menos con el plan BASIC. El Pro quizás puede resultar interesante con un mayor volumen de uso|
+|**¿Cree que la sección de pago para el cambio de plan es intuitiva?**|	Sí, lo es|
+|**Valoración login/register/logout**|10/10|
+|**Valoración del análisis**|10/10|
+|**¿Qué cambios le haría a la sección de análisis?**|Permitiría que se pudiese acceder al contenido de los repositorios mostrados en el perfil encontrado en el análisis|
+|**Valoración historial de análisis**|9/10|
+|**Valoración búsqueda de equipos**|9/10|
+|**¿Qué cambios haría a la búsqueda de equipos?**|Poder buscar por un sólo candidato o dejar un sólo formulario de búsqueda y que se filtre el listado a raíz de ahí|
+|**Valoración historial de búsqueda**|9/10|
+|**Fallos**|- El token de sesión a veces caduca muy rápido, ocurre en la pantalla de Subscription|
+|**Sugerencias**|- Poder acceder de forma más intuitiva desde el perfil a tus candidatos favoritos - Búsqueda de candidatos con un sólo formulario|
+|**Otros comentarios**|Tiene mucho potencial, un gran trabajo. Interfaz muy bonita y sencilla y buena representación de datos|
+|**Valoración formulario**|-|
+
+- Análisis del feedback:
+
+
+|Error|Detalles|Prioridad|FC|
+| :- | :- | :- | :- |
+|Error en _Local Storage_|Al abrir la página con el almacenamiento local en el navegador de un usuario que no existe, se genera un error que impide al usuario realizar ninguna acción. Tiene que realizar GET Hacking o borrar el almacenamiento local del navegador para poder continuar.|Muy alta|SÍ|
+|Notificaciones|El usuario piloto asegura que las notificaciones solo tienen botón "Dismiss".|Alta|NO|
+|Fin de sesión inesperado|El usuario piloto asegura que su sesión se acabó en apenas 10 minutos y mientras realizaba un cambio de suscripción.|Neutral|NO|
+|Número de intentos|Si se pulsa el boton update developer info sin cambiar el token de github tambien se gastan las veces que se puede hacer.|Muy baja|NO|
+|Limitaciones de _Working Experience_|El usuario piloto no puede seleccionar su profesión actual como Working Experience. Se necesitan más opciones.|Baja|NO|
+|Robo de suscripciones|Se sigue pudiendo robar una _subscriptionId_ a otro usuario mandando una _request_ manual de PATCH.|Alta|NO|
+|Estilos de olvido de contraseña|El _input_ de "has olvidado la contraseña" no tiene estilos.|Muy baja|NO|
+|Validador de imagen de perfil|Actualizando el usuario, si se pone el link de una imagen sin el ".png", se carga bien, pero cuando se le da a guardar dice que es invalida.|Baja|NO|
+|Estilos del _Navbar_|La barra de navegación tiene fallos puntuales en los estilos.|Baja|NO|
+|Facilitar creación de un token de Github|Sería útil un enlace a la página de creación de token de Github para mejorar la UX.|Muy baja|NO|
+|Errores de _responsiveness_|Hay diversos errores de _responsiveness_ en diversas secciones de la aplicación. Especialmente debido a las gráficas.|Alta|NO|
+|Enlace a repositorios|El usuario piloto considera útil un enlace directo a los repositorios desde el análisis.|Muy baja|NO|
+|Búsqueda de 1 candidato|El usuario piloto considera útil la posibilidad de buscar un solo candidato en la búsqueda de equipos.|Baja|NO|
+|_Escape Hatch_ más claro|El usuario piloto no ha encontrado el acceso al _Escape Hatch_ que lleva a la página de inicio. Se puede hacer más visible.|Muy baja|NO|
+|Fecha de finalización de _Work Experience_|La fecha de finalización de las experiencias laborales debería ser indefinida por si el candidato aún se encuentra en la posición y no sabe cuándo terminará. Habría que considerar qué hacer con los años de experiencia.|Neutral|NO|
+|_Top Repositories_|El apartado de Top Repositories no aclara mucho si, por ejemplo, todos los repos que aparecen tienen 0 estrellas y 0 forks. Podría haber alguna manera de ordenarlos y ver en qué se prioriza.|Baja|NO|
+
+La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta prioridad se correspondería con la etiqueta que se le asignaría a la tarea de enmendación de errores que podría generarse en el tablero del proyecto, en caso de que se considerase oportuno. Por otra parte, "FC" representa si el error es una _Software Failure Condition_ o no.
+
+
+- Decisiones y soluciones:
+
+Para solucionar el feedback, dado el poco tiempo restante, se esperará a la siguiente semana.
+
+
+
+
+
+
+
+
+

@@ -1,4 +1,4 @@
-﻿<div style={{ display: 'flex' }}>
+<div style={{ display: 'flex' }}>
   <img src="/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
   <img src="/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
 </div>
@@ -37,7 +37,7 @@ ZARZUELA REINA, CARLOS
 
 
 
-### Entregable: S2
+### Entregable: PPL
 ### Grupo 01 (Mañana) - IT Talent
 
 
@@ -50,6 +50,7 @@ ZARZUELA REINA, CARLOS
 |v2.0|26/02/24|Paco|Cambio en el formato y adición del contenido de la 3a semana|
 |v2.1|03/03/24|Paco|Adición de contenido de la 4a semana|
 |v2.6|22/04/24|Paco|Adición de contenido de la 8a y 9a semana|
+|v2.7|05/05/24|Paco|Adición de contenido de la 10a y 11a semana|
 
 ## **Resumen del documento**
 En este documento se especifican las contribuciones a la base de conocimientos de la asignatura disponible en [este enlace](https://bgcc.vercel.app/). También se recogen las acciones que se han tomado teniendo en cuenta el feedback proporcionado de una semana a otra.
@@ -85,8 +86,6 @@ En este documento se especifican las contribuciones a la base de conocimientos d
 [Semana 10 ](#_b9ljviz0epcb5)
 
 [Semana 11 ](#_b9ljviz0epcb6)
-
-[Semana 12 ](#_b9ljviz0epcb7)
 
 # 1. Contribuciones
 Para las contribuciones se llega a un acuerdo de que cada semana será un grupo el encargado de recoger todo el feedback general de esa sesión y desplegarlo en la página <https://bgcc.vercel.app/>. Pero cada grupo tendrá como encargo semanalmente subir el feedback de su propio grupo, además de revisar el general en busca de posibles carencias en este.
@@ -287,22 +286,6 @@ Para las contribuciones se llega a un acuerdo de que cada semana será un grupo 
 1. Fernando debe alzar la voz en el Killer Opener de los CV.
 1. El audio debe ser mejorado en el anuncio (arreglar eco), aclararlo lo mas posible (o volver a grabarlo encajarlo en el video).
 1. Evitar usar términos como Capex, Opex, Matchmaking… en el WPL, ya que no son de dominio general (en la presentación habrá personas que no dominan estos términos) por lo que es mejor usar Coste Capital y Coste Operacional.
-
-- **Semana 12**
-1. Buen inicio efectivo.
-1. Somo un buen ejemplo de cómo se pasa de un tema a otro, enlazando el hilo argumental con un buen ritmo.
-1. Para el killer opener, El tono de voz de Fernando tiene que ser más elevado. Imprimir varios currículos y preguntar quién tiene uno de IT.
-1. El anuncio no se puede considerar como tal, es demasiado largo:
-   1. El tema oscuro con música triste no casan nada bien. Transmite algo contradictorio, da una sensación de desolación con el negro + música triste mientras se usa la aplicación hace que parezca que ITTALENT da desidia. La música triste debe ser al principio, una vez se usa la aplicación se debe cambiar a un motivo alegre, de esperanza.
-   1. Cuidar que Javi dice Plan Pro y se clica en el Advance.
-   1. La historia parece dirigida a una sola persona que busca trabajo o no queda lo suficientemente claro que existen ambas.
-
-1. A lo largo del resto de la aplicación se debe seguir reforzando la formación de equipos y las ventajas que esto da con respecto a otras aplicaciones disponibles en el mercado. Si no se enseñan las ventajas o lo rompedor que es de forma natural, incluir una diapositiva que indique las razones por la que lo es.
-1. Revisar los términos ISPP ONLY como “TCO”, cambiar términos aunque se desglosen las siglas.
-1. El anuncio de inversores está en muy buena dirección. Eliminar la parte en la que se habla de “Los beneficios a X meses”. El audio dice que se ganan 15K y en el video pone que se ganan 43K (sin hacer la resta) es algo contradictorio.
-1. Eliminar la keyword “Team Building”, es otra cosa, no tiene que ver con nuestra aplicación.
-1. Los datos de impresiones deben estar en el WPL actualizados, quedan muy bien.
-
 
 <a name="_tyjcwt"></a>**Feedback general**
 

@@ -37,7 +37,7 @@ ZARZUELA REINA, CARLOS
 
 <a name="_pg8quxt9d0oa"></a> Sevilla, Enero 2024
 
-### Entregable: WPL
+### Entregable: PPL
 
 ### Grupo 01 (Mañana) - IT Talent
 
@@ -46,15 +46,14 @@ ZARZUELA REINA, CARLOS
 | **Versión** | **Fecha**  | **Autor**                         | **Cambios**                                      |
 | :---------- | :--------- | :-------------------------------- | :----------------------------------------------- |
 | v1.0        | 02/02/2024 | Alberto, Alejandro, Ismael, Mario | Documento inicial                                |
-| v1.1        | 03/02/2024 | Alberto, Alejandro, Ismael, Mario | Nueva versión del documento                      |
-| v1.2        | 10/02/2024 | Francisco, Alejandro              | Nueva versión del documento                      |
-| v1.3        | 16/02/2024 | Francisco, Ismael                 | Nueva versión del documento                      |
-| v1.4        | 01/03/2024 | Francisco                         | Nueva versión del documento                      |
-| v1.5        | 17/03/2024 | Francisco                         | Nueva versión del documento                      |
-| v1.6        | 29/03/2024 | Francisco                         | Nueva versión del documento                      |
-| v1.7        | 19/04/2024 | Francisco                         | Nueva versión del documento                      |
-| v1.8        | 03/05/2024 | Francisco                         | Nueva versión del documento                      |
-| v1.9        | 17/05/2024 | Francisco                         | Versión final del documento                      |
+| v1.1        | 03/02/2024 | Alberto, Alejandro, Ismael, Mario | Finalización de la primera versión del documento |
+| v1.2        | 10/02/2024 | Francisco, Alejandro              | Finalización de la segunda versión del documento |
+| v1.3        | 16/02/2024 | Ismael, Francisco                 | Finalización de la tercera versión del documento |
+| v1.4        | 01/03/2024 | Francisco                         | Finalización de la cuarta versión del documento  |
+| v1.5        | 17/03/2024 | Francisco                         | Finalización de una nueva versión del documento  |
+| v1.6        | 29/03/2024 | Francisco                         | Finalización de una nueva versión del documento  |
+| v1.7        | 19/04/2024 | Francisco                         | Finalización de una nueva versión del documento  |
+| v1.8        | 03/05/2024 | Francisco                         | Finalización de una nueva versión del documento  |
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
 
@@ -72,7 +71,7 @@ En este informe, se llevará a cabo una evaluación detallada de los costes, jun
 
 [**Índice**](#_30j0zll)
 
-[**1. Estimación general de costes**](#_3znysh7)
+[**Estimación general de costes**](#_3znysh7)
 
 [Costes de puesta en marcha](#_t35hwt4r1rbg)
 
@@ -106,9 +105,9 @@ Según el PMBOK, un coste son todos aquellos gastos que realiza una organizació
 
 Realizaremos un análisis de costes en escenarios muy diferentes; en concreto, en escenarios optimistas, pesimistas y realistas, a corto y largo plazo. Antes de comenzar, se hace necesario hablar de algunos puntos relevantes para nuestra estimación de costes:
 
--El número de empresas con actividades relacionadas con la informática que tienen sede en Sevilla es de 1.329 y el número de personas desempleadas es de 61.435 (los números pueden haber variado ligeramente desde que se hicieron los estudios). Utilizaremos esta información para plantear diferentes escenarios.
+El número de empresas con actividades relacionadas con la informática que tienen sede en Sevilla es de 1.329 y el número de personas desempleadas es de 61.435 (los números pueden haber variado ligeramente desde que se hicieron los estudios). Utilizaremos esta información para plantear diferentes escenarios.
 
--La aplicación realizará análisis de perfiles de GitHub, por lo que es necesario analizar cuántos puntos de la API de GraphQL gastaremos en cada escenario, para decidir qué licencia de GitHub necesitaremos contratar en cada caso.
+Otro punto muy relevante es que la aplicación realizará análisis de perfiles de GitHub, por lo que es necesario analizar cuántos puntos de la API de GraphQL gastaremos en cada escenario, para decidir qué licencia de GitHub necesitaremos contratar en cada caso.
 
 Para cada análisis la aplicación realiza dos consultas. Sumando las solicitudes que se tienen que realizar para la primera:
 
@@ -132,9 +131,9 @@ En este caso, nos vuelve a dar 1 punto (102/100).
 
 El estudio realizado nos lleva a la conclusión de que cada análisis conlleva un total de 2 puntos gastados. Cualquier cuenta de GitHub, utilizando un token de autenticación, proporciona 5000 puntos por hora. Teniendo eso en cuenta, además del hecho de que los candidatos pueden modificar su perfil (y, por lo tanto, generar un análisis) una vez al mes, y si pagan el plan avanzado 3 veces, analicemos cada escenario por separado.
 
--Como gasto inicial se incluyen 1.000€ que se destinatarán a campañas de marketing enfocadas a empresarios que buscan candidatos y a candidatos que buscan empleo. Nos centraremos en LinkedIn, pues allí se encuentra nuestro público objetivo, y destinaremos un 60% a las empresas, pues suponen la fuente de ingresos más importante de la aplicación.
+Como gasto inicial se incluyen 1.000€ que se destinatarán a campañas de marketing enfocadas a empresarios que buscan candidatos y a candidatos que buscan empleo. Nos centraremos en LinkedIn, pues allí se encuentra nuestro público objetivo, y destinaremos un 60% a las empresas, pues suponen la fuente de ingresos más importante de la aplicación.
 
-Pasamos, pues, al análisis en cada escenario. En el escenario **pesimista** tendremos las siguientes condiciones iniciales:
+En el escenario **pesimista** tendremos las siguientes condiciones iniciales:
 
 Durante los 6 primeros meses, el lanzamiento del producto enfrentará desafíos, resultando en ingresos mínimos. El número de usuarios prácticamente no incrementará, resultando en los siguientes números en el último mes de este difícil período:
 
@@ -226,7 +225,7 @@ En este escenario, la campaña de marketing ha resultado muy rentable, pues se h
 
 Se podrán realizar, como máximo, 1.655 análisis al mes. Por lo tanto, se gastarán, como máximo, 3.310 puntos de la API de GraphQL.
 
-Al cabo de 12 meses, el producto captará una gran cuota de mercado, siendo este un punto de inflexión. Los ingresos incrementan mes a mes, resultando en los siguientes números en el último mes de este período:
+- Al cabo de 12 meses, el producto captará una gran cuota de mercado, siendo este un punto de inflexión. Los ingresos incrementan mes a mes, resultando en los siguientes números en el último mes de este período:
 
 - El 30% de las empresas TIC con sede en Sevilla deciden pagar alguna de nuestras suscripciones, estando el 40% de ellas interesadas en el plan más costoso:
   - 159 empresas están suscritas a nuestro plan avanzado.
@@ -285,7 +284,7 @@ Durante los 6 primeros meses, los ingresos crecerán de forma gradual, resultand
   - 53 candidatos, además de los 922 que se habían conseguido sin la campaña, utilizan nuestra aplicación.
   - 8 candidatos, además de los 74 que se habían conseguido sin la campaña, están suscritos a nuestro plan avanzado.
 
-En este escenario, la campaña de marketing ha salido rentable; no tanto como en el caso optimista, pero los beneficios han superado con creces al coste de la campaña.
+En este escenario, la campaña de marketing ha salido rentable, no tanto como en el caso optimista pero los beneficios han superado con creces al coste de la campaña.
 
 | **Rol**       | <p> </p><p>Número de usuarios (mensuales)</p> |
 | :------------ | :-------------------------------------------- |
@@ -331,7 +330,7 @@ Al cabo de 24 meses, se consolidará la base de clientes y el crecimiento se mod
 
 Se podrán realizar, como máximo, 3.047 análisis al mes. Por lo tanto, se gastarán, como máximo, 6.094 puntos de la API de GraphQL.
 
-Para calcular el **Coste Total de Propiedad (TCO)** tendremos en cuenta los costes de puesta en marcha, los de marketing, los asociados a las 9 semanas de desarrollo y los costes operativos mensuales, considerando las siguientes condiciones iniciales:
+Para calcular el Coste Total de Propiedad (TCO) tendremos en cuenta los costes de puesta en marcha, los asociados a las 9 semanas de desarrollo y los costes operativos mensuales, considerando las siguientes condiciones iniciales:
 
 - Establecemos nuestra hora básica de servicio en 15 €.
 - Los cálculos se harán tomando como referencia el escenario realista de los 6 primeros meses, ya que el marco temporal serán las 9 semanas de ejecución y el primer mes posterior al desarrollo.
@@ -357,8 +356,6 @@ Son todos los costes relativos al plan de marketing, que incluyen las campañas 
 | LinkedIn Ads - Empresas   | 600,00€        |
 | LinkedIn Ads - Candidatos | 400,00€        |
 | **Total**                 | **1.000,00 €** |
-
-El formato de anuncios, en el caso de la campaña para empresas, será contenido patrocinado y Text Ads. En el caso de la campaña para candidatos, InMails patrocinados y contenido patrocinado.
 
 ### <a name="_vvewq7jwuq3n"></a> Costes de desarrollo
 
@@ -388,14 +385,14 @@ Para calcular los costes de personal, poniendo como ejemplo el rol de gerente de
 
 Teniendo en cuenta que las peticiones a la API de GraphQL no son un problema, ya que difícilmente sobrepasaremos los 5.000 puntos por hora incluso en el escenario más optimista, para elegir la licencia de GitHub más conveniente debemos tener en cuenta los minutos mensuales que necesitaremos GitHub Actions.
 
-Teniendo en cuenta que somos 15 personas, el workflow tarda en ejecutarse no más de dos minutos y no estimamos superar el commit diario por miembro, difícilmente superaremos los 900 minutos y nos quedaremos significativamente lejos del límite de 3.000 minutos que ofrece GitHub Pro, lo que nos dará un margen importante en los meses donde la carga de trabajo sea mayor e incluso si el número de miembros del equipo crece con el paso del tiempo.
+Teniendo en cuenta que somos 15 personas, el workflow tarda en ejecutarse no más de dos minutos y no estimamos superar el commit diario por miembro, por lo que difícilmente superaremos los 900 minutos y nos quedaremos significativamente lejos del límite de 3.000 minutos que ofrece GitHub Pro, lo que nos dará un margen importante en los meses donde la carga de trabajo sea mayor e incluso si el número de miembros del equipo crece con el paso del tiempo.
 
 | **Coste total de desarrollo** | **25.196,4 €** |
 | :---------------------------- | -------------: |
 
 ### <a name="_y0zmy03no5iy"></a> Costes operativos (por mes)
 
-Son todos los costes necesarios para mantener el software en funcionamiento una vez que se ha completado el proyecto. Para el cálculo consideraremos que todos los trabajadores han tenido jornadas de 8 horas, 5 días a la semana, durante cuatro semanas; es decir, la condición inicial del primer mes operativo es que los trabajadores han trabajado 160 horas cada uno.
+Son todos los costes necesarios para mantener el software en funcionamiento una vez que se ha completado el proyecto. Para el cálculo consideraremos que todos los trabajadores han tenido jornadas de 8 horas, 5 días a la semana, durante cuatro semanas; es decir, la condición inicial del primer mes de mantenimiento es que los trabajadores han trabajado 160 horas cada uno.
 
 Además, estimamos tener 312 usuarios registrados, por lo que se habrán validado 468 correos electrónicos. El plan pro de la API de Validect, que es la que utilizamos para validar los correos, ofrece 3000 validaciones mensuales.
 
@@ -462,7 +459,7 @@ Figura 9. Distribución del TCO
 | Servidores          | 37,56 €              |
 | **Total**           | **37.152,46 €**      |
 
-Ahora vamos a calcular el **retorno de la inversión (ROI)** para los tres escenarios (optimista, pesimista y realista). Se comenzará mostrando los ingresos obtenidos en varios puntos de referencia (6 meses, 1 año y 2 años), para luego detallar la evolución desde el primer mes.
+Ahora vamos a calcular el **retorno de la inversión (ROI)** para los tres escenarios (optimista, pesimista y realista).
 
 Comenzamos con el escenario **optimista**, calculando los ingresos que estimamos obtener al sexto mes:
 
@@ -508,7 +505,7 @@ El número de usuarios es muy superior, por lo que durante este periodo (del sex
 | **Coste total operativo** | **13.404,90 € / mes** |
 | :------------------------ | --------------------: |
 
-Más adelante se podrá comprobar, detalladamente, en qué mes se recalculó el coste mensual operativo, así como los ingresos y gastos desde el primer mes. En este punto, la empresa factura considerablemente más de lo que gasta y ya se ha recuperado con creces la inversión.
+La empresa factura considerablemente más de lo que gasta. En este punto, ya se ha recuperado con creces la inversión.
 
 Para finalizar, analizamos los ingresos que estimamos obtener al vigesimocuarto mes:
 
@@ -726,8 +723,7 @@ PERT = (Optimista + (4x Realista) + Pesimista) / 6 -> (3 + (4x8) + 11)/6 = 7,66 
 - Identificar causas del aumento de usuarios, analizar en profundidad la nueva situación y considerar diferentes medidas, como por ejemplo:
   - Implementar nuevas funcionalidades que satisfagan al tipo de público que está aumentando la carga del sistema.
   - Ofrecer nuevos niveles de suscripción o paquetes premium para maximizar los ingresos.
-  - Contratar más personal para dar soporte a la nueva carga de usuarios.
-  - Contratar alguna campaña de marketing para que el aumento sea aún mayor.
+  - Contratar más personal para dar soporte a esa nueva carga de usuarios.
 
 **Plan de acción en caso de disminución de usuarios:**
 
@@ -773,11 +769,11 @@ Estos planes han sido determinados tras un minucioso análisis de mercado. El **
 
 El **plan avanzado** supera con creces las características ofrecidas por el plan básico. En lugar de hacer sentir al usuario que necesita actualizar su plan porque el básico le es insuficiente, buscamos que los usuarios que utilicen frecuentemente la aplicación quieran actualizar al plan avanzado porque **sus características son ampliamente superiores** y podrían tener una experiencia de uso aún mejor.
 
-El **plan personalizado** tiene el objetivo de que las empresas contacten con nuestro equipo para negociar un plan que se ajuste a sus necesidades concretas. Creemos que será un escenario común, puesto que ofrecemos varias cosas diferentes y, en lugar de plantear un nuevo plan con características impuestas, muchas empresas querrán seleccionar qué características de entre las disponibles necesitan, y en qué medida.
+El **plan personalizado** tiene el objetivo de que las empresas contacten con nuestro equipo para negociar un plan que se ajuste a sus necesidades concretas. Creemos que será un escenario común, puesto que ofrecemos varias cosas diferentes y, en lugar de elegir un plan intermedio con características impuestas, muchas empresas querrán seleccionar qué características de entre las disponibles necesitan.
 
 ### Candidatos
 
-<a name="_5ol0mjrnt5fj"></a>La monetización seguirá un modelo de **suscripción mensual**, y se ha llegado a esta conclusión por motivos similares al caso anterior. Al igual que con las empresas, creemos que la **mensualidad** es adecuada, ya que el objetivo del candidato al utilizar la aplicación es encontrar empleo, y difícilmente pagará una anualidad si existe la posibilidad de que lo encuentre mucho antes. Al ofrecer funcionalidadesmuy relacionadas con la búsqueda de empleo, es natural que el usuario deje de pagar cuando encuentre uno (aunque se tratará de evitar, especialmente a través de las campañas de marketing).
+<a name="_5ol0mjrnt5fj"></a>La monetización seguirá un modelo de **suscripción mensual**, y se ha llegado a esta conclusión por motivos similares al caso anterior. Al igual que con las empresas, creemos que la **mensualidad** es adecuada, ya que el objetivo del candidato al utilizar la aplicación es buscar empleo, y difícilmente pagará una anualidad si existe la posibilidad de que encuentre empleo mucho antes. Al no ofrecer funcionalidades que no tengan relación con la búsqueda de empleo, es natural que el usuario deje de pagar cuando encuentre uno.
 
 Ofrecemos los siguientes planes de pago:
 
