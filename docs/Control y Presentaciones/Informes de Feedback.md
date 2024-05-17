@@ -35,11 +35,11 @@ VILAPLANA DE TRÍAS, FRANCISCO DAVID
 
 ZARZUELA REINA, CARLOS
 
+<a name="_pg8quxt9d0oa"></a> Sevilla, Mayo 2024
 
+### Entregable: WPL
 
-### Entregable: S2
 ### Grupo 01 (Mañana) - IT Talent
-
 
 # <a name="_z05qqri5g3tk"></a>Control de Versiones
 
@@ -51,7 +51,14 @@ ZARZUELA REINA, CARLOS
 |v1.2|20/02/24|Paco|Adición de contenido de la 3a semana|
 |v1.3|27/02/24|Paco|Adición de contenido de la 4a semana|
 |v1.4|05/03/24|Paco|Adición de contenido de la 5a semana|
-|v1.5|21/03/24|Paco|Adición de contenido de la 7a semana|
+|v1.5|13/03/24|Paco|Adición de contenido de la 6a semana|
+|v1.6|21/03/24|Paco|Adición de contenido de la 7a semana|
+|v1.7|03/04/24|Paco|Adición de contenido de la 8a semana|
+|v1.8|10/04/24|Paco|Adición de contenido de la 9a semana|
+|v1.9|24/04/24|Paco|Adición de contenido de la 10a semana|
+|v1.10|01/05/24|Paco|Adición de contenido de la 11a semana|
+|v1.11|07/05/24|Paco|Adición de contenido de la 12a semana|
+
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
 <a name="_30j0zll"></a>En este documento se recoge todo el feedback semanal recibido por parte de profesores y alumnos el día de la presentación a cada uno de los grupos, el feedback para nuestro equipo y las tareas que no pueden faltar de una semana a otra
