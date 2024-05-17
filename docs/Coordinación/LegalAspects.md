@@ -1,20 +1,19 @@
-<div style={{ display: 'flex' }}>
+﻿<div style={{ display: 'flex' }}>
   <img src="/img/TalentLOGO.png" alt="Imagen 1" style={{ width: '50%', height: 'auto' }} />
   <img src="/img/USLOGO.png" alt="Imagen 2" style={{ width: '30%', height: '30%' }} />
 </div>
 
 ## <center>Ingeniería del Software y Práctica Profesional - Universidad de Sevilla</center>
 
-
 LÓPEZ MOYANO, ROCÍO         - Creación
 
 MATEOS GÓMEZ, FERNANDO JOSÉ - Edición
 
+<a name="_pg8quxt9d0oa"></a> Sevilla, Mayo 2024
 
+### Entregable: WPL
 
-### Entregable: S2
 ### Grupo 01 (Mañana) - IT Talent
-
 
 
 A continuación se va a analizar los aspectos legales que afectan a la aplicación de IT Talent, basándonos en el [Reglamento General de Protección de Datos](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32016R0679) **(RGPD)** una ley de la Unión Europea que regula la protección de datos personales de los individuos dentro de la Unión Europea y el Espacio Económico Europeo.
