@@ -43,6 +43,7 @@ ZARZUELA REINA, CARLOS
 |**Versión**|**Fecha**|**Autor**|**Cambios**|
 | :- | :- | :- | :- |
 |v1.0|02/05/2024|Mario Izquierdo y Francisco David Vilaplana|Finalización de la primera versión del documento|
+|v1.0|04/05/2024|Ismael Herrera|Arreglo de errores|
 |||||
 
 ## <a name="_lj1qgmxpo5ez"></a>**Resumen del documento**
