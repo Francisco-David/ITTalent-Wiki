@@ -188,8 +188,7 @@ La actividad con respecto a los usuarios piloto de candidatos quedará registrad
 |10/05/2024|Grupo 7|Rubén Casal Ferral, Carlos Zarzuela Reina y Alejandro Merino Palama hacen de usuarios piloto para el grupo 7|
 |15/05/2024|Grupo 7|**Entregamos la demo del WPL** con el changelog al grupo 7|
 |18/05/2024|Grupo 7|**Recibimos feedback** del grupo 7|
-||||
-||||
+
 
 
 # <a name="_rzhl9kraf9b1"></a> 3. Plan de Acción

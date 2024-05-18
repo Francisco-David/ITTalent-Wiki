@@ -129,7 +129,7 @@ La prioridad puede ser _muy baja_, _baja_, _neutral_, _alta_ o _muy alta_. Esta 
 |[#430](https://github.com/JaviFdez7/ISPP-G1-Talent/issues/430)|Mejorar foto de perfil|Cargar foto de perfil desde local.|TO DO|
 |[#434](https://github.com/JaviFdez7/ISPP-G1-Talent/issues/434)|Acceso a _Trends_|Que los trends sean accesibles solo por el plan de suscripcion adecuado.|DONE|
 
-## <a name="_4vr4b9yuuwpy"></a>**5.4 Demo 3.1**
+## <a name="_4vr4b9yuuwpy"></a>**Demo 3.1**
 - Feedback de candidatos:
 
 
