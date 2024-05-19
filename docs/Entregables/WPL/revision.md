@@ -163,7 +163,7 @@ Antes de comenzar a probar la aplicación, es posible que necesite los siguiente
 - URL de Clockify(Monitorización del tiempo) durante el WLP: https://app.clockify.me/shared/664a20211a83b43f357064fe
 - URL de Clockify(Monitorización del tiempo) durante todo el proyecto: https://app.clockify.me/shared/662f6eaffae1af0dd272ade7
 - URL de la base de conocimiento del grupo: https://it-talent-wiki.vercel.app/docs/intro
-- URL de el vídeo de la DEMO: FALTA
+- URL de el vídeo de la DEMO: https://youtu.be/ah3kY45EoWI?si=ezsvZngnmuw1knNS
 - URL de la presentación final: https://www.canva.com/design/DAGErf6bQ3Y/6ZPeML4VGT4VoPQ2jQUMuw/view?utm_content=DAGErf6bQ3Y&utm_campaign=designshare&utm_medium=link&utm_source=editor
 - URL del LinkTree con nuestras redes sociales: [https://linktr.ee/it_talent_oficial](https://linktr.ee/it_talent_oficial)
 
