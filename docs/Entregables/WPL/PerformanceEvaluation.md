@@ -450,7 +450,7 @@ Individual Contribution Summary
       
 - López Moyano, Rocio:
 
-    - 
+    - Repaso de las presentaciones finales, creación y publicación de contenido para redes sociales (instagram), audios para la demo. 	
       
 - Montero Martínez, Francisco Jesús:
 
