@@ -160,11 +160,11 @@ Antes de comenzar a probar la aplicación, es posible que necesite los siguiente
 - URL de la plataforma de despliegue: https://ispp-g1-talent-frontend.vercel.app/
 - URL de GitHub: https://github.com/JaviFdez7/ISPP-G1-Talent
 - URL de la herramienta de seguimiento: https://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https:%2F%2Freporter.bluejay.governify.io%2Fapi%2Fv4%2Fdashboards%2Ftpa-ISPP-2024-GH-JaviFdez7_ISPP-G1-Talent%2Fmain&orgId=1
-- URL de Clockify(Monitorización del tiempo): [<https://app.clockify.me/shared/663916a4963af9639f188d0b>](https://app.clockify.me/shared/663916a4963af9639f188d0b)
+- URL de Clockify(Monitorización del tiempo) durante el WLP: https://app.clockify.me/shared/664a20211a83b43f357064fe
+- URL de Clockify(Monitorización del tiempo) durante todo el proyecto: https://app.clockify.me/shared/662f6eaffae1af0dd272ade7
 - URL de la base de conocimiento del grupo: https://it-talent-wiki.vercel.app/docs/intro
-- URL de el vídeo de la DEMO: [https://www.youtube.com/watch?v=pO7UgLfbFnk&ab_channel=ITTalent](https://www.youtube.com/watch?v=pO7UgLfbFnk&ab_channel=ITTalent)
-- URL de la presentación principal de 10 minutos: https://www.canva.com/design/DAGD7mAl7Ow/4XOWvSces44dYk9pCMcRmQ/view?utm_content=DAGD7mAl7Ow&utm_campaign=designshare&utm_medium=link&utm_source=editor
-- URL de la presentación de marketing de 5 minutos: https://www.canva.com/design/DAGD7rbfE2Y/a82hvRh3gV_8V-pfwndBVA/view?utm_content=DAGD7rbfE2Y&utm_campaign=designshare&utm_medium=link&utm_source=editor
+- URL de el vídeo de la DEMO: FALTA
+- URL de la presentación final: https://www.canva.com/design/DAGErf6bQ3Y/6ZPeML4VGT4VoPQ2jQUMuw/view?utm_content=DAGErf6bQ3Y&utm_campaign=designshare&utm_medium=link&utm_source=editor
 - URL del LinkTree con nuestras redes sociales: [https://linktr.ee/it_talent_oficial](https://linktr.ee/it_talent_oficial)
 
 Además, es posible que necesite estas credenciales:
