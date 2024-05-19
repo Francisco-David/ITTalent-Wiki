@@ -88,7 +88,7 @@ En este documento se especifican las contribuciones a la base de conocimientos d
 
 [Semana 12 ](#_b9ljviz0epcb7)
 
-# 1. Contribuciones
+# <a name="_3znysh7"></a> 1. Contribuciones
 Para las contribuciones se llega a un acuerdo de que cada semana será un grupo el encargado de recoger todo el feedback general de esa sesión y desplegarlo en la página <https://bgcc.vercel.app/>. Pero cada grupo tendrá como encargo semanalmente subir el feedback de su propio grupo, además de revisar el general en busca de posibles carencias en este.
 
 ## Feedback del grupo 1
@@ -304,7 +304,7 @@ Para las contribuciones se llega a un acuerdo de que cada semana será un grupo 
 1. Los datos de impresiones deben estar en el WPL actualizados, quedan muy bien.
 
 
-<a name="_tyjcwt"></a>**Feedback general**
+## <a name="_tyjcwt"></a> **FEEDBACK GENERAL**
 
 ------------------------------------------
 **Presentadores**
@@ -711,3 +711,24 @@ Se arreglan una serie de bugs reportados por los usuarios pilotos.
 **Presentador**
 
 Fernando se encargará de tener un micrófono para él en la presentación o de alzar la voz en caso de no ser posible un segundo micrófono. También se trabaja evitar términos más técnicos durante la presentación como Capex, Opex, Matchmaking... En su lugar se usaran otros como por ejemplo "Coste Operacional".
+
+
+
+## <a name="_b9ljviz0epcb7"></a>**Semana 12**
+
+**Presentación**
+
+Se van a imprimir varios reportes con las estadistícas de los github de cuentas de la universidad. Fernando se preocupará de mantener un volumen alto durante el killer opener (no tiene micro de momento). Por último se eliminan términos de la presentación que no entienda algún espectador ajeno a la asignatura de ISPP y se añaden las impresiones de las RRSS para el WPL.
+
+**DEMO**
+
+Se han aplicado cambios sobre la DEMO tras recibir el feedback de la semana pasada (música triste...)
+
+**Anuncio de inversores**
+
+Se eliminan incoherencias de la imagen y el diálogo que se vieron en el PPL.
+
+**Marketing**
+
+Se elimina la keyword "Team Building".
+
