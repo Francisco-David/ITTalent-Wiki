@@ -145,7 +145,7 @@ Para un uso más transparente e interactivo, le recomendamos usar la aplicación
 ||#475 Clase W14|00:45:00|0.75|
 ||#465 Clase de la W13|03:50:00|3.83|
 ||#487 Clase semana 15 (presentación final)|02:00:00|2.00|
-|Andrés Domínguez Ruiz||01:29:20|1.49|
+|Andrés Domínguez Ruiz|https://app.clockify.me/shared/664b8b4b6d89bb6f3892411f|01:29:20|1.49|
 ||Revisar backend|00:59:20|0.99|
 ||Review PPL|00:30:00|0.50|
 |Total (07/05/2024 - 21/05/2024)||230:10:26|230.17|
